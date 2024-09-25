@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Lead Section Summary",
+    "description": "Summarize the person's life and works in a balanced manner, ensuring that controversial information does not overshadow their overall contributions. The summary must reflect the content of the entire article neutrally.",
+    "applicable_sections": [
+      "Lead section"
+    ]
+  },
+  {
+    "name": "Historical Perspective on Recent Events",
+    "description": "When discussing notable recent events, provide perspective by balancing this information with relevant historical context, giving appropriate weight to both recent and long-standing details.",
+    "applicable_sections": [
+      "Lead section"
+    ]
+  },
+  {
+    "name": "Death Information in the Lead",
+    "description": "If the subject has passed away, include a concise death date or a single sentence about the death in the lead without significantly altering the overall structure, unless it is critical for notability.",
+    "applicable_sections": [
+      "Lead section"
+    ]
+  },
+  {
+    "name": "Content of the Opening Paragraph",
+    "description": "Craft the opening paragraph to neutrally introduce the individual, providing essential context and establishing their notability without excessive detail overcrowding the first sentence.",
+    "applicable_sections": [
+      "Opening paragraph"
+    ]
+  },
+  {
+    "name": "First Sentence Requirements",
+    "description": "The first sentence must include the person's full name, birth and death dates (if applicable), relevant context, and key reasons for notability, presented succinctly.",
+    "applicable_sections": [
+      "First sentence"
+    ]
+  },
+  {
+    "name": "Birth Date and Place Format",
+    "description": "Format birth and death dates as day-month-year when relevant. Location details should be included in the body of the article rather than in the lead.",
+    "applicable_sections": [
+      "Birth date and place"
+    ]
+  },
+  {
+    "name": "Contextual Clarity",
+    "description": "The lead paragraph should clarify the context of the individual's notability, focusing on relevant contemporary or historical factors without unnecessary emphasis on ethnicity or previous nationalities.",
+    "applicable_sections": [
+      "Context"
+    ]
+  },
+  {
+    "name": "Describing Positions and Roles",
+    "description": "Clearly state the person's noteworthy positions and roles in the lead, ensuring the introduction remains focused and free of incidental information.",
+    "applicable_sections": [
+      "Positions and roles"
+    ]
+  },
+  {
+    "name": "Handling Criminal Acts",
+    "description": "Avoid using criminal terms in the first sentence; instead, describe the specifics of the crime, especially when it relates directly to the person's notability.",
+    "applicable_sections": [
+      "Criminal acts"
+    ]
+  },
+  {
+    "name": "Proper Name Usage",
+    "description": "Utilize the most widely recognized form of the person's name at the start of the article, following naming conventions for clarity and disambiguation.",
+    "applicable_sections": [
+      "Names"
+    ]
+  },
+  {
+    "name": "Text Formatting for Names",
+    "description": "Adhere to English formatting standards for personal names, steering clear of unusual capitalization and letter substitutions, and only bold nicknames when appropriate.",
+    "applicable_sections": [
+      "Text formatting"
+    ]
+  },
+  {
+    "name": "Initial Mention of Full Name",
+    "description": "State the full name of the individual in the lead sentence at the first mention to maintain a balance between information and readability.",
+    "applicable_sections": [
+      "First mention"
+    ]
+  },
+  {
+    "name": "Alternative Names in the Lead",
+    "description": "Include alternative names or nicknames in the lead only if they are frequently cited by reliable sources, avoiding an excess of uncommon or irrelevant alternatives.",
+    "applicable_sections": [
+      "Alternative names"
+    ]
+  },
+  {
+    "name": "Anachronistic Naming",
+    "description": "Apply names appropriate to the subject's time period when making historical references and avoid using anachronistic terms in biographies.",
+    "applicable_sections": [
+      "Anachronistic names"
+    ]
+  },
+  {
+    "name": "Changed Names Consideration",
+    "description": "Mention birth names when significant and include details about any legal name changes, considering privacy concerns for living individuals.",
+    "applicable_sections": [
+      "Changed names"
+    ]
+  },
+  {
+    "name": "Names with Suffixes",
+    "description": "Use generational or regnal suffixes only when they appear commonly in reliable sources, ensuring no unnecessary punctuation precedes them.",
+    "applicable_sections": [
+      "Generational and regnal suffixes"
+    ]
+  },
+  {
+    "name": "Subsequent Use Reference",
+    "description": "After the initial mention, refer to the individual by surname only, and avoid using honorifics or titles unless they are standard usage in reliable sources.",
+    "applicable_sections": [
+      "Subsequent use"
+    ]
+  },
+  {
+    "name": "Tense Usage",
+    "description": "Use present tense for living individuals and past tense for those who have passed away, maintaining consistent tense usage throughout the biography.",
+    "applicable_sections": [
+      "Tense"
+    ]
+  },
+  {
+    "name": "Out-of-date Material",
+    "description": "Refrain from including time-sensitive statements to ensure the biography remains accurate and current, employing templates for references to ongoing events.",
+    "applicable_sections": [
+      "Out-of-date material"
+    ]
+  },
+  {
+    "name": "Chronological Order",
+    "description": "Structure the biography chronologically, detailing events from birth to death in sequential sections as applicable.",
+    "applicable_sections": [
+      "Order of events"
+    ]
+  },
+  {
+    "name": "Handling of Sexuality",
+    "description": "Do not overemphasize the individual's sexuality in the lead unless it has direct relevance to their notability.",
+    "applicable_sections": [
+      "Sexuality"
+    ]
+  },
+  {
+    "name": "Gender Identity and Deadnaming",
+    "description": "Utilize names and pronouns that reflect the individual's most recent self-identification and avoid mentioning deadnames unless the person is notable under that name.",
+    "applicable_sections": [
+      "Gender identity"
+    ]
+  },
+  {
+    "name": "Authority Control Placement",
+    "description": "Position authority control identifiers at the end of biographical articles, above the default sort, to link associated data.",
+    "applicable_sections": [
+      "Authority control"
+    ]
+  }
+]

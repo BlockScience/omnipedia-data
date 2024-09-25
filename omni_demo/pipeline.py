@@ -2,7 +2,7 @@ import os
 import json
 import re
 import logging
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import List, Dict
 from dotenv import load_dotenv
 from openai import OpenAI
@@ -10,12 +10,10 @@ from openai import OpenAI
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 from openai import OpenAIError  # Correct way to import OpenAIError
 
-
 load_dotenv()
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
 
 @dataclass
 class Requirement:
@@ -29,6 +27,22 @@ class StyleGuide:
     """Represents the entire style guide with its requirements."""
     requirements: List[Requirement]
 
+    def save_requirements(self, filename: str):
+        """Save requirements to a JSON file."""
+        data = [
+            {
+                "name": req.name,
+                "description": req.description,
+                "applicable_sections": req.applicable_sections
+            }
+            for req in self.requirements
+        ]
+        
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        
+        logger.info(f"Requirements saved to {filename}")
+
 @dataclass
 class Article:
     """Represents a Wikipedia article."""
@@ -41,6 +55,7 @@ class EvaluatedSection:
     section: str
     score: float
     feedback: str
+    applicable_requirements: List[Dict] = field(default_factory=list)
 
 class LanguageModel:
     """Wrapper for interacting with the OpenAI API."""
@@ -98,7 +113,6 @@ class StyleGuideProcessor:
         ]
         """
         response = self.llm.prompt(prompt)
-        # logger.info("Raw response: %s", response)
 
         try:
             cleaned_response = response.strip().strip('```json').strip('```')
@@ -121,7 +135,6 @@ class StyleGuideProcessor:
         Return ONLY the result in the same JSON format as the input, without any additional text or formatting.
         """
         response = self.llm.prompt(prompt)
-        # logger.info("Raw response: %s", response)
 
         try:
             cleaned_response = response.strip().strip('```json').strip('```')
@@ -158,7 +171,6 @@ class Section:
 
     def __repr__(self):
         return f"Section(title={self.title}, content={self.content}, images={self.images}, links={self.links}, subsections={self.subsections})"
-
 
 class ArticleParser:
     """Parses Wikipedia articles into a structured format."""
@@ -215,7 +227,6 @@ class ArticleParser:
         section_content = {section.title: '\n'.join(section.content) for section in sections.values()}
         return Article(title=title, sections=section_content)
 
-
 class ArticleEvaluator:
     """Evaluates an article against the extracted requirements."""
 
@@ -228,7 +239,7 @@ class ArticleEvaluator:
         for section, content in article.sections.items():
             applicable_reqs = [r for r in self.requirements if section in r.applicable_sections]
             score, feedback = self._evaluate_section(section, content, applicable_reqs)
-            evaluated_sections.append(EvaluatedSection(section, score, feedback))
+            evaluated_sections.append(EvaluatedSection(section, score, feedback, [req.__dict__ for req in applicable_reqs]))
         return evaluated_sections
 
     def _evaluate_section(self, section_name: str, content: str, requirements: List[Requirement]) -> (float, str):
@@ -267,6 +278,7 @@ class Omnipedia:
         with open(article_path, 'r') as file:
             article_text = file.read()
         article = ArticleParser.parse(article_text)
+        print(f"Article title: {article.sections}")
         return self.evaluator.evaluate(article)
 
     def generate_report(self, evaluated_sections: List[EvaluatedSection]) -> str:
@@ -283,7 +295,6 @@ class Omnipedia:
         Format the report with markdown for readability.
         """
         response = self.llm.prompt(prompt)
-        # logger.info("Raw response: %s", response)
         return response
 
     def save_evaluated_sections(self, evaluated_sections: List[EvaluatedSection], filename: str):
@@ -292,7 +303,8 @@ class Omnipedia:
             {
                 "section": es.section,
                 "score": es.score,
-                "feedback": es.feedback
+                "feedback": es.feedback,
+                "applicable_requirements": es.applicable_requirements
             }
             for es in evaluated_sections
         ]
@@ -304,8 +316,12 @@ class Omnipedia:
 
 def main():
     try:
-        omnipedia = Omnipedia("data/style.txt")
-        evaluated_sections = omnipedia.evaluate_article("data/article.md")
+        omnipedia = Omnipedia("data/style2.txt")
+        
+        # Save requirements to a JSON file
+        omnipedia.style_guide.save_requirements("requirements.json")
+        
+        evaluated_sections = omnipedia.evaluate_article("data/article2.md")
         omnipedia.save_evaluated_sections(evaluated_sections, "evaluated_sections.json")
 
         # Uncomment the following lines to generate and print a report
@@ -316,4 +332,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

@@ -33,7 +33,7 @@ def convert_with_pandoc(input_text):
     return converted_text
 
 def main():
-    input_file_path = "data/article.txt"  # Update this path to your MediaWiki file
+    input_file_path = "data/article2.txt"  # Update this path to your MediaWiki file
     mediawiki_content = read_file(input_file_path)
 
     # Write original MediaWiki content to a file
@@ -43,7 +43,7 @@ def main():
 
     # Convert and write Markdown content to a file
     markdown_content = convert_with_pandoc(mediawiki_content)
-    markdown_output_path = "output_markdown.md"
+    markdown_output_path = "article2.md"
     write_file(markdown_output_path, markdown_content)
     print(f"Converted Markdown content written to: {markdown_output_path}")
 

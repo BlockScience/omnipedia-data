@@ -1,0 +1,578 @@
+{{redirect|WP:NAMES|names of articles|Wikipedia:Article titles|usernames|Wikipedia:Username policy|articles about names|Wikipedia:Name pages}}
+{{pp-vandalism|small=yes}}
+{{style-guideline|WP:MOSBIO|MOS:BIO|MOS:BLP|sortkey=Biographies}}
+{{Style}}
+
+This page sets out guidelines for achieving visual and textual consistency in biographical articles and in biographical information in other articles; such consistency allows Wikipedia to be used more easily. While this guideline focuses on biographies, its advice pertains, where applicable, to all articles that mention [[Wikipedia:Naming conventions (people)|people]]. 
+
+{{Crossref|printworthy=y|For a short summary, see [[WP:Biography dos and don'ts]].}}
+
+==Lead section <span class="anchor" id="LEADBIO"></span>==
+{{shortcut|MOS:LEADBIO|MOS:BLPLEAD}}
+{{More|WP:Manual of Style/Lead section|WP:Biographies of living persons}}
+The lead section should summarise with [[Wikipedia:Neutral point of view#Due and undue weight|due weight]] the life and works of the person. When writing about controversies in the lead section of a biography, [[Wikipedia:What Wikipedia is not#Wikipedia is not an indiscriminate collection of information|relevant]] material should neither be suppressed nor allowed to overwhelm: always pay scrupulous attention to reliable sources, and make sure the lead correctly reflects the entirety of the article. Write clinically, and let the facts speak for themselves. These concerns are especially pressing for [[Wikipedia:Biographies of living persons|biographies of living persons]].
+
+Well-publicized recent events affecting a subject, whether controversial or not, should be kept in historical perspective. What is most recent is not necessarily what is most [[WP:NOTEWORTHY|noteworthy]]: new information should be carefully balanced against old, with [[Wikipedia:Neutral point of view#Undue weight|due weight]] accorded to each.
+
+When a subject dies, the lead need not be radically reworked; [[Wikipedia:What Wikipedia is not#Wikipedia is not a blog, web hosting service, social networking service, or memorial site|Wikipedia is not a memorial site]]. Unless the cause of death is itself a reason for notability, a single sentence describing the death is usually sufficient, and often none is included in the lead at all, just a death date.
+
+===Opening paragraph <span class="anchor" id="Open"></span>===
+{{shortcut|MOS:FIRSTBIO|MOS:OPENPARABIO}}
+MoS guidelines for [[Wikipedia:Manual of Style/Lead section#Opening paragraph|opening paragraph]]s and [[Wikipedia:Manual of Style/Lead section#First sentence|lead sentence]]s should generally be followed. The opening paragraph of a biographical article should neutrally describe the person, provide context, establish [[Wikipedia:Notability|notability]] and explain why the person is notable, and reflect the balance of reliable sources.
+
+====First sentence====
+The first sentence should usually state:
+# Name(s) and [[#Titles of people|title]](s), if any {{crossref|printworthy=y|(see also [[WP:Naming conventions (royalty and nobility)]])}}. Handling of the subject's name is covered below in {{crossref|printworthy=y|{{section link||First mention}}}}.
+# Dates of birth and death, if found in [[Wikipedia:No original research#Primary, secondary and tertiary sources|secondary sources]] (do not use [[Wikipedia:Biographies of living persons#Privacy of personal information and using primary sources|primary sources for birth dates of living persons]] or other private details about them).
+# Context (location, nationality, etc.) for the activities that made the person notable.
+# One, or possibly more, [[Wikipedia:Notability#General notability guideline|noteworthy]] positions, activities, or roles that the person is mainly known for, avoiding [[Wikipedia:Manual of Style/Words to watch#Puffery|subjective]] or [[Wikipedia:Manual of Style/Words to watch#Contentious labels|contentious]] terms.
+# The main reason the person is [[Wikipedia:Notability (people)|notable]] (key accomplishment, record, etc.)
+However, try to not overload the first sentence by describing everything notable about the subject; instead, spread relevant information over the lead paragraph. 
+
+First sentence examples: {{ANCHOR|First sentence examples}}
+* '''Cleopatra VII Philopator''' ({{lang-grc-gre|Κλεοπάτρα Φιλοπάτωρ}}; 69 – August 12, 30&nbsp;BC) was queen of the [[Ptolemaic Kingdom]] of Egypt, and its last active ruler.
+* '''Francesco Petrarca''' ({{IPA|it|franˈtʃesko peˈtrarka|lang}}; July 20, 1304 – July 19, 1374), commonly [[anglicized]] as '''Petrarch''' ({{IPAc-en|ˈ|p|iː|t|r|ɑr|k|,_|ˈ|p|ɛ|-}}), was a scholar and [[poet]] of [[Italian Renaissance|Renaissance Italy]], who was one of the earliest [[Renaissance humanism|humanists]].
+* '''Cesar Estrada Chavez''' (March 31, 1927 – April 23, 1993) was an American labor leader and civil rights activist.
+* '''François Maurice Adrien Marie Mitterrand''' (26 October 1916 – 8 January 1996) was [[President of France]] from 1981 to 1995, the longest holder of that position in the [[history of France]].
+
+====Birth date and place <span class="anchor" id="Birthplace"></span><span class="anchor" id="Birthdate"></span>====
+{{shortcut|MOS:BIRTHDATE|MOS:BIRTHPLACE}}
+{{further|WP:Manual of Style/Dates and numbers#Dates of birth and death}}
+The opening paragraph should usually have dates of birth and (when applicable) death. These dates (specific day{{ndash}}month{{ndash}}year) are important information about the subject, but if they are also mentioned in the body, the vital year range (in brackets after the person's full name) may be sufficient to provide context. For living persons, privacy should be considered {{crossref|printworthy=y|(see {{section link|WP:Biographies of living persons#Privacy of personal information and using primary sources}}, which takes precedence)}}.
+
+Birth and death places, if known, should be mentioned in the body of the article, and can appear in the lead if relevant to notability, but not in the opening brackets alongside the birth and death dates.
+
+Birth and death {{em|labels}} are included only when needed for clarity. When given, use full words, whether immediately preceding a date or not:
+* {{xt|'''William Alexander Spinks Jr.''' (1865–1933) was an American professional player of [[carom billiards]] in the late 19th and early 20th centuries.}} – no need for labels, and specific dates are in the article body
+* {{xt|'''Gro Harlem Brundtland''' (... born '''Gro Harlem''', 20 April 1939) is a Norwegian politician ...}} – "born" label used to introduce birth name
+
+For an approximate date or range of dates, use {{xt|c.}} (abbreviation for ''[[List of Latin phrases (C)#circa|circa]]''); at first occurrence this should be done with the template {{tlx|circa}} a.k.a. {{tlx|c.}}, which explains the abbreviation: {{c.|1457}}. When the only date known for a historical subject is a date (or range) when they were alive, {{xt|fl.}} for {{Language with name/for|la|[[floruit]]|he/she flourished}} is used; at first occurrence the {{tlx|floruit}} a.k.a. {{tlx|fl.}} template produces similar output: {{fl.|1432}}.
+
+For full details on how to format simple and complex dates and ranges, {{crossref|printworthy=y|see {{section link|WP:Manual of Style/Dates and numbers#Chronological items}}}}.
+
+Beyond the first paragraph of the lead section, birth and death details should only be included after a name if there is special contextual relevance. Abbreviations like {{xt|b.}} and {{xt|d.}} can be used, if needed, when space is limited (e.g., in a table) and when used repetitively (e.g., in a list of people). Birthdate information can be included in lists, directly to the right of the name, in parentheses, using the following format:
+* John Smith (1900–1990), doctor, lawyer and politician
+* Sally Wong (born 1984), ice skater
+
+====Context====
+{{shortcut|MOS:CONTEXTBIO|MOS:ETHNICITY|MOS:CITIZEN|MOS:NATIONALITY}}
+{{redirect|WP:ETHNICITY|text=You may be looking for [[WP:WikiProject Anthropology]], [[WP:WikiProject Sociology]], or [[WP:Race and ethnicity]]}}
+The opening paragraph should usually provide context for that which made the person notable. In most modern-day cases, this will be the country, region, or territory where the person is currently a [[Citizenship|national]] or permanent resident; or, if the person is notable mainly for past events, where the person was such when they became notable. {{crossref|printworthy=y|(For guidance on historic place names versus modern-day one, see {{section link|WP:Naming conventions (geographic names)#Use modern names}}.)}}
+
+[[Ethnic group|Ethnicity]], religion, or [[Sexual orientation|sexuality]] should generally not be in the lead unless relevant to the subject's notability. Similarly, neither previous [[nationalities]] nor the country of birth should be mentioned in the opening paragraph unless relevant to the subject's notability.{{efn|1=There is no categorical preference between describing a person as British rather than as English, Scottish, or Welsh. Decisions on which label to use should be determined through discussions and consensus. The label must not be changed arbitrarily. To come to a consensus, editors should consider how reliable sources refer to the subject, particularly UK reliable sources, and whether the subject has a preferred nationality by which they identify.}}
+
+A [[Wikipedia talk:Manual of Style/Biography/2018 archive#RfC on use of Spanish regional identity in biography leads|2018 RfC]] on Spanish regional identity in the lead resulted in consensus to use the regional identity that reliable sources use most often and with which the subject identifies.
+
+{{crossref|printworth=y|(See also {{section link||WP:WikiProject Indigenous peoples of North America/Determining Native American and Indigenous Canadian identities}}.)}}
+
+=====Nationality examples=====
+The simplest example is someone who continued to reside in their country of origin:
+
+* '''[[Daniel Boone]]''' ({{OldStyleDate|November 2, 1734||October 22}}{{spaced ndash}}September 26, 1820) was an [[American pioneer]] and [[frontier]]sman
+
+The second example is someone who emigrated as a child and continued to identify as a citizen of their adopted country:
+
+* '''[[Isaac Asimov]]''' ({{circa|January 2, 1920|lk=no}} – April 6, 1992) was an American writer
+*:Per the above guidance, we do not add ethnicity ("Jewish-American") or country of birth ("Russian-born American"). These details can be introduced in the second sentence if they are of defining importance.
+
+In cases of public or relevant dual citizenship, or a career that spans a subject's emigration, the use of the word ''and'' reduces ambiguity.
+
+*'''[[Arnold Schwarzenegger]]''' (born July 30, 1947) is an Austrian and American actor, film producer, businessman, retired professional bodybuilder and politician
+*:For a politician, dual citizenship can be a political issue, so it is important to be clear and avoid ambiguity. The lead sentence here is not about ethnicity ("Austrian-American") or the country of birth ("Austrian-born American"), but rather about dual citizenship.
+
+*'''[[Peter Lorre]]''' (June 26, 1904 – March 23, 1964) was a Hungarian and American actor
+*:This is an example of a person who established a career in Europe as a Hungarian, then emigrated to the United States and was naturalized {{em|and continued his career}}, and is thus known as both a Hungarian actor and as an American actor. The use of ''and'' again prevents the introduction of ethnicity or birth.
+
+Native American and Indigenous Canadian status is based on citizenship, not ethnicity. Indigenous persons' citizenship can be listed parenthetically, or as a clause after their names. (See also [[WP:NOTCHEROKEE|WP:WikiProject Indigenous peoples of North America/Determining Native American and Indigenous Canadian identities]])
+
+*'''[[Wilma Pearl Mankiller]]''' (November 18, 1945{{spnd}}April 6, 2010) was a [[Native Americans in the United States|Native American]] activist, social worker, community developer and the first woman elected to serve as [[Tribal chief|Principal Chief]] of the [[Cherokee Nation]].
+
+Finally, in controversial or unclear cases, nationality is sometimes omitted.
+
+*'''[[Nicolaus Copernicus]]''' (19 February 1473 – 24 May 1543) was a Renaissance polymath, active as a mathematician, astronomer, and Catholic canon.
+*:[[Nicolaus Copernicus#Nationality|Copernicus's nationality]] is disputed, so it is omitted.
+
+====Positions and roles====
+{{shortcut|MOS:ROLEBIO}}
+The lead sentence should describe the person as they are commonly described by [[WP:RS|reliable sources]].
+
+The noteworthy position(s) or role(s) the person held should usually be stated in the opening paragraph. However, avoid overloading the lead paragraph with various and sundry roles; instead, emphasize what made the person notable. Incidental and non-noteworthy roles (i.e. activities that are not integral to the person's notability) should usually not be mentioned in the lead paragraph.{{efn|1=In general, a position, activity, or role should not be included in the lead paragraph if: a) the role is not otherwise discussed in the lead (per [[MOS:LEAD]], don't tease the reader), b) the role is not significantly covered in the body of the article, or, c) the role is auxiliary to a main profession of the person (e.g. do not add "textbook writer", if the person is an academic).}}
+
+Offices, titles, and positions should accompany a name only if contextually relevant, and if common nouns, should not be capitalized.
+{{crossref|printworthy=y|For particulars on different types of titles, see {{section link||Positions, offices, and occupational titles}}, below.}}
+
+Wherever possible, avoid defining a notable person, particularly in the title or first sentence, in terms of their relationships. Generally speaking, notability is not inherited; e.g. a person being the spouse or child of another notable person does not make that person notable.
+
+==== Criminal acts ====
+{{shortcut|MOS:CRIMINAL|MOS:CONVICTEDFELON}}
+Terms such as "criminal", "convicted felon", and "convicted sex offender" are imprecise, and their placement in an article's first sentence may give undue weight. It is better to describe the specific crime itself, either in the first sentence or elsewhere in the lead, as appropriate based on how central the crime is to the person's notability:{{efn|{{slink|Wikipedia_talk:Manual_of_Style/Biography/2024_archive#RfC:_"convicted_felon"_/_"convicted_sex_offender"_in_the_lead_sentence}}}}
+* '''[[John Wilkes Booth]]''' (May 10, 1838 – April 26, 1865) was an American stage actor who [[Assassination of Abraham Lincoln|assassinated]] United States President [[Abraham Lincoln]] at [[Ford's Theatre]] in Washington, D.C., on April 14, 1865.
+* [[Mary Kay Letourneau|'''Mary Katherine''' "'''Mary Kay'''" '''Fualaau''']] (previously '''Letourneau''', née '''Schmitz'''; January 30, 1962 – July 6, 2020) was an American teacher who pleaded guilty in 1997 to two counts of felony [[statutory rape|second-degree rape of a child]].
+* '''[[Rolf Harris]]''' (30 March 1930 – 10 May 2023) was an Australian musician, television personality, painter, and actor. He often used unusual instruments like the [[didgeridoo]] and the [[Stylophone]] in his performances, and is credited with the invention of the [[wobble board]]. He was convicted in England in 2014 of the [[sexual assault#England and Wales|sexual assault]] of four underage girls, which effectively ended his career.{{efn|{{slink|Talk:Rolf_Harris/Archive_4#RfC:_Referring_to_subject_as_"convicted_child_sex_offender"_in_the_opening_sentence_of_the_lede}}}}
+* ''Later mentions'': '''[[Martha Stewart]]'''—second paragraph. '''[[Nicolas Sarkozy]]'''—fifth paragraph.
+
+==Names <span class="anchor" id="NAMES"></span><span class="anchor" id="BIONAMES"></span><span class="anchor" id="NAME"></span><span class="anchor" id="BIONAME"></span><span class="anchor" id="NAMEBIO"></span><span class="anchor" id="NAMESBIO"></span>==
+{{shortcut|MOS:NAME|MOS:NAMES}}
+{{see also|WP:Naming conventions (people)|WP:Manual of Style/Lead section#Alternative names}}
+Most of the examples throughout this section illustrate usage in the title sentence, but are generally applicable to personal names in any encyclopedic text unless the advice provided is explicitly about the lead section at the subject's own biographical article.
+
+Most recent personal names have but one correct spelling for a particular individual, although presentation (use of initials, middle names, nicknames, etc.) can vary and still be correct. In these cases, it is best to use a recognizable form. The most complete name should appear at the beginning of the article to provide maximum information. Inclusion of middle names or initials when they are widely known, can be a useful form of disambiguation if there is more than one person known by that name. This can be particularly useful in disambiguating family members with very similar names (e.g., [[George W. Bush]], [[George P. Bush]], [[George H. W. Bush]]). However, if the person is conventionally known by only their first and last names and disambiguation is not required, any middle names should be omitted. When a non-English personal name is written in a romanised form, it is encouraged to include the authentic spelling of the name at least once. For a person who has a biographic article, a link to that may suffice.
+
+Names from history are less certain as to spelling, and the further back one goes the less particular societies were about exactness, so variations are more likely. Reliable sources on history should be consulted when a decision about naming must be made or a controversy arises. A readily accessible and authoritative source for the accepted name of a person who has written books, or who has been written about, is the [http://authorities.loc.gov/ US Library of Congress Authorities database], which provides the accepted name and variant names used by the British Library, the National Library of Canada, and other English-language libraries. [[WP:Redirect|Redirect]] pages can ensure that all variants lead to the desired article.
+
+===Unusual exceptions===
+{{shortcut|MOS:BIOEXCEPT}}
+Exceptions to the guidance in the [[MOS:NAME|Names section]] are only made when:
+* the person has [[Wikipedia:Verifiability#Self-published or questionable sources as sources on themselves|clearly declared]] and consistently used a preferred exceptional style for their own name; {{em|and}}
+* an overwhelming majority of reliable sources use that exceptional style.
+
+In such a case, treat it as a [[Wikipedia:Naming conventions (people)#Self-published name changes|self-published name change]].
+
+Examples:
+: [[danah boyd|{{xt|danah boyd}}]]&nbsp;– lowercase&nbsp;– but not [[E.&nbsp;E. Cummings|{{!xt|e&nbsp;e cummings}}]]
+: [[k.d. lang|{{xt|k.d. lang}}]]&nbsp;– lowercase, with unspaced initials
+: [[Megan Thee Stallion|{{xt|Megan Thee Stallion}}]]&nbsp;– variant spelling of ''The'', capitalized mid-name&nbsp;– but not [[Cedric the Entertainer|{{!xt|Cedric The Entertainer}}]]
+: [[CC Sabathia|{{xt|CC Sabathia}}]], and [[CCH Pounder|{{xt|CCH Pounder}}]]&nbsp;– unspaced initials with no dots
+: [[Dedee Pfeiffer|{{xt|Dedee Pfeiffer}}]]&nbsp;– spelled-out initials for ''Dorothy Diane''
+: [[Rose ffrench, 1st Baroness ffrench|{{xt|Rose ffrench, 1st Baroness ffrench}}]]&nbsp;– [[Word-initial ff|word-initial ''ff'']] used by that family
+
+Such exceptions are determined by consensus and source research at a particular article, and do not generalize across an entire category of subjects (e.g. other academics, singer-songwriters, sportspeople, actors, nobility, or groups).
+
+[[Wikipedia:Redirect|Redirects]] to such an article should exist from other forms of the name that readers might search for, especially the form that complies with the Manual of Style's defaults (for the above cases: [[Danah Boyd]], [[K.&nbsp;D. Lang]], [[Megan the Stallion]], [[C.&nbsp;C. Sabathia]], [[C.&nbsp;C.&nbsp;H. Pounder]], [[D.&nbsp;D. Pfeiffer]], [[Rose Ffrench]] and [[Rose Ffrench, 1st Baroness Ffrench]]).
+
+For unusual name presentations, usually in the sphere of performer marketing, that straddle the line between an individual's name and a trademark (e.g. [[Deadmau5|{{xt|Deadmau5}}]], versus {{!xt|Ke$ha}} for [[Kesha|{{xt|Kesha}}]]), {{crossref|printworthy=y|see [[WP:Manual of Style/Trademarks]]}}.
+
+===Text formatting===
+{{shortcut|MOS:NAMEFMT}}{{seealso|Wikipedia:Manual of Style/Lead section#Format of the first sentence|Wikipedia:Manual of Style/Lead section#Bolding of title and alternative names|label1=Manual of Style/Lead section § Format of the first sentence|label2=§ Bolding of title and alternative names}}
+English-language text formatting and capitalization norms apply to the names of individuals and groups, including bands, troupes, teams/squads, and families. Avoid unusual text formatting, such as over-capitalization and letter substitutions, [[#THENICKNAME|including for nicknames]], [[Wikipedia:Manual of Style/Trademarks#General rules|stage names and other trademarks]] ([[Kesha (singer)|{{xt|Kesha}}]] not {{!xt|Ke$ha}}). 
+
+{{anchor|NICKBOLD|NICKCRUFT}}{{shortcut|MOS:NICKBOLD}}Common nicknames, aliases, and variants are usually [[Wikipedia:Manual of Style/Lead section#MOS:BOLDALTNAMES|given in boldface in the lead]], especially if they redirect to the article, or are found on a disambiguation page or [[WP:Hatnote|hatnote]] and link from those other names to the article. Boldface is not needed for obscure names, for a long list or for repeated names; embolden only the first instance. For example:
+
+*{{!xt|'''Spiro Theodore Agnew''' (November 9, 1918 – September 17, 1996) was the 39th vice president... '''Agnew''' was born...}}
+*{{xt|'''Spiro Theodore Agnew''' (November 9, 1918 – September 17, 1996) was the 39th vice president... Agnew was born...}}
+
+{{Anchor|THENAME|NAMETHE}}{{Shortcut|MOS:THENAME}}While English typically retains a leading ''The'' in the name of a published work, even when grammatically awkward ({{xt|Stephen King's ''The Shining''}}), this is not done otherwise (use {{xt|a Beatles song}} not {{!xt|a the Beatles song}}).
+*Use [[Cedric the Entertainer|{{xt|'''Cedric the Entertainer'''}}]] not {{!xt|Cedric The Entertainer}}
+*Use [[Dwayne Johnson|{{xt|'''Dwayne "the Rock" Johnson'''}}]] not {{!xt|Dwayne "The Rock" Johnson}}
+*In running text, the team is [[Miami Heat|{{xt|the Miami Heat}}]], not {{!xt|The Miami Heat}}, except at the beginning of a sentence.{{efn|name=Sentence case}}
+
+{{Crossref|printworthy=y|(For additional guidance on the use of capitals, see {{section link|WP:Manual of Style/Capital letters#Personal names}}. For groups of various sorts, see also: [[WP:Manual of Style/Trademarks]]; {{section link|WP:Manual of Style/Music#Names (definite article)}}; {{section link|WP:Manual of Style/Capital letters#Institutions}}; {{section link|WP:Manual of Style/Capital letters#Proper names}}.)}}
+
+===First mention===
+{{shortcut|MOS:FULLNAME}}
+While the article title should generally be the name by which the subject is most commonly known, the subject's full name, if known, should usually be given in the lead sentence (including middle names, if known, or middle initials). Many cultures have a tradition of not using the full name of a person in everyday reference, but the article should start with the complete version in most cases. For example:
+* ''From [[Fidel Castro]]:'' {{xt|'''Fidel Alejandro Castro Ruz''' (August 13, 1926{{snd}}November 25, 2016)&nbsp;...}}
+But remember that editors need to balance the desire to maximize the information available to the reader with the need to maintain readability. For example, the case of [[Special:PermanentLink/1155991361|Muammar Gaddafi]].
+
+* {{!xt|1='''Muammar Muhammad Abu Minyar al-Gaddafi''' ({{lang-ar|معمر محمد أبو منيار القذافي}}; {{IPAc-en|ˈ|m|oʊ|.|ə|m|ɑr|_|ɡ|ə|ˈ|d|ɑː|f|i}}; {{circa|1942}}{{spaced ndash}}20 October 2011), also known as '''Colonel Gaddafi''', was a Libyan politician, revolutionary, and political theorist.}}
+
+The sentence seems to contain unnecessary clutter&nbsp;– a more readable form would be preferable. In addition, more relevant information should be included instead of alternative or very long names, which can be spread out in the paragraph, lead, or kept just in the body. Consider moving some details into a footnote:
+
+* {{xt|1='''Muammar Gaddafi'''{{efn|{{Lang-ar|مُعمّر محمد أبو منيار القذّافي}}; {{lang-ar|معمر محمد ابو منيار القذافي|Muʿammar Muḥammad ʾAbū Minyār al-Qaḏḏāfī|label=[[Modern Standard Arabic]]}}, {{IPA|ar|muˈʕamːar alqaˈðːaːfi|IPA|Ar-Muammar al-Qaddafi.ogg}} }} ({{circa|1942}}{{spaced ndash}}20 October 2011) was a Libyan politician, revolutionary, and political theorist who ruled [[Libya]] from 1969 until his assassination. Born '''Muammar Muhammad Abu Minyar al-Gaddafi''',...}}<br />
+
+But remember, it's on a case by case basis and subject to [[Wikipedia:Consensus|consensus]].
+
+===Alternative names===
+{{seealso|Wikipedia:Manual of Style/Lead section#Alternative names|label1=Manual of Style/Lead section § Alternative names}}
+
+{{anchor|BADNICK}}{{Shortcut|MOS:BIOALTNAME}} Nicknames and other aliases included must be frequently used by reliable sources in reference to the subject. For any kind of alternative name, use formulations like the following (as applicable):
+* {{xt|'''Timothy Alan Dick''' (born June 13, 1953), known professionally as '''Tim Allen'''}}
+* {{xt|'''Alessandro di Mariano di Vanni Filipepi''' (c. 1445 – May 17, 1510), better known as '''Sandro Botticelli'''}}
+* {{xt|'''Ariadna Thalía Sodi Miranda''' (born 26 August 1971), known [[mononym]]ously as '''Thalía'''}} 
+
+{{shortcut|MOS:BADNICK}}Alternative names that are sourceable but not generally known to the public (e.g., a childhood nickname, a [[hypocorism]] only used in private life, or a term of spousal endearment revealed in an in-depth biographical book) are [[Wikipedia:What Wikipedia is not#Wikipedia is not an indiscriminate collection of information|not encyclopedic]]. Highlighting uncommon or disputed appellations in the lead section gives them [[Wikipedia:Neutral point of view#Due and undue weight|undue weight]], and may also be a more general [[Wikipedia:Neutral point of view|neutrality]] problem if the phrase is laudatory or critical. Examples:
+
+*A sports journalist's one-off reference to a player as "{{!xt|the Atlanta panther}}" in [[purple prose]] does not constitute a nickname, and treating it as one is [[Wikipedia:No original research|original research]].
+*"[[Tricky Dick]]" does not appear in the lead of [[Richard Nixon]]; this label by his political opponents is covered, with context, in the article body.
+
+{{shortcut||MOS:NICKCRUFT}}Alternative names that are not well known to our readers may not need to be in the lead at all. Excessive non-English language details can make the lead sentence difficult to understand. {{efn|Criminals often use multiple aliases; ones unfamiliar to the public should generally not be in the lead section. Various rulers and other nobility have often had numerous variant names in different languages. Avoid clogging the lead with a boldfaced litany of these; reserve them for an appropriate place in the body of the article, in an infobox or language sidebar, or in footnotes.}}
+Examples: 
+{| class="wikitable"
+|-
+|{{tick|15}} {{xt|'''Genghis Khan''' or '''Chinggis Khaan''' (born '''Temüjin'''; c. 1162 – August 18, 1227) was the founder of the Mongol Empire.}}<br>
+|-
+|{{cross|15}} {{!xt|'''Genghis Khan''' or '''Chinggis Khaan''' ({{lang-mn|Чингис хаан|Çingis hán}}; {{zh|t=成吉思汗|w=Ch'eng<sup>2</sup>-chi<sup>2</sup>-szu<sup>1</sup> Han<sup>4</sup>|p=Chéngjísī Hán|first=t}}; c. 1162 – August 18, 1227), born '''Temüjin''' ({{lang|mn|Тэмүжин}} ''Temüjin''; {{zh|t=鐵木真|s=铁木真|w=T'ieh<sup>3</sup>-mu<sup>4</sup>-chen<sup>1</sup>|p=Tiěmùzhēn|first=t}}), was the founder of the Mongol Empire.}}<!--Real example; this excess detail was moved out of the lead sentence.--><br />
+|-
+|{{tick|15}} {{xt|'''Joseph John Aiuppa''' (December 1, 1907 – February 22, 1997), also known as "Joey O'Brien" and later as "Joey Doves", was a Chicago mobster.}}<br>
+|-
+|{{cross|15}} {{!xt|'''Joseph John Aiuppa''' (December 1, 1907 – February 22, 1997), also known as "'''Joey O'Brien'''", "'''Joey O.'''", "'''O'Brien'''", "'''Joey Doves''''", "'''Joey the Doves'''", and "'''Mourning Doves'''", was a Chicago mobster.}}
+|-
+|*The various nicknames are mostly how other mobsters&nbsp;– not so much the reliable sources&nbsp;– referred to Joey Aiuppa, and only two of them were widely reported, the rest being minor variants.
+|}
+
+{{anchor|THENICKNAME|NICKNAMETHE}}{{shortcut|MOS:THENICKNAME}}
+A leading [[Wikipedia:Manual of Style/Capital letters#Capitalization of The|"the" is not capitalized]] in a nickname, pseudonym, or other alias (except when the alias begins a sentence{{efn|name=Sentence case|1=Wikipedia uses [[sentence case]] for sentences, [[WP:Article titles|article titles]], [[WP:Manual of Style/Layout|section titles]], [[WP:Manual of Style/Tables|table headers]], [[WP:Manual of Style/Images|image captions]], [[WP:Manual of Style/Lists|list entries]] (in most cases), and entries in [[WP:Infobox|infoboxes]] and similar templates, among other things. Any instructions in MoS about the start of a sentence apply to items using sentence case.<!-- Please keep this footnote synched with the version at the main WP:MOS page.-->}}):
+* ''Use:'' [[Jack Tatum|{{xt|Jack "the Assassin" Tatum}}]]; or: {{xt|Jack Tatum, nicknamed "the Assassin"}}
+* ''Avoid:'' {{!xt|Jack "The Assassin" Tatum}}; and: {{!xt|Jack Tatum, nicknamed "The Assassin"}}
+
+====Anachronistic names====
+A person named in an article of which they are not the subject should be referred to by the name they used at the time being described. For example, Pope John Paul I was known as Albino Luciani before he was elevated to the papacy, so material about the time before he became pope should use that name. In some cases, it is helpful to the reader to clarify, e.g., {{xt|Albino Luciani (later to become [[Pope John Paul I]])}}. The principle of avoiding anachronistic naming is also usually employed in the subject's own biography (including that of John Paul I), especially when the article is no longer a short [[Wikipedia:Stub|stub]].
+
+====Changed names====
+{{Shortcut|MOS:BIRTHNAME|MOS:CHANGEDNAME}}
+{{Redirect|WP:CHANGEDNAME|the general article title guideline|WP:NAMECHANGES}}
+{{See also|WP:Naming conventions (people)#Self-published name changes}}
+In some cases, a subject may have changed their full name at some point after birth. In these cases, the birth name may be given in the lead as well, if relevant:{{efn|1=Wikipedia may consider that marginally notable living persons (e.g., subjects in the public eye only due to a single event) [[Wikipedia:Biographies of living persons#Privacy of personal information and using primary sources|have privacy interests in their birth names]]. Such concerns are not raised by biographies of the deceased, nor [[#Gender identity|in most cases]] those of major public figures who are still living.}}
+* ''From [[Jack Benny]]:'' {{xt|'''Jack Benny''' (born '''Benjamin Kubelsky''', February 14, 1894&nbsp;– December 26, 1974)&nbsp;...}}
+* ''From [[Bill de Blasio]]:'' {{xt|1='''Bill de Blasio''' ({{IPAc-en|d|ɪ|ˈ|b|l|ɑː|z|i|oʊ}}; born '''Warren Wilhelm Jr.''', May 8, 1961)&nbsp;...}}
+
+Specific guidelines apply to living<!-- and recently deceased -- Re-add that wording after the [[WP:VPPOL]] RfC about this settles out in Dec. 2023 or Jan. 2024.--> transgender and non-binary people {{crossref|printworthy=y|(see {{section link||Gender identity}}, below)}}.
+
+=====Multiple changed names=====
+{{Shortcut||MOS:MULTIPLENAMES|MOS:MULTINAMES}}
+In other cases, a subject may have changed name multiple times.{{efn|1=Wikipedia uses names as reported by [[Wikipedia:Reliable sources|reliable sources]], without regard to [[Legal name change|legal status]] of a name.  Numerous professional names are not legal names, and whether a name change has been legally formalized has no bearing on its use in or exclusion from an article.  Some effective name changes are retrospective, involving no action on the part of the subjects to whom they refer; e.g., the spelling ''Rameses'' now dominates in modern sources over the formerly more common ''Ramses'', in reference to various ancient Egyptian figures.  {{crossref|printworthy=y|See also: {{section link|WP:Article titles#Use commonly recognizable names}}.}}}}
+
+Multiple former names may be mentioned in the lead, [[Wikipedia:Manual of Style/Lead section#BOLDSYN|boldfaced]] if they redirect to the article.  However, it is not always appropriate to list every previous name of a subject, only the birth name and those that were in use during the period of notability:
+* {{!xt|'''Bill de Blasio''' (born '''Warren Wilhelm Jr.''', May 8, 1961)&nbsp; is a politician&nbsp;.... He was briefly known as '''Warren de Blasio-Wilhelm'''&nbsp;...}}
+The names should be distributed throughout the lead to mark major transitions in the subject's life:
+* {{xt|'''Augustus''' (63&nbsp;BC&nbsp;– 14&nbsp;AD) was a Roman emperor&nbsp;.... He was born '''Gaius Octavius Thurinus''' into a wealthy family&nbsp;.... He assumed the name '''Octavian''' after his adoption&nbsp;...}}
+
+=====Surnames=====
+{{anchor|NE|NEE|Né|Née}}{{shortcut|MOS:NE|MOS:NEE}}
+If a subject changed their [[surname]] (last name) for whatever reason (e.g., marriage, adoption, personal preference), then their surname at birth should generally also be given in the lead. Editors may denote this with "born" followed by the subject's surname or full name; for name changes due to marriage, they may also use [[née]] (feminine) and [[né]] (masculine) followed by the surname, provided the term is linked at first occurrence. The templates {{tlx|nee}} and {{tlx|ne}} provide this linking and do not require typing the {{char|é}} character.
+
+Some practical examples:
+* ''From [[Courtney Love]]:'' {{xt|'''Courtney Michelle Love''' ([[née]] '''Harrison'''; born July 9, 1964) is an American singer, songwriter, actress&nbsp;...}}
+* ''From [[Hillary Clinton]]:'' {{xt|'''Hillary Diane Rodham Clinton''' ([[née]] '''Rodham'''; October 26, 1947) is an American politician and diplomat&nbsp;...}}
+* ''From [[Jack White]]:'' {{xt|'''John Anthony White''' ([[né]] ''' Gillis'''; born July 9, 1975) is an American musician, singer, songwriter&nbsp;...}}
+* ''From [[Barbara Flynn]]:'' {{xt|'''Barbara Flynn''' (born '''Barbara Joy McMurray''', 5 August 1948) is an English actress&nbsp;...}}
+
+====Pseudonyms and stage names <span class="anchor" id="PSEUDONYM"></span><span class="anchor" id="HYPOCORISM"></span><span class="anchor" id="LEGALNAME"></span><span class="anchor" id="NICKNAME"></span><span class="anchor" id="Pseudonyms"></span>====
+{{anchor|Pseudonyms, stage names, nicknames, hypocorisms, and common names}}
+{{shortcut|MOS:PSEUDONYM|MOS:LEGALNAME}}
+
+For people who are best known by a [[pseudonym]], the [[legal name]] should usually appear first in the article, followed closely by the pseudonym. Follow this practice even if the article itself is titled with the pseudonym:
+* {{xt|'''Louis Bert Lindley Jr.''' (June 29, 1919 – December 8, 1983), better known by the [[stage name]] '''Slim Pickens'''}}
+
+Investigation in [[Wikipedia:Identifying reliable sources|reliable sources]] may be needed to determine whether a subject known usually by a pseudonym has actually changed their legal name to match (e.g., Reginald Kenneth Dwight formally changed his name to [[Elton John|Elton Hercules John]] early in his musical career). Where this is not the case, and where the subject uses a popular form of their name in everyday life, then care must be taken to avoid implying that a person who does not generally use all their forenames or who uses a familiar form has actually changed their name. Do ''not'' write, for example:
+* {{!xt|'''John Edwards''' (born '''Johnny Reid Edwards''', June 10, 1953)}}.
+
+====Hypocorisms====
+{{shortcut|MOS:HYPOCORISM}}
+It is not always necessary to spell out why the article title and lead paragraph give a different name. If a person has a common English-language [[hypocorism]] (diminutive or abbreviation) used in lieu of a given name,{{efn|name=CommHypo|1=Consider as a "common" hypocorism one that shortens in a conventionalized way, sometimes also with a diminutive suffix added, and which is derived from a name frequently used in English-speaking countries, e.g. ''Liz'', ''Beth'', ''Lizzy'', ''Bettie'', etc., from ''Elizabeth''. If it is not conventional, it is not "common" (e.g. ''Nifer'' from ''Jennifer''). Short forms that differ significantly from the name may be non-hypocoristic nicknames, depending on the particular case. A few such forms are well-known common hypocorisms, such as ''Bob'' for ''Robert'' and ''Bill'' for ''William'', but most are not (e.g. ''Reba'' for ''Rebecca''). Assume that most non-English hypocorisms (e.g. ''Lupita'' for ''Guadalupe'', ''Mischa'' for ''Mikhail'', ''Sascha'' for ''Alexander'' or ''Zuzka'' for ''Zuzana'') are not familiar as hypocorisms to readers of the English Wikipedia, even if well-known in their native culture.}} it is {{em|not}} presented between quotation marks or parentheses within or after their name. Example:
+* ''Use:'' [[Bill Gates|{{xt|'''William Henry Gates III'''}}]]
+* ''Avoid:'' {{!xt|'''William Henry''' "'''Bill'''" '''Gates III'''}}
+
+====Nicknames====
+{{seealso|Wikipedia:Manual of Style/Biography#Alternative names|label1= § Alternative names}}<!--This link is intended to mitigate and provide proper connection after moving shortcuts to this section which were previously linked to info that was moved to another section-->
+{{anchor|QUOTENAME}}{{shortcut|MOS:NICKNAME|MOS:NICK|MOS:QUOTENAME}}If a person is known by a [[nickname]] used in lieu of or in addition to a given name, and it is not a common hypocorism{{efn|name=CommHypo}} of one of their names, or a professional alias, it is usually presented between double quotation marks following the last given name or initial. The quotation marks are not put in [[WP:Manual of Style/Lead section#Format of the first sentence|lead-section boldface]]. Example:
+* ''From [[Bunny Berigan]]:'' {{xt|'''Roland Bernard''' "'''Bunny'''" '''Berigan'''}}.
+* ''From [[Tina Fey]]:'' {{xt|'''Elizabeth Stamatina''' "'''Tina'''" '''Fey'''}}.
+
+Do not cram multiple hypocorisms and nicknames into the name in the lead sentence; complicated naming should be explained separately.
+* ''Poor, confusing example'': {{!xt|'''William Emery "Emory, Spunk" Sparrow''' (September 15, 1897 – February 2, 1965) was a Canadian professional ice hockey forward....}}
+* ''Clear rewrite'': {{xt|'''William Emery Sparrow''' (September 15, 1897 – February 2, 1965) was a Canadian professional ice hockey forward.... As a professional player, he spelled his name Emory, and was commonly known by the nickname '''Spunk Sparrow'''.}} (The article title is [[Emory Sparrow]], already establishing that as the common, primary name.)
+
+A nickname can eventually become a professional alias, even the [[Wikipedia:Article titles#Use commonly recognizable names|most common name]] for a person. In this case, it is within quotation marks only if it first introduces the nickname in mid-name in the lead. Otherwise, it loses the quotation marks. If the nickname is dominant (in general or in a particular context) it can often be used in other articles without further elaboration. Example:
+* ''From [[Magic Johnson]]:'' {{xt|'''Earvin''' "'''Magic'''" '''Johnson Jr.''' (born August 14, 1959) is ... a basketball player.}} {{xt|Magic Johnson left Michigan State after his sophomore season to enter the NBA draft}}.
+
+If a nickname is used in place of the subject's entire name, it is usually given separately:
+* {{xt|'''Alphonse Gabriel Capone'''&nbsp;... sometimes known by the nickname "'''Scarface'''"}}.
+*''[[Dr. Ruth]]'' and ''[[Dr. Drew]]'' {{crossref|printworthy=y|(covered in more detail in {{section link||Academic or professional titles and degrees}}, below)}} are trademarks; though they originated as informal nicknames, they do not require quotation marks.
+**''From [[Ruth Westheimer]]'': {{xt|'''Karola Ruth Westheimer''' ({{née}} '''Siegel'''; born June 4, 1928), better known as '''Dr. Ruth''', is a...}}
+
+Nicknames should not be re-presented with additional name parts unless necessary for usage clarity.
+* ''Use:'' [[Earl Strickland|{{xt|Earl "the Pearl" Strickland}}]]; or: {{xt|Earl Strickland, nicknamed "Earl the Pearl"}}<!--Example is important because he is not just called "the Pearl".-->
+* ''Avoid:'' {{!xt|Earl Strickland, nicknamed "Earl the Pearl" Strickland}}
+
+===Initials===
+{{Shortcut|MOS:INITS|MOS:INITIALS|MOS:SPACEINITS}}
+{{See also|WP:Naming conventions (people)#Middle names and initials}}
+
+Use initials in a personal name{{efn|[[WP:Requested moves]] has consistently interpreted the "Initials" section as also applying to names of fictional characters. Its application to human names used as trademarks (e.g. {{nowrap|[[J. C. Penney]]}}) is also typical, and consistent with [[WP:Manual of Style/Trademarks]].}} only if the name is commonly written that way.
+
+An initial is capitalized and is followed by a [[full point]] (period) and a space (e.g. {{nowrap|[[J. R. R. Tolkien]]}}).
+
+In article text, a space after an initial (or an initial and a full point) and before another initial should be a non-breaking space: <code>J.{{mxt|&amp;nbsp;}}R.{{mxt|&amp;nbsp;}}R. Tolkien</code> (or use the {{tlx|nbsp}} template). This also works inside links ( <code><nowiki>[[</nowiki>J.{{mxt|&amp;nbsp;}}R.{{mxt|&amp;nbsp;}}R. Tolkien<nowiki>]]</nowiki></code>) and citation template parameters ({{para|first|J.{{mxt|&amp;nbsp;}}R.{{mxt|&amp;nbsp;}}R.}}), though {{em|only}} with <code>&amp;nbsp;</code> markup, {{em|not}} the template. An alternative is {{tlx|nowrap}} around the entire initials string, but this must not be used inside citation template paramters.
+
+Initials in other languages are sometimes treated differently from usual English practice. For example, a name beginning with two letters representing a single sound is treated as a single two-character initial in some European languages (e.g., {{xt|Th.}} for {{xt|Theophilus}}), and hyphenated given names are sometimes abbreviated with the hyphen ({{xt|J.-P.}} for {{xt|Jean-Pierre}}). If reliable sources consistently use such a form for a particular person, use it on Wikipedia as well.
+
+Avoid formerly common multi-letter abbreviations used in English as a shorthand in letter-writing, genealogies, etc. (examples: {{!xt|Geo.}} = {{xt|George}}; {{!xt|Jno.}} = {{xt|John}}; {{!xt|Jna.}} = {{xt|Jonathan}}; {{!xt|Thos.}} = {{xt|Thomas}}; {{!xt|Jas.}} = {{xt|James}}, {{!xt|Chas.}} = {{xt|Charles}}), except in quotations and as they survive in trademarks ([[Geo. Hall & Sons|{{xt|Geo. Hall & Sons}}]]). E.g., refer to the author as {{xt|George W. Proctor}}, though some of his books have {{!xt|Geo. W. Proctor}} on the cover (the alternative form should [[Wikipedia:Redirect|redirect]] to his article).
+
+With initials, it is not necessary to spell out why the article title and lead paragraph give a different name. For example, [[H.&nbsp;P. Lovecraft]] has that title, {{xt|H.&nbsp;P. Lovecraft}} appears in his [[Template:Infobox person|infobox]], and his lead sentence just gives {{xt|'''Howard Phillips Lovecraft'''&nbsp;... was an American writer&nbsp;...}}, without "explaining" to the reader what ''H.&nbsp;P.'' stands for. Initials are not [[#Pseudonyms, stage names, nicknames, hypocorisms, and common names|nicknames]]; do not put them in quotation marks or insert them in mid-name, as in {{!xt|John Thomas Smith better known as {{nowrap|"J. T."}} Smith}} or {{!xt|John Thomas {{nowrap|(J. T.)}} Smith}}.
+
+{{crossref|printworthy=y|(For unusual exceptions, see [[#Unusual exceptions|below]].)}}
+
+===Generational and regnal suffixes <span class="anchor" id="Child named for parent or predecessor"></span>===
+{{shortcut|MOS:JR|MOS:SR|MOS:REGNAL|MOS:JUNIOR|MOS:JRSR}}
+{{Redirects|MOS:SR|style guidelines regarding self-references in articles|MOS:SELFREF}}
+{{See also|WP:Naming conventions (people)#Junior/Senior – the Younger/the Elder – Ordinals}}
+Using ''Jr.'', ''Sr.'', or other such distinctions, including in the lead sentence of an article, is {{em|only}} for cases in which the name with the [[Suffix (name)#Generational titles|suffix]] is commonly used in reliable sources. 
+
+Do not put a comma before ''Jr.'', ''Sr.'' (or variations such as ''Jnr''), or a [[Roman numeral]] name suffix, whether it is [[patronymic]] or [[Regnal number|regnal]]: use {{xt|Otis D. Wright II}}, not {{!xt|Otis D. Wright, II}}.
+
+When the surname is shown first, the suffix follows the given name, as {{xt|Kennedy, John F. Jr.}} or {{xt|Wright, Otis D. II}}.{{efn|Index-order: Place "Jr." and the like after the given name(s); do not append to the surname ({{!xt|Kennedy Jr., John F.}}) especially in citations, as this pollutes the surname metadata with extraneous information and will also alter the sorting order, placing the "Kennedy Jr." entry after all simple "Kennedy" entries.}} When the given name is omitted, omit the suffix&nbsp;–{{xt|Kennedy}}, not {{!xt|Kennedy Jr.}}&nbsp;– except where the context requires disambiguation. If necessary, explain in longer form which party is meant, e.g. {{xt|The younger Jackson was elected mayor of Wolverham in 1998.}}
+
+The French {{lang|fr|fils}} ('son') and {{lang|fr|père}} ('father') can be used for subjects for whom this usage is typical in English-language works: [[Alexandre Dumas fils|{{xt|Alexandre Dumas {{lang|fr|nocat=y|fils}}}}]]. These terms are not capitalized.
+
+{{crossref|printworthy=y|See {{section link||People with the same surname}} for an additional usage note.}}
+
+===Families===
+{{Main|WP:Naming conventions (families)}}
+{{See also|WP:Manual of Style/Biography#Text formatting}}
+
+====Royal surnames====
+{{Shortcut|MOS:ROYAL}}
+{{See also|WP:Naming conventions (royalty and nobility)}}
+
+Only incorporate surnames in the opening line of royal biographies if they are known and if they are in normal use. But do not automatically presume that the name of a [[royal house]] is the personal surname of its members. In many cases it is not. For visual clarity, articles on monarchs should generally begin with the form ''"{name} {ordinal if appropriate} (full name{{snd}} but without surname; birth and death dates, if applicable)"'', and articles on other royals should generally begin with the form ''"{royal title} {name} {ordinal if appropriate} (full name{{snd}} including surname if known; birth and death dates, if applicable)''"; in both cases with the full name and dates information unformatted, but the title, name and ordinal that are outside the parenthesis, in bold. Using this format displays the most important information clearly without an unattractive excess of formatting. Other information on royal titles should be listed where appropriate in chronological order.
+
+===Subsequent use===
+{{Redirect|WP:SURNAME|surname-article issues|WP:WikiProject Anthroponymy}}
+{{Shortcut|MOS:SURNAME|MOS:LASTNAME|MOS:FAMILYNAME|MOS:MRS|MOS:MR|MOS:MS|MOS:MISS}}
+After the initial mention, a person should generally be referred to by [[surname]] only – without an [[English honorifics|honorific prefix]] such as "Mr.", "Mrs.", or "Ms.", and [[#Academic or professional titles and degrees|without academic or professional prefixes]] like "Dr.", "Prof.", "Rev.", etc. – or may be referred to by a [[personal pronoun]]. For example:
+* {{xt|Fred Smith was a Cubist painter in the early 20th century. He moved to Genoa, where he met singer Gianna Doe. Smith and Doe later married.}}
+
+However, where a person does not have a surname but a [[patronymic]] (like [[Icelandic name|many Icelanders]], [[Mongolian name|some Mongols]], and those historical persons who are known by names-and-patronymics instead of surnames), then the proper form of reference is usually the given name. {{crossref|printworthy=y|(See also {{section link||Culture-specific usages}}, below.)}} For example:
+* {{xt|Iceland's 24th prime minister was [[Jóhanna Sigurðardóttir]]. Jóhanna was elected to the Althing in 1978.}}
+
+Generally speaking, subjects should not otherwise be referred to by their [[given name]]; exceptions include royalty, e.g. [[William, Prince of Wales|{{xt|Prince William}}]] or {{xt|William}}. Any subject whose surname has changed should be referred to by their most commonly used name. If their most commonly used name includes their earlier surname, and you're discussing a period of their life before the surname change, refer to them by their prior surname. In other words, when discussing the early lives of [[Hillary Clinton|Hillary]] and [[Bill Clinton]], use "Rodham met Clinton while they were students at Yale", referring to Hillary using her then-current surname.
+
+A member of the nobility may be referred to by title if that form of address would have been the customary way to refer to him or her; for example [[Robert Dudley, 1st Earl of Leicester]], may become {{xt|the Earl of Leicester}}, {{xt|the Earl}}, or just {{xt|Leicester}} (if the context is clear enough) in subsequent mentions. For modern-day nobility it is better to use name and title; at some time in the future the [[Prince of Wales]] will be a different person than [[William, Prince of Wales]], and a great many articles risk becoming out of date. Be careful not to give someone a title too soon; for example, one should use {{xt|Robert Dudley}} or {{xt|Dudley}} when describing events before his elevation to the peerage in 1564.
+
+When a majority of [[WP:RS|reliable secondary sources]] refer to persons by a [[pseudonym]], they should be subsequently referred to by their pseudonymous surnames, unless they do not include a recognizable surname in the pseudonym (e.g. [[Sting (musician)|Sting]], [[Snoop Dogg]], [[the Edge]]), in which case the whole pseudonym is used. For people well known by one-word names, nicknames, or pseudonyms, but who often also use their legal names professionally&nbsp;– e.g., [[André 3000|André Benjamin]] ("André 3000"), [[Jennifer Lopez]] ("J.Lo"); doctor/broadcaster [[Drew Pinsky]] ("Dr. Drew")&nbsp;– use the legal surname. If they use their [[mononym]] or pseudonym exclusively, then use that name (e.g. [[Aaliyah]], [[Selena]], and [[Usher (musician)|Usher]]).
+
+For fictional entities, use common names. For example, [[Jason Voorhees|{{xt|Jason}}]], [[Luigi|{{xt|Luigi}}]], and [[Albert Wesker|{{xt|Wesker}}]].
+
+===Culture-specific usages <span class="anchor" id="Country-specific usage"></span><!--Old and technically incorrect heading name; probably has incoming links-->===
+{{Shortcut|MOS:GIVENNAME|MOS:PATRONYMIC}}
+{{See also|:Category:Hatnote templates for names}}
+* [[Burmese names]] are personal names that consist of one or more words, with no patronymic or surname. Always use the full form of the person's name. {{Crossref|printworthy=y|(See [[Wikipedia:Naming conventions (Burmese)]].)}}
+* [[Naming conventions in Ethiopia and Eritrea|Ethiopian and Eritrean]] people are almost always referred to by their given name as they do not have a family name. There are some rare exceptions to this: where the person&nbsp;– usually a member of the later generations of the [[:Category:Eritrean diaspora|Eritrean diaspora]] or [[:Category:Ethiopian diaspora|Ethiopian diaspora]]&nbsp;– has adopted the [[patronymic]] as a formal [[family name]]. Consider using the template {{tlx|Patronymic name}}.
+* [[Icelandic names|Icelandic]] people with patronymics (which is most of them) may be referred to by their given name or their given name and patronymic, but not by their patronymic alone. Consider using {{tlx|Icelandic name}}.
+* [[Wikipedia:Manual of Style/Japan-related articles#Personal names|Japanese]] historical (and some modern) figures may be conventionally known by either their  family (clan) name and their given name or their given name only but not their family name only.
+* In [[Southeast Asia|Southeast]] and [[South Asia]], many people use only a personal name, which may be followed by a [[patronymic]]; in such cases, they should be referred to by their personal name.
+* [[Mongolian names|Mongolian]] people are referred to by their given name, with their patronymic placed in front of it, usually in genitive case. There are no family names. {{crossref|printworthy=y|(For more details, see [[Mongolian name]] and [[WP:Naming conventions (Mongolian)]].)}} Consider placing {{tlx|Family name hatnote}}.
+* [[Spanish naming customs]] generally call for one or more given names followed by a patronymic then a matronymic (and the latter two may be separated by ''y'' or another article). In [[Portuguese naming customs|Portuguese names]], given names are followed by a matronymic then a patronymic. In both cases, the common name of such a person most often lacks the matronymic. Consider using {{tlx|Family name hatnote}} or {{tlx|Portuguese name}}.
+* [[Thai names|Thai]] people are almost always known and addressed by their first name (i.e. given name). Hence, on second and subsequent mentions, they should be referred to by first name alone.
+* In [[Vietnamese names]], given names also take priority over family names. The given name, not the surname, should be used to refer to the person. The given name is nevertheless placed after the family name, following the East Asian naming scheme, even when written about in English.
+
+{{Crossref|printworthy=y|See also {{section link|WP:Categorization of people#Sort by surname}}, on the proper sorting of these names.}}
+
+===People with the same surname===
+{{shortcut|MOS:SAMESURNAME}}
+To distinguish between people with the same surname in the same article or page, use [[given name]]s or complete names to refer to each of the people {{em|upon first mention}}. For subsequent uses, refer to them by their given names for clarity and brevity. When referring to the person who is the subject of the article, use {{em|just the surname}} unless the reference is part of a list of family members or if use of the surname alone will be confusing. This applies to minors as well as adults.{{efn|1=There have been repeated proposals to treat small children, or all minors, differently and to always refer to them by given name. These proposals have not gained consensus. Especially do not refer to notable minors by given name (in their own article or elsewhere) except as necessary to disambiguate from other family members.}} While citations and bibliographies should use full names even in subsequent mentions (if full names are [[WP:CITEVAR|the style for citations]] and bibliographies in the article), the body of an article should not unless confusion could result.
+
+For example, in the text of an article on [[Ronald Reagan]]:
+* ''Correct'': {{xt|Ronald and Nancy Reagan arrived separately, Ronald by helicopter and Nancy by car.}}
+* ''Correct'': {{xt|The Reagans arrived separately, Ronald by helicopter and Nancy by car.}}
+* ''Redundant'': {{!xt|Ronald and Nancy Reagan arrived separately; Ronald Reagan by helicopter and Nancy Reagan by car.}}
+
+In the text of an article about the [[Brothers Grimm]]:
+* ''Correct'': {{xt|Jacob Grimm was 14 months older than his brother Wilhelm.}}
+* ''Redundant'': {{!xt|Jacob Grimm was 14 months older than his brother Wilhelm Grimm.}}
+
+Individuals distinguished with a generational suffix can be written about in {{var|Forename}} {{var|Suffix}} style to disambiguate from other family members in the same article: {{xt|William Sr.}}, {{xt|John Jnr}}, {{xt|James III}}. No comma is used in these short constructions.
+
+If an article about a person mentions another person with the same surname who is not related by family or marriage, subsequent mentions of the other person should use the full name:
+* ''Correct'': {{xt|[[Andrea Dworkin]] was the subject of biographical writing by [[Ronald Dworkin]].}}
+In an article that is not about either unrelated person with the same surname, continue to refer to them both by their full names. Source citations, bibliographies, and in-text attributions usually include names of authors and others. Consider them when checking for people with the same surname.
+
+===Eponyms===
+{{Main|WP:Manual of Style#Eponyms}}
+[[Eponyms]] – derived usage of personal (or other) names, as in {{xt|Parkinson's disease}} – [[Wikipedia:Manual of Style#Eponyms|capitalize the name portion, aside from conventionalized exceptions]].
+
+==Titles of people==
+
+{{shortcut|MOS:PEOPLETITLES}}
+
+'''Overview''': Titles should be capitalized when attached to an individual's name, or where the position/office is a ''globally unique'' title that is the subject itself, {{em|and}} the term is the actual title or conventional translation thereof (not a description or rewording). Titles should not be capitalized when being used generically. Aside from mentioning them in the lead sentence of a biographical subject's own article, only use titles where they are necessary for clarity or identification in the context.
+
+Specifics may vary, as described in more detail below. Non-English titles are most often translated into English, but this is left to editorial discretion and may be conventionalized across a category, based primarily on usage in English-language reliable sources (e.g., recipients of German knighthoods like {{xtn|Robert Ritter von Greim}} are not translated into "{{!xt|Sir Robert Greim}}", and are usually rendered in {{xt|Robert von Greim}} form in running text; the Tibetan title [[Dalai Lama]] is far more familiar to English speakers than any literal or figurative translation.)
+
+'''{{vanchor|Hyphenation and compounds}}:''' When hyphenated and capitalized, e.g. {{xt|Vice-president}} (as it is usually spelled in contexts other than US politics), the element after the hyphen [[Wikipedia:Manual of Style#Hyphens|is not capitalized]]. When an unhyphenated compound title is capitalized (unless this is simply because it begins a sentence),{{efn|name=Sentence case}} each word begins with a capital letter: {{xt|In 1973, Vice President Agnew resigned.}} This does not apply to unimportant words, such as the ''of'' in {{xt|White House Chief of Staff John Doe}}. Do not use a hyphen, dash, or slash to fuse two titles someone holds; give them separately: {{xt|XYZCo Regional Director and Staff Counsel Janet Goldstein}}.
+
+===Positions, offices, and occupational titles <span class="anchor" id="Occupation titles"></span><span class="anchor" id="Occupational titles"></span>===
+{{shortcut|MOS:JOBTITLE|MOS:JOB|MOS:OFFICE}}
+Offices, titles, and positions such as ''president'', ''king'', ''emperor'', ''grand duke'', ''lord mayor'', ''pope'', ''bishop'', ''abbot'', ''prime minister'', ''leader of the opposition'', ''chief financial officer'', and ''executive director'' are common nouns and therefore should be in lower case when used generically: {{xt|Mitterrand was the French president}} or {{xt|There were many presidents at the meeting.}} They are capitalized only in the following cases:
+* When followed by a person's name to form a title, i.e., when they can be considered to have become part of the name: {{xt|President Nixon}}, not {{!xt|president Nixon}}; {{xt|Pope John XXIII}}, not {{!xt|pope John XXIII}}.
+* When a title is used to refer to a specific person as a substitute for their name during their time in office, e.g., {{xt|the King}}, not {{!xt|the king}} (referring to [[Charles&nbsp;III]]); {{xt|the Pope}}, not {{!xt|the pope}} (referring to [[Pope Francis|Francis]]).
+* When a formal title for a specific entity (or conventional translation thereof) is addressed as a title or position in and of itself, is not plural, is not preceded by a modifier (including a definite or indefinite article), and is not a reworded description:
+
+{| class="wikitable"|style="background:transparent"
+|- style="vertical-align: top;"
+! style="width:275pt;"<!--undersized width specification means actual column width determined by widest word/unbreakable string in the column-->| Unmodified, denoting a <em>title</em>
+! style="width:350pt;"| Modified or reworded, denoting a {{em|description}}
+|- style="vertical-align: top;"
+|{{xt|Richard Nixon was President of the United States.}}
+| {{plainlist|
+* {{xt|Richard Nixon was the president of the United States.}}
+* {{xt|Richard Nixon was a president of the United States.}}
+* {{xt|Nixon was the 37th president of the United States.}}
+* {{xt|Nixon was one of the more controversial American presidents.}}
+* {{xt|Mao met with US president Richard Nixon in 1972.}}
+* {{xt|A controversial American president, Richard Nixon, resigned.}}
+* {{xt|Camp David is a mountain retreat for presidents of the United States.}}
+}}
+|- style="vertical-align: top;"
+|{{xt|Theresa May became Prime Minister of the United Kingdom in 2016.}}
+| {{plainlist|
+* {{xt|Theresa May was the prime minister of the United Kingdom.}}
+* {{xt|Theresa May is a former prime minister of the United Kingdom.}}
+}}
+|- style="vertical-align: top;"
+|{{xt|Louis XVI became King of France and Navarre in 1774, later styled King of the French (1791–1792).}}
+| {{plainlist|
+* {{xt|Louis XVI was a king of France.}}
+* {{xt|Louis XVI was the king of France when the French Revolution began.}}
+* {{xt|The French king Louis XVI was later beheaded.}}
+}}
+|-
+|}
+
+Even when used with a name, capitalization is {{em|not required}} for commercial and informal titles: {{xt|OtagoSoft vice-president Chris Henare}}; {{xt|team co-captain Chan}}.
+
+The formality (officialness), specificity, or unusualness of a title is not a reason to capitalize it.
+
+Note that for "{{xtn|president of the United States}}" or "{{xtn|prime minister of the United Kingdom}}", the name of the country remains capitalized even when the title is not, as it is always a proper noun. When writing "{{xtn|minister of foreign affairs}}" or "{{xtn|minister of national defence}}", the portfolio should be lower-cased as it is not a proper noun on its own (i.e. write {{xt|minister of foreign affairs}} or, as a proper noun, {{xt|Minister of Foreign Affairs}}; do not write {{!xt|minister of Foreign Affairs}}).
+
+====Academic or professional titles and degrees <span class="anchor" id="Academic titles"></span><span class="anchor" id="Academic titles and degrees"></span>====
+{{shortcut|MOS:CREDENTIAL|MOS:DOCTOR|MOS:DOC|MOS:PHD}}
+{{Redirect|WP:CREDENTIALS|the use of credentials by Wikipedia editors|WP:There is no credential policy}}
+{{Redirect|MOS:PHD|the guidelines on abbreviations such as PhD|MOS:ABBR}}
+{{Redirect|MOS:DEGREE|the use of the degree symbol °|MOS:UNITSYMBOLS}} 
+[[Title#Academic titles|Academic]] or [[Title#Professional titles|professional titles]] (such as "Dr." or "Professor"), including honorary ones, should be used only with subjects of a biography that are widely known by a pseudonym or stage name containing the title (whether earned or not), and included in the pseudonym as described [[#MOS:NICKNAME|above]] (e.g. {{xt|'''Ruth Westheimer''', better known as '''Dr. Ruth'''&nbsp;...}}). However, verifiable facts about how a person attained their title should be included in the article. {{crossref|printworthy=y|(For periods (full stops) after abbreviated titles, see {{section link|WP:Manual of Style/Abbreviations#Full points (periods)}}.)}}
+
+[[Post-nominal letters]] for [[academic degrees]] following someone's name (such as {{xtn|Steve Jones, PhD}}; {{xtn|Margaret Doe, JD}}) may occasionally be used within an article where that person is not the subject, to clarify their qualifications with regard to some part of the article, although this is usually better described in wording. Avoid this practice otherwise. {{crossref|printworthy=y|See {{section link|WP:Manual of Style/Abbreviations|Contractions}}}}.
+
+===Post-nominal letters <span class="anchor" id="Post-nominal initials"></span>===
+{{seealso|WP:Manual of Style/Abbreviations#Initials|WP:Naming conventions (people)#Middle names and initials}}
+{{shortcut|MOS:POSTNOM}}
+When the subject of an article has received honours or appointments issued either by the subject's state of citizenship or residence, or by a widely recognized organization that reliable sources regularly associate with the subject, [[post-nominal letters]] may be included in the main body of the article, but not in the lead sentence of the article.<ref>[[WT:Manual of Style/Biography/2023 archive#Proposal: Moving post-nominals from lead sentences to article bodies]]</ref>
+
+The lead sentence [[Wikipedia:Manual of Style/Lead section#Usage in first sentence|should be concise]]: Academic (including honorary) degrees and professional qualifications may be mentioned in the article, along with the above, but should be omitted from the lead.
+
+Where post-nominal letters are used, they should either be separated from the name by a comma and each set divided by a comma, or no commas should be used at all. If a baronetcy or peerage is held, then commas should always be used for consistency's sake, as the former are separated from the name by a comma.
+
+Post-nominals for honours awarded by the United Kingdom (e.g. KCB, CBE) may be used as soon as they are [[The London Gazette#"Gazetted"|gazetted]]; [[investiture]] is not necessary.
+
+Post-nominals should only be mentioned at relevant places in the main body of a biography subject's own article, in an infobox parameter for post-nominals, when the post-nominals themselves are under discussion in the material, and in other special circumstances such as a list of recipients of an award or other honour. For example, "[[Brian Lara|{{!xt|Brian Lara}}]]{{!xt|&#32;{{post-nominals|list=TC OCC AM}}}}" should not appear in an article like [[Warwickshire County Cricket Club]].
+
+====Formatting post-nominals====
+{{Anchor|POSTNOMVAR}}
+Where this manual provides options, consistency should be maintained within an article unless there is a good reason to do otherwise. The [[Wikipedia:Arbitration Committee|Arbitration Committee]] has ruled that editors should not change an article from one guideline-defined style to another without a substantial reason unrelated to mere choice of style, and that revert-warring over optional styles is unacceptable.{{efn|1=See [[Wikipedia:Arbitration Committee|Arbitration Committee]] statements of principles in [[Wikipedia:Arbitration/Index/Cases|cases]] on style-related edit warring in [[Wikipedia:Requests for arbitration/Jguk#Principles|June 2005]], [[Wikipedia:Requests for arbitration/jguk 2#Principles|November 2005]], and [[Wikipedia:Requests for arbitration/Sortan#Principles|February 2006]].}} If discussion cannot determine which style to use in an article, defer to the style used in the first post-[[Wikipedia:Stub|stub]] version of the article to include a post-nominal.
+
+Editors should remember that the meaning of the most obvious (to them) post-nominal initials will not be obvious to some readers. When post-nominal initials are used, the meaning should be readily available to the reader. This may be via a wikilink to an article, or with the {{tlx|abbr}} template (or its underlying {{tag|abbr}} markup) which provides a mouse-over tooltip [[Wikipedia:Manual of Style/Abbreviations#Acronyms|expanding the abbreviation]].
+
+This is most easily done using the {{tlx|post-nominals}} template:
+* {{em|With commas}}: <code>{{mxt|<nowiki>'''Joe Bloggs''', {{post-nominals|size=100%|sep=,|country=GBR|VC|OBE}}</nowiki>}}</code> gives:&nbsp; '''Joe Bloggs''', {{post-nominals|size=100%|sep=,|VC|OBE}}
+* {{em|Without commas}}: <code>{{mxt|<nowiki>'''Joe Bloggs''' {{post-nominals|country=GBR|VC|OBE}}</nowiki>}}</code> gives:&nbsp; '''Joe Bloggs''' {{post-nominals|VC|OBE}}
+
+This template needs the {{para|size|100%}} parameter when it is used in an infobox, or its output will be [[Wikipedia:Manual of Style/Accessibility#Text|too small]]. Otherwise the {{para|size|100%}} parameter is optional with or without commas.
+
+At the least, use a [[Wikipedia:Piped link|piped link]] to an article with the appropriate title, e.g.:
+* <code>{{mxt|<nowiki>'''Joe Bloggs''' [[Victoria Cross|VC]] [[Officer of the Order of the British Empire|OBE]]</nowiki>}}</code> gives:&nbsp; '''Joe Bloggs''' [[Victoria Cross|VC]] [[Officer of the Order of the British Empire|OBE]]
+
+This ensures that readers who hover over the initials see the target article's URL as a hint and in the status bar at the bottom of the window. This manual formatting is only needed for cases where {{tnull|post-nominals}} does not handle the abbreviation in question. If there is nothing to link to, and a redlink is unlikely to result in eventual creation of an article, use the {{tlx|abbr}} template to explain the acronym. Because there is an [[Wikipedia:Manual of Style/Accessibility|accessibility]] issue with relying exclusively on such tooltip cues (touch-sensitive devices and assistive technologies generally do not utilize mouse-cursor hovering), a link is preferred when available.
+
+===Honorifics===
+{{shortcut|MOS:HON|MOS:HONOR|MOS:HONOUR|MOS:HONORIFIC}}
+{{see also|WP:Manual of Style/Islam-related articles#Islamic honorifics}}
+[[Honorific]]s and [[Royal and noble styles|styles of nobility]] should normally be capitalized, e.g., {{xt|Her Majesty}}, {{xt|His Holiness}}. They are not usually used in running text, though some may be appropriate in the lead sentence of a biographical article, as detailed below, or in a section about the person's titles and styles.
+
+====Honorific prefixes and suffixes <span class="anchor" id="Clergy"></span><span class="anchor" id="Political"></span><span class="anchor" id="Nobility"></span><span class="anchor" id="Royalty"></span><span class="anchor" id="Honorific prefixes"></span>====
+{{Shortcut|MOS:PREFIX|MOS:REVEREND}}
+
+In general, [[honorific prefixes]] and suffixes should not be included, but may be discussed in the article. In particular, this applies to:
+* styles and honorifics derived from a title, position or activity, including [[The Most Honourable]], [[The Right Honourable]], [[The Honourable]] (Hon.), His/Her Excellency, His/Her Grace, etc.;
+* styles and honorifics related to royalty, aristocracy, clergy, and sainthood, such as [[Majesty|His/Her Majesty]], [[His Holiness]], [[The Reverend]], and [[The Venerable]]. Clergy should be named as described in [[Wikipedia:Naming conventions (clergy)]].
+
+There are some exceptions:
+* Where an honorific is so [[WP:COMMONNAME|commonly attached to a name]] that the name is rarely found in English-language [[WP:RS|reliable sources]] without it, it should be included. For example, the honorific may be included for [[Mother Teresa]].
+* Where a female historical figure is consistently referred to using the name of her husband and her birth name is unknown. For example, an honorific may be used for "Mrs. Alfred Jones".
+* The [[prenominal]]s [[Sir]], [[Dame (title)|Dame]], [[Lord]], and [[Lady]] are discussed in {{crossref|printworthy=y|{{section link||Knighthoods, lordships, and similar honorific titles}}}}.
+* In [[Wikipedia:Naming conventions (Burmese)|Burmese names]], honorifics may be preserved if they are part of the normal form of address, even for ordinary people, e.g. [[U Thant|{{xt|U Thant}}]].
+* The Turkish honorific suffix [[Pasha]] is normally included in a notable person's name.
+
+The inclusion of some honorific prefixes, suffixes, and other styles is controversial.
+
+{{crossref|printworthy=y|(See [[WP:Naming conventions (royalty and nobility)]] for use in article titles.)}}
+
+====Knighthoods, lordships, and similar honorific titles <span class="anchor" id="Honorific titles"></span>====
+{{shortcut|MOS:SIR|MOS:DAME|MOS:LORD|MOS:LADY}}
+The honorific titles [[Sir]], [[Dame]], [[Lord]] and [[Lady]] are included in the initial reference and infobox heading for the subject of a biographical article, but are optional after that. The title is placed in bold in the first use of the name. Except for the initial reference and infobox, do not add honorific titles to existing instances of a person's name where they are absent, because doing so implies that the existing version is incorrect (similar in spirit to the [[Wikipedia:Manual of Style (spelling)|guideline on English spelling differences]]). Similarly, honorific titles should not be deleted when they are used throughout an article unless there is consensus. Where the use of an honorific title is widely misunderstood, this can be mentioned in the article; see, for example, [[Bob Geldof#Awards and honours|Bob Geldof]]. Honorific titles used with forenames only (such as "Sir Elton", "Sir David", "Dame Judi") should be avoided unless this form is so heavily preferred in popular usage that the use of the surname alone would render the entire name unrecognizable.
+
+[[List_of_honorary_British_knights_and_dames#Honorary_awards|Honorary knights and dames]] are not entitled to "Sir" or "Dame", only the [[post-nominal letters]]. Not all non-honorary inductees into an [[order of chivalry]] are entitled to use the pre-nominal titles, either, and may receive distinct post-nominals. For example, the [[Order of the British Empire]] has five classes, each with different post-nominals; only the senior two are entitled to Sir/Dame.
+
+Titles signifying honours awarded by the United Kingdom (i.e. Sir, Dame) may be used as soon as they are [[gazetted]]. [[Investiture]] is not necessary.
+
+==Tense==
+{{shortcut|MOS:BLPTENSE}}
+{{see also|WP:Manual of Style#Verb tense}}
+[[WP:BLP|Biographies of living persons]] should generally be written in the [[present tense]], and biographies of deceased persons in the [[past tense]]. When making the change upon the death of a subject, the entire article should be reviewed for consistency. If a person is living but has retired, use {{xt|is a former}} or {{xt|is a retired}} rather than the past tense {{!xt|was}}.
+* ''Correct'' – {{xt|'''John Smith''' (1946–2003) was a baseball pitcher&nbsp;...}}
+* ''Correct'' – {{xt|'''John Smith''' (born 1946) is a former baseball pitcher&nbsp;...}}
+* ''Incorrect'' – {{!xt|'''John Smith''' (born 1946) was a baseball pitcher&nbsp;...}}
+
+{{Crossref|(For when people should be presumed dead in the absence of definitive information, see {{section link|WP:Biographies of living persons#Recently dead or probably dead}}.}}
+
+Historical events should be written in the past tense in all biographies:
+* {{xt|Smith played for the Baltimore Orioles between 1968 and 1972&nbsp;...}}
+
+The present tense may be used when discussing the work of a writer or philosopher, even if the person is dead: {{xt|In his ''Institutes'', Calvin teaches&nbsp;...}}. The general rule is to describe statements made in literature, philosophy, and art in the [[historical present]]. Past tense should be used for news and marketing materials, public statements, and any other quoted or paraphrased material which is not itself a subject of consideration as a lasting work: {{xt|Trump controversially referred to North Korean leader Kim Jong-un as "Little Rocket Man" in a September 23, 2017, tweet.}} (not {{!xt|... refers ...}}).
+
+==Out-of-date material==
+{{See also|WP:Manual of Style/Dates and numbers#Chronological items}}
+
+It is best to avoid time-dependent statements, which can often be creatively rewritten anyway. When making any statements about current events, use the "[[Template:As of|As of]]" template; for example, "as of April 2011" or "in April 2011". If you're giving a precise date range from the past to the present, as with a living person's age or career, you may use the "[[Template:Age|Age]]" template. The article subject's age can also be calculated in the infobox.
+
+There is no need to add "deceased" to a person's article, or those in which that person is mentioned. If the person has an article this should already be sourced, otherwise it is unnecessary. "Survived by" and "survivors", phrasings commonly found in obituaries, should not be used.
+
+==Order of events==
+{{Shortcut|MOS:BLPCHRONO|MOS:CHRONOLOGICAL}}
+{{redirect|MOS:CHRONOLOGICAL|timelines|MOS:CHRONO}}
+In general, present a biography in chronological order, from birth to death, except where there is good reason to do otherwise. Within a single section, events should almost always be in chronological order.
+
+==Sexuality==
+{{Main|WP:Manual of Style#Identity}}
+{{See also|WP:WikiProject LGBT studies/Guidelines}}
+Care should be taken to avoid placing [[WP:UNDUE|undue weight]] on sexuality. A person's sexual orientation or activities should usually not be mentioned in the article ''lead'' unless related to the person's notability.
+
+==Gender identity ==
+<span class="anchor" id="DEADNAME"></span><span class="anchor" id="GENDERID"></span> 
+<noinclude>{{Shortcut|MOS:GENDERID|MOS:GID|MOS:DEADNAME|MOS:NB}}</noinclude>
+{{Further|WP:Manual of Style/Gender identity}}
+
+Refer to any person whose gender might be questioned with the name and gendered words (e.g. pronouns, ''man''/''woman''/''person'') that reflect the person's {{em|most recent}} expressed self-identification as reported in the most recent [[WP:Reliable sources|reliable sources]], even if it does not match what is most common in sources. Do not use gendered noun forms (e.g. ''mailman'', ''waitress'') that do not match the most recent self-identification. This holds for any phase of the person's life, unless they have indicated a preference otherwise.
+
+If a living [[transgender]] or [[non-binary]] person was not [[Wikipedia:Notability#General notability guideline|notable]] under a former name (a [[Deadnaming|deadname]]), it should not be included in any page (including lists, redirects, disambiguation pages, category names, templates, etc.), even in quotations, [[Wikipedia:NOT#INDISCRIMINATE|even if]] reliable sourcing exists. Treat the pre-notability name as [[Wikipedia:BLPPRIVACY|a privacy interest]]. For example:
+* ''From [[Laverne Cox]]:'' {{xt|'''Laverne Cox''' (born May 29, 1972)&nbsp;...}}
+* ''From [[Rachel Levine]]:'' {{xt|'''Rachel Leland Levine''' ({{IPAc-en|l|ə|ˈ|v|iː|n}}; born October 28, 1957)&nbsp;...}}
+* ''Avoid:'' {{!xt|'''Jane Smith''' (formerly '''John Hammer''', born May 1, 1980)&nbsp;...}}
+
+In the case of a living transgender or non-binary person, their birth name or former name (professional name, stage name, or pseudonym) should be included in the lead sentence of their main biographical article ''only if they were notable under that name''. Introduce the prior name with either "born" or "formerly". For example:
+
+* ''From [[Chelsea Manning]], notable under birth name:'' {{xt|'''Chelsea Elizabeth Manning''' (born '''Bradley Edward Manning''', December 17, 1987)&nbsp;...}}
+* ''From [[Elliot Page]], notable under former professional name:'' {{xt|'''Elliot Page''' (formerly '''Ellen Page'''; born February 21, 1987)&nbsp;...}}
+
+Outside the main biographical article, generally do not discuss in detail the changes of a person's name or gender presentation unless pertinent. Where a person's gender [[WP:SURPRISE|may come as a surprise]], explain it on first occurrence, [[WP:UNDUE|without overemphasis]]. Avoid confusing constructions ({{!xt|Jane Doe fathered a child}}) by rewriting (e.g., {{xt|Jane Doe became a parent}}). In articles on works or other activity by a living trans or non-binary person before transition, use their current name as the primary name (in prose, tables, lists, infoboxes, etc.), unless they prefer their former name be used for past events. If they were notable under the name by which they were credited for the work or other activity, provide it in a parenthetical or footnote on first reference; add more parentheticals or footnotes only if needed to avoid confusion.
+
+Paraphrase, elide, or use square brackets to replace portions of quotations to avoid [[deadnaming]] or [[misgendering]], except in rare cases where exact wording cannot be avoided, as where there is a pun on the notable former name, etc.
+* {{!xt|Critic X said "''Juno'' needs a fine [actor] to play its pregnant teenage star, and [Elliot] Page has shown [himself] to be the perfect [man] for the job."}} involves many bracketed changes, so is better paraphrased: {{xt|Critic X argued that portraying the pregnant teenage lead in the film ''Juno'' required a fine acting talent, and said that Page had proved perfect for the job.}}
+
+In source citations, do not remove names of authors, or references to former names in titles of works. If the author is notable, the current name may be given, for example as "{{xt|X (writing as Y)}}". Do not replace or supplement a person's former name with a current name if the two names have not been publicly connected and connecting them would [[Outing|out]] the person.
+
+===Neopronouns and the singular ''they''===
+<noinclude>{{Shortcut|MOS:NEOPRONOUN|MOS:SINGULARTHEY}}</noinclude>
+[[Singular they|Singular ''they/them/their'']] pronouns are appropriate to use in reference to any person who goes by them. If a person exclusively goes by [[neopronouns]], such as ''ze/hir'', then singular ''they'' should also generally be used instead of neopronouns when referring to that individual, though their neopronouns should usually be mentioned in their biography (in the main prose or in a footnote).{{efn|[[Special:PermaLink/1124226138#Neopronouns_RfC_(moved)|October 2022 RfC]].}}
+
+==Authority control==
+{{Main|WP:Authority control}}
+{{See also|WP:ORCID}}
+
+Place {{tlx|Authority control}} at the foot of biographies (immediately above {{tlx|DEFAULTSORT}}, if present). Add authority control identifiers (VIAF, ISNI, ORCID, etc.) in the subject's Wikidata entry, from where they will be automatically transcluded into the template.
+
+==See also==
+* [[Wikipedia:Biography dos and don'ts]] (information page summarizing the key points of this guideline)
+* [[Wikipedia:Autobiography]]
+* [[Wikipedia:WikiProject Biography]]
+* [[Wikipedia:Categorization of people]]
+* [[Wikipedia:Naming conventions (people)]]
+* [[Wikipedia:Biographies of living persons]]
+
+==Notes==
+<references group=pron/>
+{{Notelist}}
+
+[[Category:WikiProject Biography]]
+[[Category:Wikipedia Manual of Style (content)|Biography]]
