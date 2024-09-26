@@ -1,0 +1,9 @@
+python-dotenv
+openai
+networkx
+scipy
+pydantic
+litellm
+instructor
+pandas
+wikitextparser
