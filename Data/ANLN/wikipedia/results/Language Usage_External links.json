@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "title": "External links",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "The section involves the mention of gene names, which must adhere to HUGO Gene Nomenclature Committee guidelines.",
+          "score": 1.0,
+          "confidence": 0.9,
+          "evidence": "Gene name 'ANLN' is presented in all capitals, appropriate for human gene nomenclature.",
+          "reasoning": "Complete adherence as all gene nomenclature practices are followed correctly.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R3",
+          "applicable": true,
+          "applicability_reasoning": "Applicable since the section mentions a human gene name.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "'ANLN' is used in all capitals in accordance with human gene naming conventions.",
+          "reasoning": "The requirement is fully met by using the correct format for human gene names.",
+          "overlap_notes": "No overlaps or inconsistencies found."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": true,
+          "applicability_reasoning": "Relevant as using gene abbreviations enhances clarity and is recommended throughout the article.",
+          "score": 1.0,
+          "confidence": 0.85,
+          "evidence": "Gene abbreviation 'ANLN' is used instead of the full name.",
+          "reasoning": "Selectively correct use of abbreviations as per the guidelines.",
+          "overlap_notes": "No redundant information or overlaps detected here."
+        }
+      ],
+      "meta_notes": "The section accurately adheres to gene nomenclature guidelines with optimal use of abbreviations."
+    }
+  ]
+}

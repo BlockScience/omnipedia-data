@@ -1,0 +1,76 @@
+{
+    "sections": [
+        {
+            "title": "Cyk-4",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "The section includes gene abbreviations, which must follow HUGO guidelines and be italicized.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The gene names are mostly italicized, such as 'Drosophila', but 'anillin' is not acknowledged as a gene symbol and presented in standard font.",
+                    "reasoning": "There is strong adherence in the use of italics, but some parts are missing correct gene name formatting.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "The section discusses gene interactions where abbreviations are preferred.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Gene names are mostly abbreviated except 'anillin', which is a protein.",
+                    "reasoning": "Full adherence to the recommendation to use abbreviations.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": false,
+                    "applicability_reasoning": "There are no human gene names that require full capitalization in this section.",
+                    "overlap_notes": "Not applicable to this section as it focuses on non-human species."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "The section mentions 'Drosophila', an ortholog, where only the first letter should be capitalized.",
+                    "score": 0.5,
+                    "confidence": 0.80,
+                    "evidence": "The term 'Drosophila' is correctly capitalized but does not specifically relate to a gene, which limits clarity.",
+                    "reasoning": "Partial adherence due to lack of clarity in linking capitalization to gene symbols.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistency in using either American or British English is relevant throughout.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "No specific instances of language inconsistency noted.",
+                    "reasoning": "Complete adherence but requires more explicit examples to enhance confidence.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "The section must maintain an encyclopedic tone without first-person language.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section maintains an objective tone without using first-person language.",
+                    "reasoning": "Full adherence to the requirement for an encyclopedic tone.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "The section makes reference to scientific names, which should be italicized.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The scientific name 'Drosophila' is italicized correctly throughout the text.",
+                    "reasoning": "Full adherence to the requirement for italicizing scientific names.",
+                    "overlap_notes": "No overlaps in this section."
+                }
+            ],
+            "meta_notes": "The section demonstrates strong technical accuracy but needs some improvement in adhering to specific gene and protein name guidelines."
+        }
+    ]
+}

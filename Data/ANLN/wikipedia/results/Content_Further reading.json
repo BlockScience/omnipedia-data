@@ -1,0 +1,45 @@
+{
+  "sections": [
+    {
+      "title": "Further reading",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": false,
+          "applicability_reasoning": "This requirement pertains to ensuring a clear definition in the lead section, which does not apply to the 'Further reading' section."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": false,
+          "applicability_reasoning": "Although the content is related to human genes/proteins, the focus of 'Further reading' is on supplementary references rather than describing proteins, hence this requirement is not applicable."
+        },
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "The section should avoid directly mentioning research groups or institutions, aligning with this requirement.",
+          "score": 0.75,
+          "confidence": 0.85,
+          "evidence": "Specific institutions are not mentioned within the section's narrative itself, focusing instead on cited works.",
+          "reasoning": "While the section predominantly adheres to the guideline, the inclusion of author lists might indirectly imply institutions.",
+          "overlap_notes": "Standard academic citation format naturally includes author details but avoids promoting specific institutions."
+        },
+        {
+          "requirement_id": "R3",
+          "applicable": true,
+          "applicability_reasoning": "The section should maintain a neutral tone without emphasizing author credentials.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The section refrains from hyping studies by limiting information to essential citation details.",
+          "reasoning": "Complete adherence to the requirement by solely listing necessary bibliographic information.",
+          "overlap_notes": "None detected, as the content adheres to citation norms."
+        },
+        {
+          "requirement_id": "R5",
+          "applicable": false,
+          "applicability_reasoning": "Notable contributions or discovery context are outside the scope of a 'Further reading' section."
+        }
+      ],
+      "meta_notes": "The 'Further reading' section effectively compiles academic references in compliance with general citation standards, although subtle improvements could minimize the indirect institutional emphasis through author affiliations."
+    }
+  ]
+}

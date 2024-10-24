@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "Function",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "This section discusses the function of AGK, a gene/protein, and an infobox would summarize key facts effectively.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "The section lacks an infobox summarizing the protein's function.",
+                    "reasoning": "No infobox present; complete absence of requirement adherence.",
+                    "overlap_notes": "No infobox detected in the section."
+                },
+                {
+                    "requirement_id": "R13",
+                    "applicable": true,
+                    "applicability_reasoning": "An infobox summarizing key facts about AGK's function would align with best practices.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "There is no infobox present to summarize the key functional aspects of AGK.",
+                    "reasoning": "The section completely lacks the summary functionality an infobox should provide.",
+                    "overlap_notes": "The summary currently appears only within the text."
+                }
+            ],
+            "meta_notes": "The section provides a detailed description of the protein's function but lacks an infobox to enhance accessibility to key facts."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "sections": [
+        {
+            "title": "Clinical Significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "ATF1 is a gene/protein, thus including an infobox would be beneficial.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "No infobox is included in the section or mentioned in the excerpt.",
+                    "reasoning": "The requirement is not met as there is no infobox present for the gene/protein.",
+                    "overlap_notes": "No overlaps with an existing infobox detected."
+                },
+                {
+                    "requirement_id": "R13",
+                    "applicable": true,
+                    "applicability_reasoning": "An infobox would be relevant to summarize key facts about ATF1.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "The section lacks an infobox summarizing key facts.",
+                    "reasoning": "Failure to include an infobox results in non-adherence to summarizing key facts.",
+                    "overlap_notes": "No overlaps with summarized content in an infobox."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Always applicable to include an infobox at the top of the article.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "Infobox presence is absent for the gene or protein discussed.",
+                    "reasoning": "The absence of an infobox at the top of the article fails to meet this standard.",
+                    "overlap_notes": "No existing infobox overlap detected."
+                }
+            ],
+            "meta_notes": "The section provides detailed descriptions of ATF1's implications in diseases but lacks an infobox to summarize these details efficiently."
+        }
+    ]
+}

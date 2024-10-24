@@ -1,0 +1,36 @@
+{
+  "sections": [
+    {
+      "title": "Structure",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the section includes gene symbols which should be italicized.",
+          "score": 0.0,
+          "confidence": 0.90,
+          "evidence": "The gene symbol 'ANLN' appears in regular text format instead of italics.",
+          "reasoning": "The section does not adhere to the requirement to italicize gene symbols.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R6",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as the section is identified under 'Structure' and should follow the logical order of beginning with a structural overview.",
+          "score": 0.75,
+          "confidence": 0.85,
+          "evidence": "The section starts with an overview of the protein's structure and domain locations.",
+          "reasoning": "Strong adherence with minor improvements possible, such as more detailed introductory context.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": false,
+          "applicability_reasoning": "Not applicable as the section does not present a list that warrants bullet points.",
+          "overlap_notes": "No overlaps in this section."
+        }
+      ],
+      "meta_notes": "The section covers key aspects of anillin structure effectively but lacks proper formatting of gene symbols."
+    }
+  ]
+}

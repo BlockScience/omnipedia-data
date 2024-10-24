@@ -1,0 +1,84 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because gene abbreviations are used in the section.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Gene abbreviation 'ATF1' is used, but it is not italicized.",
+                    "reasoning": "The section uses ATF1 and CAMK II as abbreviations, but they are not italicized.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Recommended to use gene abbreviations instead of full names in gene-related content.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Gene abbreviation 'ATF1' is used consistently instead of its full name.",
+                    "reasoning": "The section consistently uses 'ATF1', adhering fully to this best practice.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as human gene names are mentioned and should be in all capitals.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "'ATF1' is capitalized correctly for a human gene.",
+                    "reasoning": "Human gene name 'ATF1' is in all capitals, meeting the requirement.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "Not applicable as there are no orthologs of human genes from other species mentioned.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": false,
+                    "applicability_reasoning": "The requirement is not relevant as the section does not discuss gene regulation.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": false,
+                    "applicability_reasoning": "Not applicable as the section focuses exclusively on human genes.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as consistent language usage throughout the article is necessary.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "The section maintains consistent English language usage.",
+                    "reasoning": "The language is consistent with no visible shifts between American and British English.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as first-person language is inappropriate in encyclopedic entries.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section employs a neutral, third-person tone throughout.",
+                    "reasoning": "There is no use of the first person, maintaining an encyclopedic tone well.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": false,
+                    "applicability_reasoning": "Not applicable as the section does not mention scientific names that require italics.",
+                    "overlap_notes": "No overlaps in this section."
+                }
+            ],
+            "meta_notes": "The section is well-structured in terms of language requirements but can improve by italicizing gene abbreviations as per standards."
+        }
+    ]
+}

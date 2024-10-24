@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Overview",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the inclusion of an infobox is imperative for gene/protein articles.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The section lacks an infobox summarizing key facts about the ATF1 gene.",
+                    "reasoning": "There is no infobox present in the section, which does not meet the requirement.",
+                    "overlap_notes": "No overlap as the infobox is missing."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because ATF1 is a gene with a human ortholog.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "No Infobox GNF protein format is used in the section.",
+                    "reasoning": "An Infobox GNF protein should be included to indicate the presence of a human ortholog.",
+                    "overlap_notes": "No overlap present due to absence of required infobox."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because this is a gene/protein article that should include an infobox.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The section does not contain any infobox summarizing key facts about the ATF1 gene.",
+                    "reasoning": "Best practice mandates such an infobox, but it is missing.",
+                    "overlap_notes": "No infobox present to overlap with."
+                },
+                {
+                    "requirement_id": "R13",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because an infobox should summarize key facts about ATF1 in a consistent format at the top of the article.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The absence of a formatted infobox contradicts the requirement.",
+                    "reasoning": "The article lacks a summarized infobox format, critical for reader comprehension.",
+                    "overlap_notes": "Lack of infobox precludes overlap."
+                }
+            ],
+            "meta_notes": "The 'Overview' section is well-written but lacks an essential infobox that summarises ATF1's key attributes, not meeting several requirements."
+        }
+    ]
+}

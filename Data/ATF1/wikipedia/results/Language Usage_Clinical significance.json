@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Clinical significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the section contains gene abbreviations.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Gene abbreviations like ATF1, FUS, and EWSR1 are used, but not all are in italic font.",
+                    "reasoning": "The section uses gene abbreviations, adhering to HUGO Gene Nomenclature Committee guidelines, but fails to consistently use italic font style.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Relevant for language usage throughout the section as gene abbreviations are used.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Gene names like ATF1, FUS, and EWSR1 are used in abbreviation form throughout.",
+                    "reasoning": "The requirement is fully met as abbreviations are used instead of full gene names.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable for human genes mentioned in the section.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Gene names such as ATF1, FUS, and EWSR1 are written in all capital letters.",
+                    "reasoning": "The section fully adheres to this requirement by using all capitals for human gene names.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistent use of either American or British English must be evaluated.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "The section uses terms consistently but does not have region-specific terms requiring American or British distinction.",
+                    "reasoning": "There is consistent language usage without noticeable regional English variations.",
+                    "overlap_notes": "No overlaps in this section."
+                }
+            ],
+            "meta_notes": "The section mostly adheres to gene nomenclature requirements but can improve on the consistent use of italic font for gene symbols."
+        }
+    ]
+}

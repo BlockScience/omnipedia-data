@@ -1,0 +1,50 @@
+{
+  "sections": [
+    {
+      "title": "Structure",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the content includes gene symbols which need to be italicized.",
+          "score": 0.5,
+          "confidence": 0.85,
+          "evidence": "Gene symbols such as 'Mid1p', 'Mid2p', 'Boi1p', and 'Boi2p' are not italicized.",
+          "reasoning": "Partial adherence as the requirement of italicizing gene symbols is not fully met.",
+          "overlap_notes": "Gene symbols appear several times and require consistent formatting."
+        },
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Consistency in section headers throughout the article is crucial for formatting.",
+          "score": 0.75,
+          "confidence": 0.9,
+          "evidence": "The section title 'Structure' follows the format seen elsewhere in the document.",
+          "reasoning": "Strong adherence with minor improvements possible in header consistency across articles.",
+          "overlap_notes": "No obvious overlaps affecting this requirement."
+        },
+        {
+          "requirement_id": "R6",
+          "applicable": true,
+          "applicability_reasoning": "Sections should be logically ordered for coherence, starting with the introduction and followed by relevant sections.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The section 'Structure' logically follows the 'Introduction' in the hierarchy.",
+          "reasoning": "Full adherence as the section placement follows the logical order prescribed by guidelines.",
+          "overlap_notes": "No overlaps detected; the order is logical and clear."
+        },
+        {
+          "requirement_id": "R8",
+          "applicable": true,
+          "applicability_reasoning": "Image placement is applicable as it should enhance comprehension of the text.",
+          "score": 0.75,
+          "confidence": 0.8,
+          "evidence": "Image placement at the end of the section does not disrupt the text significantly.",
+          "reasoning": "Strong adherence but could be improved by more strategic placement related to the text.",
+          "overlap_notes": "No significant overlap; image serves as a supplement to the text."
+        }
+      ],
+      "meta_notes": "The section provides comprehensive details on anillin structure, with room for improvement in gene symbol formatting."
+    }
+  ]
+}

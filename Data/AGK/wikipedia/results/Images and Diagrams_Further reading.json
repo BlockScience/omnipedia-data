@@ -1,0 +1,22 @@
+{
+    "sections": [
+        {
+            "title": "Further reading",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "The 'Further reading' section typically consists of references and citations, without diagrams. Therefore, the requirement for diagram formatting (R1) is not applicable.",
+                    "overlap_notes": "No diagrams present, hence no overlap with diagram-related requirements."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "This section does not involve diagram usage or the need for expansions to standard formatting guidelines, rendering the requirement (R2) inapplicable.",
+                    "overlap_notes": "No lack of guidance or diagrams present for expansion considerations."
+                }
+            ],
+            "meta_notes": "The 'Further reading' section is composed of academic citations and references, not involving diagrams or images, thus making the stated requirements non-applicable."
+        }
+    ]
+}

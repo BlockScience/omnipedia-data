@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "Structure",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "The section discusses a specific gene/protein, making the inclusion of an infobox relevant.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "There is no infobox provided in the section, which fails to meet the requirement for gene/protein articles.",
+                    "reasoning": "No infobox is present to summarize key details about ANLN protein, which is an imperative standard.",
+                    "overlap_notes": "There are no overlaps detected with an infobox as it is missing."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable due to the presence of a human ortholog for the ANLN gene.",
+                    "score": 0.0,
+                    "confidence": 0.85,
+                    "evidence": "The required infobox GNF protein for human ortholog genes/proteins is absent.",
+                    "reasoning": "The content lacks the specific infobox for genes with human orthologs, which is considered a contextual consideration.",
+                    "overlap_notes": "No overlap since the required infobox is missing."
+                }
+            ],
+            "meta_notes": "The section provides a detailed description of the ANLN protein's structure but lacks the required infobox to summarize key information, leading to poor adherence to infobox-related requirements."
+        }
+    ]
+}

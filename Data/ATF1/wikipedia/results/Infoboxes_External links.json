@@ -1,0 +1,30 @@
+{
+  "sections": [
+    {
+      "title": "External links",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "The section is related to an article containing gene/protein information, requiring an infobox summarization at the top.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "No infobox is present in this section or referenced.",
+          "reasoning": "The section does not meet the requirement as it lacks an infobox at the top summarizing key facts.",
+          "overlap_notes": "This is a common issue noticed with sections that are external link based."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": true,
+          "applicability_reasoning": "The topic concerns a human gene/protein (ATF1), for which a human ortholog infobox is necessary.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "The content does not provide an Infobox GNF protein.",
+          "reasoning": "There is an absence of the required infobox, thereby not adhering to the guideline for gene/protein articles with a human ortholog.",
+          "overlap_notes": "No overlap with other sections regarding infobox usage."
+        }
+      ],
+      "meta_notes": "The section heavily lacks the required summarizing elements for gene/protein articles, specifically the necessary infoboxes."
+    }
+  ]
+}

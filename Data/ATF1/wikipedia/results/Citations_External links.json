@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R5",
+                    "applicable": true,
+                    "applicability_reasoning": "The section contains information about transcription factors and gene activation, which should be supported by reliable sources.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section includes a citation from a peer-reviewed journal (PMID 8663317).",
+                    "reasoning": "Complete adherence as the statement about CaMK II activating transcription factor 1 is well-supported by a reliable source.",
+                    "overlap_notes": "No overlap with other sections."
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": true,
+                    "applicability_reasoning": "Inline citations are necessary to provide direct evidence for specific claims within the section.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "Inline citation is used for the specific claim regarding CaMK II.",
+                    "reasoning": "Strong adherence; the specific claim is appropriately cited, but the section could benefit from additional citations for other claims.",
+                    "overlap_notes": "No overlap with other sections."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistency in citation formatting is important throughout the article.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The citation used follows a consistent format.",
+                    "reasoning": "Complete adherence as the citation format is consistent.",
+                    "overlap_notes": "No overlap with other sections."
+                },
+                {
+                    "requirement_id": "R11",
+                    "applicable": true,
+                    "applicability_reasoning": "Direct quotes, if any, must be accompanied by citations to ensure verifiability.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "There are no direct quotes in the section.",
+                    "reasoning": "Complete adherence as no direct quotes are present.",
+                    "overlap_notes": "No overlap with other sections."
+                }
+            ],
+            "meta_notes": "The section is well-cited, but additional citations for other claims could further enhance its reliability."
+        }
+    ]
+}

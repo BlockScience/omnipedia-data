@@ -1,0 +1,60 @@
+{
+    "sections": [
+        {
+            "title": "Clinical Significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "This section contains gene abbreviations that should adhere to HUGO Gene Nomenclature Committee guidelines and be in italic font style.",
+                    "score": 0.25,
+                    "confidence": 0.70,
+                    "evidence": "The gene abbreviation 'ANLN' is used but not italicized.",
+                    "reasoning": "Minimal adherence as the gene abbreviation is correctly used but not formatted in italic style.",
+                    "overlap_notes": "No overlaps detected with other sections."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Throughout the section, gene abbreviations are used instead of full names, which is a best practice recommendation.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The full name 'anillin actin-binding protein' is mentioned once and is predominantly referred to as 'ANLN' thereafter.",
+                    "reasoning": "Complete adherence by predominantly using abbreviations over full names.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Human gene names should be written in all capital letters.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The gene name ANLN is consistently written in all capital letters.",
+                    "reasoning": "The section adheres fully to the guideline by correctly capitalizing human gene names.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistent use of either American or British English is necessary for maintaining clarity.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The text does not display mixing of American and British English variants.",
+                    "reasoning": "The section adheres mostly to either American or British English, though specific examples are not mentioned to confirm adherence fully.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "The section should avoid first-person language to maintain an encyclopedic tone.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The text is written in a formal, objective tone without first-person language.",
+                    "reasoning": "The section fully meets the requirement by maintaining an appropriate formal tone.",
+                    "overlap_notes": "No overlaps detected."
+                }
+            ],
+            "meta_notes": "The section effectively covers the clinical significance of the ANLN gene but should correct the formatting of gene abbreviations to fully meet standard guidelines."
+        }
+    ]
+}

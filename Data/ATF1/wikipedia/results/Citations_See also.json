@@ -1,0 +1,35 @@
+{
+    "sections": [
+        {
+            "title": "See also",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R5",
+                    "applicable": false,
+                    "applicability_reasoning": "The 'See also' section typically serves as a navigation aid, suggesting related topics that may not need citations within the section itself. As it simply lists a related term without making any claims or statements, citations are not required here."
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": false,
+                    "applicability_reasoning": "The 'See also' section does not contain specific claims that would require inline citations. It is meant for listing related topics, not providing detailed information or claims that necessitate citations."
+                },
+                {
+                    "requirement_id": "R11",
+                    "applicable": false,
+                    "applicability_reasoning": "There are no direct quotes in the 'See also' section as it only lists a related term with no specific text that would warrant quoting or the need for citations of quotes."
+                },
+                {
+                    "requirement_id": "R12",
+                    "applicable": false,
+                    "applicability_reasoning": "The content does not contain statements that are challenged or likely to be challenged, as it merely links to a related topic without making any disputes or contentious statements."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "The section is not meant to be dense with citations because it serves as a navigational tool pointing readers to related topics, not detailing or discussing the topic in depth."
+                }
+            ],
+            "meta_notes": "The 'See also' section is appropriately formatted as a list of related topics. It does not necessitate citations or elaborate discourse, consistent with its purpose to aid in navigation."
+        }
+    ]
+}

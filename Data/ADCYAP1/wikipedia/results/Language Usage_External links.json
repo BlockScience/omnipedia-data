@@ -1,0 +1,60 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "This requirement is not applicable since the section does not mention any specific gene abbreviations in the textual content."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "The section doesn't involve using full or abbreviated gene names in its textual content."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": false,
+                    "applicability_reasoning": "There are no specific mentions of human gene names explicitly stated in the section content."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "The content does not involve orthologs of human genes in other species."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": false,
+                    "applicability_reasoning": "The structure of sentences involving gene symbols does not apply to this section."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": false,
+                    "applicability_reasoning": "There are no non-human gene references in this section."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "The section involves mentioning scientific articles, hence the use of scientific names in italics may be relevant.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "No scientific names present that require italicization; thus, no inaccuracies noted.",
+                    "reasoning": "Since the section primarily lists links and templates without specific scientific names, the requirement is fully met by default.",
+                    "overlap_notes": "No overlaps present."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": false,
+                    "applicability_reasoning": "The section does not include narrative content where a consistent language variety would be relevant."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": false,
+                    "applicability_reasoning": "There is no use of first-person language as the section is non-discursive and mostly template-based."
+                }
+            ],
+            "meta_notes": "The section mainly comprises links and template calls, with no significant narrative content where language stylistics would be applicable."
+        }
+    ]
+}

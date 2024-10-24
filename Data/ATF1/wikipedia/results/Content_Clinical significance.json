@@ -1,0 +1,40 @@
+{
+    "sections": [
+        {
+            "title": "Clinical significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "This section should list diseases or conditions resulting from mutations or alterations in the gene, which is relevant here.",
+                    "score": 0.5,
+                    "confidence": 0.85,
+                    "evidence": "The section mentions translocation-induced gene fusions in angiomatoid fibrous histiocytoma and clear cell sarcoma.",
+                    "reasoning": "The section partially meets the requirement by mentioning specific conditions but lacks a comprehensive list or detailed explanation.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "The section discusses what translocation-induced fusions mean for the clinical significance of the gene/protein.",
+                    "score": 0.75,
+                    "confidence": 0.9,
+                    "evidence": "The section explains the role of gene fusion with FUS and EWSR1 in certain tumors.",
+                    "reasoning": "Strong adherence to focusing on cited study outcomes, with some room for elaboration.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": true,
+                    "applicability_reasoning": "Adhering to verifiable content requirement as evidence is backed by citations.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section provides citations for gene fusions and their clinical implications, including one journal reference.",
+                    "reasoning": "The content is fully verifiable with reliable citations.",
+                    "overlap_notes": "No significant overlaps detected."
+                }
+            ],
+            "meta_notes": "The section effectively introduces clinical relevance but could benefit from further details on conditions related to the gene and expanded explanations."
+        }
+    ]
+}

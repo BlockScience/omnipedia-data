@@ -1,0 +1,66 @@
+{
+    "sections": [
+        {
+            "title": "Interactions",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because gene abbreviations are used throughout the section.",
+                    "score": 0.5,
+                    "confidence": 0.85,
+                    "evidence": "Gene symbols like ANLN and c-Myc are used, but they are not italicized.",
+                    "reasoning": "There is partial adherence to the requirement as gene abbreviations are used correctly but not italicized.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as gene names are used throughout the section.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "Gene abbreviations like ANLN and c-Myc are predominantly used instead of full names.",
+                    "reasoning": "The section frequently uses abbreviations which aligns with recommended practices, with minor exceptions.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Relevant because human gene names are mentioned in the section.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Human gene names like PLK1 and CDK1 are written in all capitals.",
+                    "reasoning": "The requirement is fully met as human genes are correctly capitalized.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "Not applicable because there is no mention of orthologs in non-human species in the section.",
+                    "overlap_notes": "No applicable content relating to orthologs of human genes."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": true,
+                    "applicability_reasoning": "Relevant since gene symbol usage appears regularly.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Phrases like 'ANLN interacts with' avoid redundant expressions.",
+                    "reasoning": "There is strong adherence to recommended phrasing with minor room for optimization.",
+                    "overlap_notes": "No meaningful overlaps detected."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Applies because consistent use of American or British English is required.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Consistent use of American English spelling and grammar is evident in the section.",
+                    "reasoning": "The section complies fully with using consistent American English.",
+                    "overlap_notes": "No language variation overlaps detected."
+                }
+            ],
+            "meta_notes": "The section demonstrates strong adherence to most requirements, particularly in language consistency and proper capitalization of human genes."
+        }
+    ]
+}

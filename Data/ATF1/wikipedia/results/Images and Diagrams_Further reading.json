@@ -1,0 +1,22 @@
+{
+    "sections": [
+        {
+            "title": "Further reading",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "The section does not include any diagrams; it consists exclusively of journal citations.",
+                    "overlap_notes": "No diagrams or images are present that require formatting."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "There are no existing guidelines for the formatting style of images in this particular section as it only contains text citations.",
+                    "overlap_notes": "Not applicable as there are no images."
+                }
+            ],
+            "meta_notes": "The 'Further reading' section consists solely of citations, thus rendering requirements related to diagrams not applicable."
+        }
+    ]
+}

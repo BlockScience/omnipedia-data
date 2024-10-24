@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Overview",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the lead section defines the article scope.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The lead starts with a clear definition of ATF1 and its role as a transcription factor.",
+                    "reasoning": "The section fully meets the requirement by providing a comprehensive definition of ATF1.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Relevant for content sections to avoid redundancy.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "The section specifically mentions the ATF1 gene and protein.",
+                    "reasoning": "Complete adherence by specifying ATF1 as a gene and protein in humans.",
+                    "overlap_notes": "No overlaps with infobox data noted."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "This requirement is applicable because the function of ATF1 is well described.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section describes ATF1's role in cellular processes and gene expression.",
+                    "reasoning": "Strong adherence; the function of the ATF1 protein is clearly outlined.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "The section provides a comprehensive overview of the gene or protein.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The section touches on structure, role, and interactions with other proteins.",
+                    "reasoning": "Strong adherence but the overview could include more detail on ATF1's clinical significance.",
+                    "overlap_notes": "No significant overlaps detected."
+                }
+            ],
+            "meta_notes": "The Overview section efficiently introduces ATF1, covering its definition, role, and relevance with minor details missing in clinical aspects."
+        }
+    ]
+}

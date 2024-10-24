@@ -1,0 +1,82 @@
+{
+    "sections": [
+        {
+            "title": "Structure",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene abbreviations are integral to this section, which mentions the AGK gene.",
+                    "score": 0.5,
+                    "confidence": 0.85,
+                    "evidence": "The section uses 'AGK' which is a gene abbreviation, but it's unclear whether it follows HGNC guidelines or is italicized as required.",
+                    "reasoning": "Partial adherence as the abbreviation is appropriate, but the text doesn't demonstrate italicization.",
+                    "overlap_notes": "No overlaps with other sections noted."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene abbreviation usage is conserved throughout the section, avoiding full gene names unnecessarily.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Only the abbreviation 'AGK' is used in the section.",
+                    "reasoning": "Complete adherence as the abbreviation is consistently used instead of full names.",
+                    "overlap_notes": "No overlaps detected within this section."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Human gene names are relevant in this section due to the presence of the AGK gene reference.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "The gene name 'AGK' is capitalized appropriately.",
+                    "reasoning": "Full adherence as the gene name is properly capitalized.",
+                    "overlap_notes": "No significant overlaps observed."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "This section deals exclusively with a human gene, making the requirement for non-human orthologs capitalization irrelevant.",
+                    "overlap_notes": "N/A"
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable for ensuring preferred usage forms of gene symbols within the section.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Usage such as 'the AGK gene' is appropriate and does not contain redundancy as per recommendations.",
+                    "reasoning": "Strong adherence with some room for clarifying when ellipses indicate additional context.",
+                    "overlap_notes": "No overlaps affecting the usage detected."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Since the article is written in English, consistent use of language is applicable.",
+                    "score": 0.5,
+                    "confidence": 0.75,
+                    "evidence": "The section shows no clear consistent use of either American or British English spelling.",
+                    "reasoning": "Partial adherence; consistency in language use is not ascertainable from this section alone.",
+                    "overlap_notes": "No specific overlaps influencing language consistency."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "Avoiding first-person language maintains an encyclopedic tone in the description.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "No instances of first-person perspective are present in the text.",
+                    "reasoning": "Adheres fully by maintaining an objective tone throughout.",
+                    "overlap_notes": "Objective tone is constant with no overlaps influenced."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": false,
+                    "applicability_reasoning": "This section does not mention scientific names that would typically require italics.",
+                    "overlap_notes": "N/A"
+                }
+            ],
+            "meta_notes": "The section effectively describes the structure of the AGK protein with good adherence to most language standards, but there is room to enhance consistency in the use of English language variations."
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "sections": [
+        {
+            "title": "Function",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene abbreviations are present in the section and must adhere to HUGO Gene Nomenclature Committee guidelines.",
+                    "score": 0.5,
+                    "confidence": 0.85,
+                    "evidence": "The text uses gene abbreviations like MgcRacGAP/CYK-4/RacGAP50C without consistent italicization.",
+                    "reasoning": "Partial adherence; gene names are abbreviated but not consistently italicized.",
+                    "overlap_notes": "No overlap with other sections."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Genes are named and abbreviated in the section, making this requirement relevant.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "Abbreviations like ANI-1 and ANI-2 are used instead of full gene names.",
+                    "reasoning": "Complete adherence; abbreviations are used effectively throughout the section.",
+                    "overlap_notes": "No overlaps in abbreviation usage noted."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": false,
+                    "applicability_reasoning": "There are no human gene names mentioned in the section.",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Non-human ortholog names like ANI-1 and ANI-2 make this requirement applicable.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Non-human gene names follow the initial capitalization rule (e.g., ANI-1).",
+                    "reasoning": "Strong adherence with minor instances where the guideline may not be fully followed.",
+                    "overlap_notes": "No overlap in ortholog capitalization detected."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": false,
+                    "applicability_reasoning": "The section does not contain structures like 'the gene ALDOA is regulated.'",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Throughout the article, consistent use of either American or British English is necessary.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section maintains consistent English language use.",
+                    "reasoning": "Complete adherence with no deviations found in language consistency.",
+                    "overlap_notes": "Language style is consistent with the rest of the article."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "The section should avoid first-person language to maintain an encyclopedic tone.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "No instances of first-person language are present.",
+                    "reasoning": "Complete adherence with a professional tone upheld throughout.",
+                    "overlap_notes": "No first-person narrative overlaps noted."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "Scientific names like Drosophila and C. elegans require italicization.",
+                    "score": 0.75,
+                    "confidence": 0.9,
+                    "evidence": "Scientific names are generally italicized but require review for completeness.",
+                    "reasoning": "Strong adherence but some minor corrections needed for consistent italicization.",
+                    "overlap_notes": "Italicization checks reveal minor lapses needing attention."
+                }
+            ],
+            "meta_notes": "The section is broadly well-written with correct use of gene abbreviations and scientific names, though it could better adhere to italicization and capitalization standards."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "sections": [
+        {
+            "title": "Further reading",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Each article section requires categorization to ensure proper indexing on Wikipedia.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section includes categories: [[Category:Genes]] and [[Category:Human proteins]].",
+                    "reasoning": "The section successfully includes relevant categories, fully adhering to the requirement.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Ensures the article follows a logical structure with clear sections.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "The section lists references and further readings logically but lacks subheadings.",
+                    "reasoning": "The section is logically organized, though subheadings could enhance clarity.",
+                    "overlap_notes": "No overlaps within this section."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "Ensures the article follows a standard structure.",
+                    "score": 0.5,
+                    "confidence": 0.85,
+                    "evidence": "Standard structure is followed, but lacks subdivisions that could improve readability.",
+                    "reasoning": "Partial adherence; while structured, improvement can be made with the addition of subheadings.",
+                    "overlap_notes": "Focuses on further reading, separate from main content sections."
+                },
+                {
+                    "requirement_id": "R14",
+                    "applicable": true,
+                    "applicability_reasoning": "Requires clear and logical content organization across the article.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "The section organizes references and further readings under a single heading.",
+                    "reasoning": "The content is organized, but could benefit from better use of subheadings for clarity.",
+                    "overlap_notes": "There is no meaningful overlap with previous sections."
+                },
+                {
+                    "requirement_id": "R11",
+                    "applicable": false,
+                    "applicability_reasoning": "The section lists further readings and does not contain multiple topics that require subheadings.",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": "The requirement for subheadings is not essential in this one-topic list."
+                }
+            ],
+            "meta_notes": "The 'Further reading' section effectively lists important sources but could utilize subheadings to improve organization."
+        }
+    ]
+}

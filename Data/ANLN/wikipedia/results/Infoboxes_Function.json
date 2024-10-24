@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "Function",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the section discusses multiple proteins, including ANI-1 and ANI-2, which are homologous to anillin.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "The section extensively discusses anillin and its homologous proteins ANI-1 and ANI-2 and their functions.",
+                    "reasoning": "Strong adherence to the requirement as the content covers a protein family context, though an explicit infobox is not present.",
+                    "overlap_notes": "Overlap with potential infobox data about functions of anillin and its homologues noted."
+                },
+                {
+                    "requirement_id": "R13",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the section should ideally summarize key facts about the proteins discussed in an infobox.",
+                    "score": 0.25,
+                    "confidence": 0.65,
+                    "evidence": "The section thoroughly details functions and interactions but lacks a summarized infobox for these details.",
+                    "reasoning": "Minimal adherence due to absence of a concise summary in the form of an infobox.",
+                    "overlap_notes": "Key facts could overlap with an infobox if it were present."
+                }
+            ],
+            "meta_notes": "The section provides detailed information on the function of anillins and related proteins but could benefit from including an infobox for summarization purposes."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+  "sections": [
+    {
+      "title": "External links",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R6",
+          "applicable": false,
+          "applicability_reasoning": "The requirement to include an infobox is specific to the lead section, whereas this is the external links section."
+        },
+        {
+          "requirement_id": "R13",
+          "applicable": false,
+          "applicability_reasoning": "This requirement pertains to the use of infoboxes to summarize key facts at the top of articles, not in the external links section."
+        },
+        {
+          "requirement_id": "R1",
+          "applicable": false,
+          "applicability_reasoning": "Requirement R1 is about infobox inclusion at the top of each article, not relevant to external links."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": false,
+          "applicability_reasoning": "This requirement concerns infobox selection in the lead or top sections, not external links."
+        },
+        {
+          "requirement_id": "R3",
+          "applicable": false,
+          "applicability_reasoning": "Infobox usage for protein families is not applicable here because this is an external links section."
+        },
+        {
+          "requirement_id": "R4",
+          "applicable": false,
+          "applicability_reasoning": "The external links section does not require specifying infoboxes for proteins without human orthologs."
+        },
+        {
+          "requirement_id": "R5",
+          "applicable": false,
+          "applicability_reasoning": "This section does not involve infobox usage for protein families listed in Pfam."
+        },
+        {
+          "requirement_id": "R6",  "new_applicable": false,
+          "applicability_reasoning": "The external links section does not include information about RNA families from Rfam."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": false,
+          "applicability_reasoning": "Enzyme infobox usage is irrelevant to the external links section."
+        },
+        {
+          "requirement_id": "R8",
+          "applicable": false,
+          "applicability_reasoning": "The section does not involve discussion of enzyme paralogs."
+        },
+        {
+          "requirement_id": "R9",
+          "applicable": false,
+          "applicability_reasoning": "The protein family infobox related to human paralogs is not discussed in external links."
+        },
+        {
+          "requirement_id": "R10",
+          "applicable": false,
+          "applicability_reasoning": "This guideline is concerned with the placement of multiple infoboxes, not relevant here."
+        },
+        {
+          "requirement_id": "R11",
+          "applicable": false,
+          "applicability_reasoning": "Avoidance of collapsing infoboxes pertains to infobox layout, not external links."
+        }
+      ],
+      "meta_notes": "The External Links section doesn't require evaluation regarding infobox-related requirements. It mainly houses links."
+    }
+  ]
+}

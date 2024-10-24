@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "References",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Section headers should be consistent in style and formatting throughout the article.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section title 'References' is formatted consistently with other section headers.",
+                    "reasoning": "Complete adherence to the requirement as the section header is consistently formatted.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "Bullet points can improve readability in the references list.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "The references are listed in paragraph form rather than as bullet points.",
+                    "reasoning": "No adherence to using bullet points, making it difficult to read.",
+                    "overlap_notes": "No overlaps in this section."
+                }
+            ],
+            "meta_notes": "The section meets formatting consistency for headers but lacks readability due to not using bullet points for the references list."
+        }
+    ]
+}

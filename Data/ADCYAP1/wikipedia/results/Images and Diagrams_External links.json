@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "The section contains links and references, not diagrams. Therefore, the requirement for standard format diagrams is not applicable."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "Since the section does not include diagrams, there is no need for expansions to standardized formatting guidance."
+                }
+            ],
+            "meta_notes": "This section is primarily comprised of external links and references, which do not require assessment against the guidelines for diagram usage."
+        }
+    ]
+}

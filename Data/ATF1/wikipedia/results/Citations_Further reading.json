@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Further reading",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R5",
+                    "applicable": true,
+                    "applicability_reasoning": "The 'Further reading' section lists references, this requirement ensures they're reliable.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "All listed articles are from reputable journals, each backed by a PMID or DOI.",
+                    "reasoning": "The section meets the requirement by providing citations from reputable journals, ensuring credibility.",
+                    "overlap_notes": "References are specific, with no overlapping citations."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistency in citation format is important in this section.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Citations follow a similar structure, with variations in listing components like doi-access.",
+                    "reasoning": "While mostly consistent, minor variances in citation detail formatting exist.",
+                    "overlap_notes": "Consistent formatting but some minor details vary."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "Some articles listed have DOIs, requiring a consistent citation approach.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "All articles with a DOI have it listed using the doi template.",
+                    "reasoning": "The section appropriately uses the DOI template where applicable, meeting best practices.",
+                    "overlap_notes": "DOI usage is consistent where present."
+                },
+                {
+                    "requirement_id": "R15",
+                    "applicable": true,
+                    "applicability_reasoning": "Many citations use vauthors, aligning with the Vancouver format preference.",
+                    "score": 0.75,
+                    "confidence": 0.80,
+                    "evidence": "Citations predominantly use vauthors, matching Vancouver format.",
+                    "reasoning": "While vauthors are used, not all citations display a preference for this format.",
+                    "overlap_notes": "Vancouver format is predominant, slight inconsistency noted."
+                }
+            ],
+            "meta_notes": "The 'Further reading' section is well-cited with reliable sources, maintaining mostly consistent formatting and utilization of modern citation practices like DOIs."
+        }
+    ]
+}

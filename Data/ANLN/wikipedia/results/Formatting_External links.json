@@ -1,0 +1,30 @@
+{
+  "sections": [
+    {
+      "title": "External links",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the section contains a gene symbol 'ANLN'.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "The gene symbol 'ANLN' is not italicized in the section.",
+          "reasoning": "The section should italicize the gene symbol 'ANLN' to adhere to proper formatting.",
+          "overlap_notes": "No overlaps with other sections."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because a list format is used in this section.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "The use of bullet points is consistent with requirement for lists.",
+          "reasoning": "The section uses bullet points appropriately for the list of links.",
+          "overlap_notes": "No overlaps noted."
+        }
+      ],
+      "meta_notes": "The section effectively uses bullet points but needs improvement in italicizing gene symbols."
+    }
+  ]
+}

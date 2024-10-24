@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R14",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as the section must be clearly and logically structured.",
+                    "score": 0.5,
+                    "confidence": 0.8,
+                    "evidence": "The section consists of a single link without a descriptive context.",
+                    "reasoning": "This section partially meets the requirement by listing an external link but lacks additional context or structure.",
+                    "overlap_notes": "No overlaps with other sections detected."
+                },
+                {
+                    "requirement_id": "R15",
+                    "applicable": false,
+                    "applicability_reasoning": "This section is 'External links' not 'See also'.",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": null
+                }
+            ],
+            "meta_notes": "The section could benefit from more descriptive information about the external link provided."
+        }
+    ]
+}

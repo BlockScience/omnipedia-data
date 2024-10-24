@@ -1,0 +1,40 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "External links are part of the standard structure of Wikipedia articles.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section is titled 'External links' and contains a link following Wikipedia's guidelines.",
+                    "reasoning": "This section fully adheres to the requirement by clearly providing relevant external links.",
+                    "overlap_notes": "No significant overlaps detected within the External links section."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Logical structure requires clearly distinct sections like 'External links'.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section contains only external links in a concise manner.",
+                    "reasoning": "The content is structured logically with appropriate section usage.",
+                    "overlap_notes": "This section does not overlap with others and stands independently."
+                },
+                {
+                    "requirement_id": "R14",
+                    "applicable": true,
+                    "applicability_reasoning": "Clear and logical structure mandates external links in a dedicated section.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section effectively separates external links from other content.",
+                    "reasoning": "Adheres strongly by maintaining clarity and separation of content types.",
+                    "overlap_notes": "The section does not overlap with other sections."
+                }
+            ],
+            "meta_notes": "The 'External links' section is appropriately defined and adheres well to structural guidelines."
+        }
+    ]
+}

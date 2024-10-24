@@ -1,0 +1,40 @@
+{
+    "sections": [
+        {
+            "title": "Further reading",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable since the section should be part of a logical and orderly structure within the article.",
+                    "score": 0.5,
+                    "confidence": 0.75,
+                    "evidence": "A list of cited journals related to the topic is present, indicating some logical organization.",
+                    "reasoning": "Partial adherence due to the presence of relevant resources, but the overall structure could be improved for better clarity.",
+                    "overlap_notes": "No significant overlaps detected with other sections."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "Relevant as the section should contribute to a clear and logical overall structure.",
+                    "score": 0.5,
+                    "confidence": 0.75,
+                    "evidence": "The section consists of citations related to the main topic.",
+                    "reasoning": "Partial adherence as the content is directly related but lacks further explanation or context.",
+                    "overlap_notes": "The section does not overlap with other sections but may benefit from integration."
+                },
+                {
+                    "requirement_id": "R14",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the 'Further reading' section should be organized in a manner that is easily understood by readers.",
+                    "score": 0.5,
+                    "confidence": 0.70,
+                    "evidence": "All relevant articles are listed; however, their organization could be improved for more logical flow.",
+                    "reasoning": "The section has a basic logical structure but could benefit from more refined organization.",
+                    "overlap_notes": "No overlaps noted with other sections."
+                }
+            ],
+            "meta_notes": "The 'Further reading' section provides relevant sources but requires enhanced organization and context to improve clarity and usefulness."
+        }
+    ]
+}

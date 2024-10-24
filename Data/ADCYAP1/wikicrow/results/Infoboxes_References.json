@@ -1,0 +1,65 @@
+{
+    "sections": [
+        {
+            "title": "References",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "This section is not at the top of the article, hence this requirement is not applicable."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "This section is not part of the infobox section and does not relate to human orthologs, making this requirement inapplicable."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": false,
+                    "applicability_reasoning": "This section does not discuss multiple proteins or a protein family, therefore, this requirement does not apply."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "This section does not cover proteins lacking a human ortholog, so this requirement is not relevant."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": false,
+                    "applicability_reasoning": "The section does not describe protein families listed in Pfam, thus this requirement is not applicable."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": false,
+                    "applicability_reasoning": "This section is not discussing RNA families listed in Rfam, so the requirement does not apply."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": false,
+                    "applicability_reasoning": "This section does not pertain to enzymes based on EC number, making this inapplicable."
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": false,
+                    "applicability_reasoning": "This section does not involve human paralogs with assigned EC numbers, so this requirement is not relevant."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": false,
+                    "applicability_reasoning": "There is no discussion of Pfam families with single human paralogs, thereby making this requirement inapplicable."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": false,
+                    "applicability_reasoning": "The reference section does not involve a large number of applicable infoboxes, so the requirement does not apply."
+                },
+                {
+                    "requirement_id": "R11",
+                    "applicable": false,
+                    "applicability_reasoning": "There is no need to consider infobox layout as this section contains references."
+                }
+            ],
+            "meta_notes": "The References section does not have any applicable infobox requirements. Its primary purpose is to list cited articles rather than summarizing or structuring information typically found in infoboxes."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Regulation",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "The section discusses proteins and genes, indicating that an infobox might be applicable because anillin is a protein.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "There is no infobox present in the section.",
+                    "reasoning": "The section should include an infobox as it discusses gene/protein regulation.",
+                    "overlap_notes": "No overlap, as an infobox is absent."
+                },
+                {
+                    "requirement_id": "R13",
+                    "applicable": true,
+                    "applicability_reasoning": "Infoboxes are relevant for summarizing key facts about proteins discussed in the section.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "Key facts are not summarized in an infobox.",
+                    "reasoning": "An infobox is not present to summarize the section’s details.",
+                    "overlap_notes": "No overlap detected regarding summaries."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Infoboxes are essential at the top of the article for clarity and organization.",
+                    "score": 0.0,
+                    "confidence": 0.85,
+                    "evidence": "The article starts with content, lacking an infobox.",
+                    "reasoning": "The absence of an infobox at the beginning indicates the requirement is unmet.",
+                    "overlap_notes": "No overlap since no infobox exists."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Potentially applicable if the protein has a human ortholog, which should be reflected in content.",
+                    "score": 0.25,
+                    "confidence": 0.7,
+                    "evidence": "The presence of human and Drosophila references implies human ortholog but is not clarified.",
+                    "reasoning": "Partial adherence due to implied, yet not explicitly stated, human ortholog presence.",
+                    "overlap_notes": "Overlap in species mention but lacks clarity."
+                }
+            ],
+            "meta_notes": "The Regulation section lacks crucial features such as an infobox to enhance clarity and organization, and more explicit information on protein orthologs for human applicability."
+        }
+    ]
+}

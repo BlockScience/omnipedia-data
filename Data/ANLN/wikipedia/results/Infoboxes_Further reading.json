@@ -1,0 +1,75 @@
+{
+    "sections": [
+        {
+            "title": "Further reading",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": false,
+                    "applicability_reasoning": "This section is not the lead section, therefore an infobox is not relevant here."
+                },
+                {
+                    "requirement_id": "R13",
+                    "applicable": false,
+                    "applicability_reasoning": "Infoboxes summarizing key facts are applicable to the main sections but not relevant within a 'Further reading' section."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "The 'Further reading' section is not where infoboxes are typically placed."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "This requirement is specific to infoboxes and the 'Further reading' section does not require an infobox."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": false,
+                    "applicability_reasoning": "This requirement applies to protein family articles, but 'Further reading' does not involve discussing multiple proteins."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "The 'Further reading' section is not relevant to the placement of an infobox for non-human proteins."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": false,
+                    "applicability_reasoning": "The section does not pertain to discussing protein families listed in Pfam."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": false,
+                    "applicability_reasoning": "This further reading section does not involve discussing RNA families listed in Rfam."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": false,
+                    "applicability_reasoning": "The 'Further reading' section is designed for references and does not involve enzyme categorization."
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": false,
+                    "applicability_reasoning": "This section is focused on additional reading material, not on including infoboxes."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": false,
+                    "applicability_reasoning": "The requirement pertains to infoboxes, which are not applicable in a 'Further reading' section."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": false,
+                    "applicability_reasoning": "This section isn't intended for placing multiple infoboxes; it is used to provide additional reading materials."
+                },
+                {
+                    "requirement_id": "R11",
+                    "applicable": false,
+                    "applicability_reasoning": "No infobox formatting issues arise in 'Further reading' as it consists of reference listings."
+                }
+            ],
+            "meta_notes": "The 'Further reading' section contains a list of additional articles and references relevant to the topic. It is not intended to host infobox content."
+        }
+    ]
+}

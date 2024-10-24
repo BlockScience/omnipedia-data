@@ -1,0 +1,76 @@
+{
+    "sections": [
+        {
+            "title": "Clinical Significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "The section discusses gene abbreviations and their roles in clinical contexts, making adherence to the nomenclature guidelines crucial.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "Gene abbreviations, such as ADCYAP1 and ADCYAP1R1, are used and italicized, but not consistently.",
+                    "reasoning": "Strong adherence noted due to use of abbreviations, but inconsistent italicization requires minor improvements.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene abbreviations are recommended throughout the article to enhance readability.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Gene abbreviations are consistently used instead of full names, e.g., ADCYAP1.",
+                    "reasoning": "Complete adherence to the recommendation of using abbreviations.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "The section mentions several human genes, warranting the use of all capitals for those names.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Human gene names such as ADCYAP1 and ADCYAP1R1 are correctly capitalized.",
+                    "reasoning": "The section fully meets the requirement with correct capitalization of human gene names.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "The section does not discuss orthologs of human genes in non-human species.",
+                "overlap_notes": "Not applicable since content does not cover non-human genes."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": true,
+                    "applicability_reasoning": "Correct usage of gene symbols is necessary to maintain clarity and precision in language.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Phrases such as 'the ADCYAP1 gene...' are used appropriately, though some redundancy is present.",
+                    "reasoning": "Strong adherence, with minor redundancy observed in phrasing.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "The article should use a consistent form of English to ensure clarity.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "Content consistently uses American English spelling and grammar.",
+                    "reasoning": "Complete adherence to maintaining consistent language usage across the section.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "It's important to maintain an objective tone by avoiding first-person language.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section uses third-person objective language throughout.",
+                    "reasoning": "The section fully complies with avoiding first-person perspective.",
+                    "overlap_notes": "No overlaps detected."
+                }
+            ],
+            "meta_notes": "The section is detailed and maintains good adherence to language guidelines, with some minor improvements needed in italicization consistency."
+        }
+    ]
+}

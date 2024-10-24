@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "title": "Introduction",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": false,
+          "applicability_reasoning": "Requirement R1 pertains to diagrams which are not present in the introductory text."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": false,
+          "applicability_reasoning": "Requirement R2 applies to suggesting formatting expansions for diagrams, which is not relevant to this text-only introduction."
+        }
+      ],
+      "meta_notes": "The Introduction section does not include any diagrams or imagery and thus is not applicable for the listed requirements."
+    }
+  ]
+}

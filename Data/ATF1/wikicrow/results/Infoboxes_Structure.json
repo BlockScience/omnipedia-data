@@ -1,0 +1,60 @@
+{
+    "sections": [
+        {
+            "title": "Structure",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as the section relates to a gene/protein, and an infobox would be expected.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The section does not include an infobox.",
+                    "reasoning": "The guideline specifies the inclusion of an infobox for gene/protein articles, which is absent here.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R13",
+                    "applicable": true,
+                    "applicability_reasoning": "An infobox should summarize the key facts about the subject, which is applicable here.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "No infobox is present to summarize key facts.",
+                    "reasoning": "An infobox summarizing key facts is missing from the section, not adhering to the requirement.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Imperative standard for having an infobox at the top is unmet as no infobox exists.",
+                    "score": 0.0,
+                    "confidence": 0.95,
+                    "evidence": "The top of the article does not have any infobox.",
+                    "reasoning": "The absence of an infobox represents a lack of adherence to this requirement.",
+                    "overlap_notes": "No overlaps identified."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "The text does not address the presence of an ortholog which makes the applicability of this requirement unclear.",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "The section does not discuss non-human orthologs making this requirement irrelevant.",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": null
+                }
+            ],
+            "meta_notes": "The section lacks the required infoboxes which detracts from necessary best practices in documenting protein structure."
+        }
+    ]
+}

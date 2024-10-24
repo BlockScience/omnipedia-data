@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "Clinical Significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as this is a gene/protein article and an infobox should be used.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "The section lacks an infobox that summarizes key facts.",
+                    "reasoning": "The absence of an infobox is a critical oversight in meeting the requirement.",
+                    "overlap_notes": "No overlap detected as no infobox is present."
+                }
+            ],
+            "meta_notes": "This section misses an infobox which is essential for providing a quick reference to key facts about the gene/protein."
+        }
+    ]
+}

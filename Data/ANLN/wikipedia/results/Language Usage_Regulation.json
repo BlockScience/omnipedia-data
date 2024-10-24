@@ -1,0 +1,80 @@
+{
+  "sections": [
+    {
+      "title": "Regulation",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because gene abbreviations should follow standardized conventions.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Gene 'RhoA' is written in italic font style according to guidelines.",
+          "reasoning": "The section fully meets the requirement as the gene abbreviation is correctly styled.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": true,
+          "applicability_reasoning": "Relevant for language usage throughout the section.",
+          "score": 1.0,
+          "confidence": 0.90,
+          "evidence": "Gene abbreviation 'RhoA' is used instead of the full name.",
+          "reasoning": "Complete adherence as only abbreviations are used.",
+          "overlap_notes": "No overlaps in this section."
+        },
+        {
+          "requirement_id": "R3",
+          "applicable": true,
+          "applicability_reasoning": "Applies to human genes which should be in all capitals.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Gene 'RhoA' does not need to be in all capitals as it is not a human gene name.",
+          "reasoning": "The requirement is met for instances where human gene names are used.",
+          "overlap_notes": "No overlap with other sections."
+        },
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Applicable for orthologs or gene names in other species found in the section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Gene names such as 'Drosophila' are correctly capitalized as per guidelines.",
+          "reasoning": "Completely adheres to the guideline for non-human species gene names.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": true,
+          "applicability_reasoning": "Scientific names should be italicized in the text.",
+          "score": 0.75,
+          "confidence": 0.80,
+          "evidence": "Scientific name 'Drosophila' is italicized, but 'C. elegans' could be consistently styled.",
+          "reasoning": "Strong adherence with minor inconsistencies.",
+          "overlap_notes": "No overlaps detected."
+        },
+        {
+          "requirement_id": "R9",
+          "applicable": true,
+          "applicability_reasoning": "Consistency in the application of English variants is necessary throughout the section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The section maintains consistent use of English.",
+          "reasoning": "Successfully maintains a consistent language style.",
+          "overlap_notes": "No repetitive elements found."
+        },
+        {
+          "requirement_id": "R10",
+          "applicable": true,
+          "applicability_reasoning": "Applicable to maintain an encyclopedic tone.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No first-person language is observed in the section.",
+          "reasoning": "The section strictly follows the guideline, ensuring an objective tone.",
+          "overlap_notes": "No overlaps in language style detected."
+        }
+      ],
+      "meta_notes": "The section adheres well to gene nomenclature and language usage guidelines, with minimal room for improvement in scientific name styling."
+    }
+  ]
+}

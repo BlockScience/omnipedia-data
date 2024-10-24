@@ -1,0 +1,22 @@
+{
+  "sections": [
+    {
+      "title": "External links",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": false,
+          "applicability_reasoning": "Requirement R1 is related to diagrams and their standard formatting. The 'External links' section does not include diagrams, making this requirement inapplicable.",
+          "overlap_notes": "No diagrams present, therefore no overlap concerns related to diagrams."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": false,
+          "applicability_reasoning": "Requirement R2 pertains to suggesting expansions to diagram formatting, which is not relevant as no diagrams are included in the 'External links' section.",
+          "overlap_notes": "This requirement is related to diagrams, which are not part of this section."
+        }
+      ],
+      "meta_notes": "The 'External links' section focuses on providing additional resources and categorization. The requirements related to diagram formatting are not applicable here."
+    }
+  ]
+}

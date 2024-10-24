@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Cyk-4",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the section discusses a protein, and an infobox is required for clarity and summary.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "No infobox is present for the Cyk-4 protein in the section.",
+                    "reasoning": "The section does not include an infobox, which is a core requirement for protein articles.",
+                    "overlap_notes": "No overlaps related to infobox content detected."
+                },
+                {
+                    "requirement_id": "R13",
+                    "applicable": true,
+                    "applicability_reasoning": "Infobox should summarize key facts about Cyk-4, applicable in conjunction with R6.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "The absence of an infobox means no summarized key facts are provided as required.",
+                    "reasoning": "Complete lack of adherence as no infobox, which would summarize key facts, is present.",
+                    "overlap_notes": "No overlaps related to summarized information noted."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "As a best practice, an infobox should be at the top of the section.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "There is no infobox present at the top of the section.",
+                    "reasoning": "Zero adherence because the required infobox at the top of the section is missing.",
+                    "overlap_notes": "Absence of the infobox results in no relevant overlaps."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Since Cyk-4 is related to Drosophila and humans, it may have a human ortholog, thus requiring specific infobox type.",
+                    "score": 0.0,
+                    "confidence": 0.75,
+                    "evidence": "Section lacks any infobox, so no consideration of GNF protein infobox is seen.",
+                    "reasoning": "Non-compliance as the relevant infobox is missing despite potential relevance.",
+                    "overlap_notes": "No overlap in section due to the absence of infobox."
+                }
+            ],
+            "meta_notes": "The Cyk-4 section fails to adhere to infobox requirements, impacting clarity and comprehensiveness of information for readers."
+        }
+    ]
+}

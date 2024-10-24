@@ -1,0 +1,140 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "Applies only to the lead section for defining article scope."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "Relevant to the lead section for human ortholog specification."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Navigation boxes are included in this section to cross link related proteins.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The section includes navigation templates for transcription factors and regulomes.",
+                    "reasoning": "This section effectively uses navigation tools, but additional cross-linking might enhance connectivity.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "Not applicable since this is not the Clinical significance section."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Research groups and institutions are not mentioned in the external links.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "The content avoids naming any specific research groups.",
+                    "reasoning": "Fully meets the requirement as it refrains from mentioning any institutions.",
+                    "overlap_notes": "No overlaps relevant to content sections."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "Applies to the discovery/history section, which is not present here."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "Applies to categorization under genes/proteins which is not detailed in this section."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "Gene location information is not the focus of external links."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "Information about the infobox is not relevant in this context."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "Scope of the article including human protein/gene and orthologs is not the focus of this section."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "Paralogs discussion not relevant to external links."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Researcher’s credentials are not hyped in this external references content.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "The references focus purely on the gene/protein without hyping credentials.",
+                    "reasoning": "The section adheres well by maintaining neutrality and focus on content rather than authorship.",
+                    "overlap_notes": "Highlights relevant links without unnecessary author emphasis."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Mentioned studies discuss gene/protein interactions and regulatory functions.",
+                    "score": 0.5,
+                    "confidence": 0.75,
+                    "evidence": "Regulome content references activation by CaMK II.",
+                    "reasoning": "Partial adherence as some regulatory functions are mentioned but could be more comprehensive.",
+                    "overlap_notes": "Overlap with general regulatory details in content."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "Relates to discovery/history sections not relevant to external links."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "Focuses on a definition, not relevant for links."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "Function section details not covered in external links."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "Redundancy discussions do not apply here."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "Lead section scope relevance doesn't affect external links."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Ensures neutrality throughout external links.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Presentation of facts without bias in linking contents.",
+                    "reasoning": "Achieves neutrality through balanced information.",
+                    "overlap_notes": "Overlapping neutrality principles with other sections."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": true,
+                    "applicability_reasoning": "All linked studies need to be verifiable within context of content.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The references section includes PubMed verified study.",
+                    "reasoning": "Studies are generally sourced well, though not exhaustive verification.",
+                    "overlap_notes": "Consistency with sourcing in content sections."
+                }
+            ],
+            "meta_notes": "The section mostly satisfies external linking criteria, ensuring neutral and verified content without redundancy, with minor areas for more detailed regulatory function."
+        }
+    ]
+}

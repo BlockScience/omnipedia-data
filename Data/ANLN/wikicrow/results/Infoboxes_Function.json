@@ -1,0 +1,30 @@
+{
+  "sections": [
+    {
+      "title": "Function",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R6",
+          "applicable": true,
+          "applicability_reasoning": "This section discusses the function of ANLN, a gene/protein, and an infobox is relevant as it should include key facts about the gene/protein.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "No infobox is present summarizing key facts and the function of the ANLN gene/protein.",
+          "reasoning": "The guideline suggests including an infobox for gene/protein articles, which is absent.",
+          "overlap_notes": "The section lacks an overview structure that utilizes an infobox."
+        },
+        {
+          "requirement_id": "R13",
+          "applicable": true,
+          "applicability_reasoning": "Given this section's detailed content on the function of ANLN, an infobox summarizing the main points would enhance the reader's understanding.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "Currently, there is detailed text explanation, but no summarization in the form of an infobox.",
+          "reasoning": "Summarizing key facts in an infobox would support the textual content, providing clarity and quick reference.",
+          "overlap_notes": "An infobox is necessary to consolidate the information provided in the text."
+        }
+      ],
+      "meta_notes": "The Function section thoroughly explains the role and interactions of ANLN but lacks an infobox that could enhance summarization and accessibility of key facts."
+    }
+  ]
+}

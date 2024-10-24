@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "See also",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R15",
+                    "applicable": true,
+                    "applicability_reasoning": "The 'See also' section is intended to provide links to related articles that offer additional context or information.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section includes links to 'Adenylate cyclase' and 'Pituitary gland', which are relevant topics related to the article.",
+                    "reasoning": "The section fully adheres to the requirement by providing appropriate links to related topics.",
+                    "overlap_notes": "No significant overlaps detected."
+                }
+            ],
+            "meta_notes": "The 'See also' section effectively fulfills its purpose by linking to relevant related articles, providing clear and useful connections for further reading."
+        }
+    ]
+}

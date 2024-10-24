@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R8",
+                    "applicable": true,
+                    "applicability_reasoning": "The section includes a specific claim or information that could be linked to a reliable source for direct evidence.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "The section contains an external link using the UCSC gene info template which provides a hyperlink.",
+                    "reasoning": "The section fully adheres to the requirement by supplying a clear hyperlink to a reliable source.",
+                    "overlap_notes": "No significant overlaps detected with other content areas."
+                }
+            ],
+            "meta_notes": "The 'External links' section effectively uses hyperlinks to connect readers to additional reliable information."
+        }
+    ]
+}

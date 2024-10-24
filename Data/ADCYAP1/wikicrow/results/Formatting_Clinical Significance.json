@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "title": "Clinical Significance",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Gene symbols appear throughout the section and should be italicized as per the requirement.",
+          "score": 0.0,
+          "confidence": 0.95,
+          "evidence": "Gene symbols such as ADCYAP1, ADCYAP1R1, and specific SNPs are not italicized in the content.",
+          "reasoning": "No gene symbols are italicized in the section, failing to meet the requirement.",
+          "overlap_notes": "No overlaps detected."
+        },
+        {
+          "requirement_id": "R6",
+          "applicable": true,
+          "applicability_reasoning": "Consistent formatting for section headings is applicable to ensure proper structure.",
+          "score": 0.75,
+          "confidence": 0.90,
+          "evidence": "The section title is consistently formatted with the rest of the document.",
+          "reasoning": "There is strong adherence with room for minor improvements.",
+          "overlap_notes": "Consistent with formatting standards in other sections."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": true,
+          "applicability_reasoning": "Lists are a potential format for presenting multiple points or findings.",
+          "score": 0.25,
+          "confidence": 0.80,
+          "evidence": "Content is presented in paragraph form despite opportunities to use lists for clearer presentation.",
+          "reasoning": "Minimal adherence as information in paragraphs could be better structured with bullet points.",
+          "overlap_notes": "No additional overlapping sections noted."
+        }
+      ],
+      "meta_notes": "This section is robust in content but struggles with formatting and structuring, particularly with gene symbol formatting and potential list usage."
+    }
+  ]
+}

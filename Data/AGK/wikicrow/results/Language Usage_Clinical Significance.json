@@ -1,0 +1,60 @@
+{
+    "sections": [
+        {
+            "title": "Clinical Significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "The section discusses various genes, making the use of correct gene abbreviations necessary.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Gene AGK is written in italics as per HUGO guidelines.",
+                    "reasoning": "The gene is presented correctly in italics, adhering fully to the requirement.",
+                    "overlap_notes": "No significant overlaps detected concerning gene abbreviation."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene abbreviations are used instead of full names, aligning with best practices.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section consistently uses 'AGK' instead of the full name of the gene.",
+                    "reasoning": "The abbreviation is used effectively throughout the section, meeting the guideline.",
+                    "overlap_notes": "No issues related to gene naming detected."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Human gene names like AGK are used in this section.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Human gene AGK is written in all capitals consistently.",
+                    "reasoning": "The section correctly uses capitalized gene names, conforming to the requirement.",
+                    "overlap_notes": "Consistent with gene naming conventions across other sections."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistent use of English variation is necessary for maintaining clarity across the article.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The section uses American English consistently.",
+                    "reasoning": "Overall adherence to consistent language use is strong, with minor room for disclaimer clarifications.",
+                    "overlap_notes": "No language variation detection inconsistencies noted across sections."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "The section should maintain an encyclopedic tone, avoiding first-person language.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "No first-person language detected, maintains a formal tone.",
+                    "reasoning": "Meets requirement by keeping a neutral, encyclopedic tone without personal references.",
+                    "overlap_notes": "Consistently maintains an appropriate tone across sections."
+                }
+            ],
+            "meta_notes": "The section effectively meets language usage criteria with strong adherence to nomenclature and tone standards."
+        }
+    ]
+}

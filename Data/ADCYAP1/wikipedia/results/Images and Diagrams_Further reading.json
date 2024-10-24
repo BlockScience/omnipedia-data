@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "Further reading",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "The section consists of a list of further readings (references) without diagrams. Therefore, formatting requirements related to diagrams are not applicable."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "As there are no diagrams in this section, the guideline for suggesting expansions to standard formatting is not applicable."
+                }
+            ],
+            "meta_notes": "The section contains references for further reading and does not include any diagrams; requirements related to diagram formatting are not applicable."
+        }
+    ]
+}

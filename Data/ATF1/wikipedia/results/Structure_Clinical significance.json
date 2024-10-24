@@ -1,0 +1,60 @@
+{
+    "sections": [
+        {
+            "title": "Clinical significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the article is about a gene.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The Clinical significance section lacks a History/Discovery sub-section.",
+                    "reasoning": "The section could be improved by including details about the history or discovery of the gene.",
+                    "overlap_notes": "No overlap related to history or discovery."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "Relevant to content sections to maintain a standard structure.",
+                    "score": 0.5,
+                    "confidence": 0.8,
+                    "evidence": "The section discusses gene fusion and related diseases but lacks structured subsections.",
+                    "reasoning": "Partial adherence; while clinical aspects are covered, the structure could be improved.",
+                    "overlap_notes": "The section does mention pseudogene location, similar to other places in the article."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because a logical structure is desired for clarity.",
+                    "score": 0.5,
+                    "confidence": 0.85,
+                    "evidence": "Information is presented logically but could benefit from clearer subheadings.",
+                    "reasoning": "The logical flow can be improved by dividing content into more detailed subsections.",
+                    "overlap_notes": "No unnecessary overlap detected."
+                },
+                {
+                    "requirement_id": "R14",
+                    "applicable": true,
+                    "applicability_reasoning": "Necessary for the clear organization of information.",
+                    "score": 0.5,
+                    "confidence": 0.85,
+                    "evidence": "The section provides relevant clinical details but lacks a clear structure with headings.",
+                    "reasoning": "Improvement needed in organizing content into subsections for ease of understanding.",
+                    "overlap_notes": "Detailed organization absent but no direct redundancy."
+                },
+                {
+                    "requirement_id": "R11",
+                    "applicable": true,
+                    "applicability_reasoning": "Subheadings are needed to manage various clinical topics.",
+                    "score": 0.25,
+                    "confidence": 0.7,
+                    "evidence": "No subheadings are present though multiple topics are discussed.",
+                    "reasoning": "Minimal adherence; subheadings would significantly enhance clarity.",
+                    "overlap_notes": "Introduction section interconnected but lacks distinct subsections."
+                }
+            ],
+            "meta_notes": "The Clinical significance section is informative but lacks structured subheadings and a historical context. It needs improvement in organization and clarity by adopting a more standard format."
+        }
+    ]
+}

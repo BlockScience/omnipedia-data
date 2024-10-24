@@ -1,0 +1,22 @@
+{
+  "sections": [
+    {
+      "title": "Function",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": false,
+          "applicability_reasoning": "The section does not contain diagrams, hence the formatting requirement for diagrams is not applicable.",
+          "overlap_notes": "No significant overlaps detected as the requirement is not applicable."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": false,
+          "applicability_reasoning": "There are no diagrams included in the section to consider any expansions to standardized formatting.",
+          "overlap_notes": "No overlaps detected as the requirement is not relevant."
+        }
+      ],
+      "meta_notes": "The section focuses on descriptive content without the use of diagrams, where both requirements related to formatting and possible extensions are non-applicable."
+    }
+  ]
+}

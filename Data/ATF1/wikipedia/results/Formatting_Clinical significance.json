@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "title": "Clinical significance",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as gene symbols are mentioned in this section and should be italicized for consistency.",
+          "score": 0.5,
+          "confidence": 0.85,
+          "evidence": "Gene symbols such as FUS and EWSR1 are mentioned but not italicized.",
+          "reasoning": "Gene symbols need to be italicized to adhere to the formatting guidelines. Current format partially meets the requirement.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "It is applicable since section headers in documentation should be consistent for easy navigation and referencing.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The section header 'Clinical significance' is consistently formatted with other sections.",
+          "reasoning": "Complete adherence to section header formatting standards.",
+          "overlap_notes": "No overlaps in section title formatting."
+        },
+        {
+          "requirement_id": "R6",
+          "applicable": true,
+          "applicability_reasoning": "The logical order of sections within the article is relevant to maintain a coherent narrative flow.",
+          "score": 1.0,
+          "confidence": 0.90,
+          "evidence": "The article follows a logical order: Introduction, followed by Clinical Significance.",
+          "reasoning": "The organization aligns with best practice standards for gene articles.",
+          "overlap_notes": "Consistent section ordering observed."
+        }
+      ],
+      "meta_notes": "Section needs improvement in adhering to gene symbol formatting standards but follows logical section ordering and consistent header formatting."
+    }
+  ]
+}

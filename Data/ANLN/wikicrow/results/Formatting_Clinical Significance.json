@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Clinical Significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene symbols like ANLN should be italicized as per formatting standards.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "All occurrences of the gene symbol 'ANLN' in the content are italicized.",
+                    "reasoning": "The use of italics for gene symbols is consistent throughout the section.",
+                    "overlap_notes": "No overlaps with other sections regarding gene symbol formatting."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "The section header follows the format 'ANLN > Clinical Significance', aligning with consistent formatting practices.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section header consistently follows the hierarchical pattern.",
+                    "reasoning": "The section adheres to the required format for headings and subheadings.",
+                    "overlap_notes": "Heading format consistency reinforced by other sections."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "The section is purpose-fit within the logical order of a complete article on a gene/protein, following typical structure.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Located logically after assumed introduction and possibly structure/function sections.",
+                    "reasoning": "Fits logically within an article's expected sequence but lacks explicit context without other sections visible.",
+                    "overlap_notes": "Structure generally supportive but not independently confirmable."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "Information is organized in narrative form without bulleted lists where possible, e.g., cancer types affected.",
+                    "score": 0.5,
+                    "confidence": 0.75,
+                    "evidence": "Cancer types and impacts listed, yet formatted in prose rather than lists.",
+                    "reasoning": "While information is comprehensive, accessibility could be improved with bullet points.",
+                    "overlap_notes": "List format could improve readability but no overlaps detected."
+                }
+            ],
+            "meta_notes": "The section is informative and adheres well to the formatting standards. It could improve readability with appropriate use of bullet points for listing multiple cancer types."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "sections": [
+        {
+            "title": "References",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as gene abbreviations are used in scientific references.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The gene ADCYAP1 is mentioned in the title without italics.",
+                    "reasoning": "Strong adherence as gene abbreviations are used, but not italicized as per guidelines.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Recommended to use gene abbreviations instead of full names in citations.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Gene abbreviations are used instead of full names in all references.",
+                    "reasoning": "Complete adherence with usage of gene abbreviations.",
+                    "overlap_notes": "No overlaps noted."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": false,
+                    "applicability_reasoning": "No direct mention of human gene names in the reference titles.",
+                    "overlap_notes": "Not applicable in this section."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "No mention of protein names within this section.",
+                    "overlap_notes": "Not applicable in this section."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "American or British English usage is relevant for consistent citation formatting.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "Consistent language usage is noted throughout the references.",
+                    "reasoning": "Complete adherence to consistent language use.",
+                    "overlap_notes": "No overlaps noted."
+                }
+            ],
+            "meta_notes": "The references section is mostly compliant with gene nomenclature and abbreviation guidelines, with minor improvements needed for italicizing gene symbols."
+        }
+    ]
+}

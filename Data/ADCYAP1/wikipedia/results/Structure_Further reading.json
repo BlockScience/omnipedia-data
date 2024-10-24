@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "Further reading",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the 'Further reading' section should logically organize references, which contribute to the overall coherence of the article.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "The references are listed in a clear and organized manner, consistent with citation formatting standards.",
+                    "reasoning": "The section is generally well-organized, with references listed systematically. However, ensuring consistent formatting across all entries could enhance clarity.",
+                    "overlap_notes": "No overlap with other sections since this is primarily a reference list."
+                },
+                {
+                    "requirement_id": "R14",
+                    "applicable": true,
+                    "applicability_reasoning": "This section should facilitate a clear and logical progression when used by readers seeking additional resources.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The references are structured chronologically and thematically to some extent.",
+                    "reasoning": "The logical structure is evident as references follow a loosely thematic grouping, enhancing usability but could benefit from clearer sub-categorization based on topics or themes.",
+                    "overlap_notes": "This categorization aids flow but is limited to this section only."
+                }
+            ],
+            "meta_notes": "The 'Further reading' section is generally well-organized. Enhancements could focus on strict adherence to thematic categorization and citation consistency."
+        }
+    ]
+}

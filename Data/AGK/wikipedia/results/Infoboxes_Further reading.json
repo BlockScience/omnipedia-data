@@ -1,0 +1,75 @@
+{
+  "sections": [
+    {
+      "title": "Further reading",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R6",
+          "applicable": false,
+          "applicability_reasoning": "This section is for further reading references and does not serve as the lead section of the article where an infobox would be appropriate."
+        },
+        {
+          "requirement_id": "R13",
+          "applicable": false,
+          "applicability_reasoning": "Infoboxes are intended for summarizing key facts at the top of the article, not in a 'Further reading' section which provides additional references."
+        },
+        {
+          "requirement_id": "R1",
+          "applicable": false,
+          "applicability_reasoning": "This requirement is relevant to the top of articles, not for the 'Further reading' section, which is supplementary."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": false,
+          "applicability_reasoning": "This section does not involve infoboxes; it is focused on additional literature for readers interested in more depth."
+        },
+        {
+          "requirement_id": "R3",
+          "applicable": false,
+          "applicability_reasoning": "The requirement pertains to Infobox protein for family articles, not relevant to the 'Further reading' section."
+        },
+        {
+          "requirement_id": "R4",
+          "applicable": false,
+          "applicability_reasoning": "This requirement relates to nonhuman protein infoboxes, which are not relevant to the literature reference section."
+        },
+        {
+          "requirement_id": "R5",
+          "applicable": false,
+          "applicability_reasoning": "The requirement is specific to protein families listed in Pfam, not applicable to the format and purpose of further reading sections."
+        },
+        {
+          "requirement_id": "R6",
+          "applicable": false,
+          "applicability_reasoning": "Rfam infoboxes are unrelated to the 'Further reading' purpose, which is to guide readers to additional resources, hence not applicable."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": false,
+          "applicability_reasoning": "The section is for reading references, not for presenting key enzyme information supported by infobox."
+        },
+        {
+          "requirement_id": "R8",
+          "applicable": false,
+          "applicability_reasoning": "Enzyme infobox considerations are not relevant to this section's purpose which focuses on additional reading."
+        },
+        {
+          "requirement_id": "R9",
+          "applicable": false,
+          "applicability_reasoning": "Infobox requirements for Pfam families do not apply to further reading sections focused on additional resources."
+        },
+        {
+          "requirement_id": "R10",
+          "applicable": false,
+          "applicability_reasoning": "There is no use of infoboxes requiring subsection placement as the section is reference-focused."
+        },
+        {
+          "requirement_id": "R11",
+          "applicable": false,
+          "applicability_reasoning": "Since no infoboxes are present in this section, this collapsing consideration is inapplicable."
+        }
+      ],
+      "meta_notes": "The 'Further reading' section is appropriately defined for supplemental references and does not require infobox evaluations."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "title": "Further reading",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Gene symbols should be italicized throughout the article, and this is relevant in the 'Further reading' section as references are provided.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "No gene symbols are italicized in the references listed.",
+          "reasoning": "There is no adherence to italicizing gene symbols. The references contain gene symbols that are not italicized.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R6",
+          "applicable": true,
+          "applicability_reasoning": "Ensures that section headers are consistent throughout the article.",
+          "score": 0.75,
+          "confidence": 0.85,
+          "evidence": "The 'Further reading' header is consistent with typical section headers in a scholarly article.",
+          "reasoning": "The section header is consistent with common practices but there could be more uniformity if other headers are present.",
+          "overlap_notes": "No overlaps in this section."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": true,
+          "applicability_reasoning": "Using bullet points is appropriate for listing references to improve readability.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "All references in the section are listed with bullet points.",
+          "reasoning": "Complete adherence is achieved with references formatted as bullet points to enhance readability.",
+          "overlap_notes": "No meaningful overlap."
+        }
+      ],
+      "meta_notes": "The section utilizes bullet points effectively for the list of references. It lacks adherence in italicizing gene symbols but maintains consistent heading formatting."
+    }
+  ]
+}

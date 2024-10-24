@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "Structure",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "Requirement R1 is not applicable as this section does not contain diagrams."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "Requirement R2 is not applicable since there is no diagram guide requirement in this text."
+                }
+            ],
+            "meta_notes": "This section describes the structure of the AGK gene and protein without the use of diagrams, hence no applicability of the given requirements."
+        }
+    ]
+}

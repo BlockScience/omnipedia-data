@@ -1,0 +1,993 @@
+[
+  {
+    "Content": {
+      "description": "Requirements related to the substantive content of the articles.",
+      "requirements": [
+        {
+          "id": "R1",
+          "description": "An article should start with a clear definition in the lead section.",
+          "reference": "The first sentence of the lead should define what the scope of the article is.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Lead section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R2",
+          "description": "For genes/proteins with a human ortholog, the lead should specify the protein and gene.",
+          "reference": "\"For genes/proteins in which a human ortholog exists, 'recommended UniProt name' is a protein that in humans is encoded by the 'approved HUGO gene symbol' gene.\"",
+          "category": "Content",
+          "classification": "Contextual Considerations",
+          "where": "Lead section",
+          "when": "Applicable for gene/protein articles with human orthologs."
+        },
+        {
+          "id": "R1",
+          "description": "Articles about related proteins may be cross linked by including one or more navigation boxes.",
+          "reference": "Articles about related proteins may be cross linked by including one or more [[WP:NAVBOX|navigation boxes]] as appropriate.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Content section",
+          "when": "When articles are about related proteins."
+        },
+        {
+          "id": "R1",
+          "description": "List diseases or conditions that are a result of a mutation in the gene or a deficiency or excess of the expressed protein.",
+          "reference": "List diseases or conditions that are a result of a mutation in the gene or a deficiency or excess of the expressed protein.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Clinical significance section",
+          "when": "Always applicable for gene/protein articles."
+        },
+        {
+          "id": "R1",
+          "description": "Do not mention the research group or institution directly in the text of the article.",
+          "reference": "In general, it is not appropriate to mention the research group or institution that conducted a study directly in the text of the article.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Content section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R2",
+          "description": "List the names of those who made key discoveries concerning the gene or protein.",
+          "reference": "However it is appropriate to list the names of those who made key discoveries concerning the gene or protein in this section (e.g., the scientist or group that originally cloned the gene, determined its function, linked it to a disease, won a major award for the discovery, etc.).",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "History/Discovery section",
+          "when": "Applicable when discussing key discoveries."
+        },
+        {
+          "id": "R2",
+          "description": "Gene and protein articles should be categorized appropriately.",
+          "reference": "Categories or subcategories that may be appropriate for gene and protein articles include: [[:Category:Proteins]], [[:Category:Enzymes by function]], [[:Category:Genes by human chromosome]].",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Article metadata",
+          "when": "Applicable to gene and protein articles."
+        },
+        {
+          "id": "R1",
+          "description": "Specific information about the gene should be included, such as its location on the human chromosome and regulation.",
+          "reference": "Specific information about the gene (on which human chromosome it is located, regulation, etc.).",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Content section",
+          "when": "Always applicable for gene articles."
+        },
+        {
+          "id": "R2",
+          "description": "Basic information already contained in the infobox should not be unnecessarily repeated in the content section unless especially notable.",
+          "reference": "Much of this basic information may already contained in the infobox and should not be unnecessarily repeated in this section unless especially notable.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Content section",
+          "when": "Applicable when information is already in the infobox."
+        },
+        {
+          "id": "R1",
+          "description": "The scope of a gene/protein article should include the human gene/protein and orthologs in other species.",
+          "reference": "The scope of a gene/protein article is the human gene/protein (including all splice variants derived from that gene) as well as orthologs (as listed in HomoloGene) that exist in other species.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable for gene/protein articles."
+        },
+        {
+          "id": "R2",
+          "description": "If there are paralogs in humans, a gene family article should be created in addition to gene-specific articles.",
+          "reference": "If there are paralogs in humans (and by extension other species), then a gene family article in addition to the gene specific articles would be appropriate.",
+          "category": "Content",
+          "classification": "Contextual Considerations",
+          "where": "Content section",
+          "when": "Applicable when paralogs exist."
+        },
+        {
+          "id": "R3",
+          "description": "Do not hype a study by listing the names, credentials, institutions, or other qualifications of their authors.",
+          "reference": "In general, do not hype a study by listing the names, credentials, institutions, or other \"qualifications\" of their authors.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R4",
+          "description": "Article prose should focus on what a cited study says about the structure, function, clinical significance, etc. of the gene or protein.",
+          "reference": "Article prose should focus on what a cited study says about the structure, function, clinical significance, etc. of the gene or protein.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Content section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R5",
+          "description": "Notable contributions and who made the discovery should be mentioned in the discovery/history section.",
+          "reference": "Particularly notable contributions along with who made the discovery however should be mentioned in the discovery/history section.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Discovery/history section",
+          "when": "When notable contributions are relevant."
+        },
+        {
+          "id": "R1",
+          "description": "An article should start with a clear definition in the lead section.",
+          "reference": "The first sentence of the lead should define what the scope of the article is.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Lead section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R2",
+          "description": "Describe the function of the transcribed protein.",
+          "reference": "Describe the function of the transcribed protein.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Function section",
+          "when": "Applicable for gene/protein articles."
+        },
+        {
+          "id": "R1",
+          "description": "An article should start with a clear definition in the lead section.",
+          "reference": "The first sentence of the lead should define what the scope of the article is.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Lead section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R2",
+          "description": "The 'Interactions' section should list proteins that the subject protein is known to interact with.",
+          "reference": "Optional section that lists proteins that the protein that is the subject of the article is known to interact with.",
+          "category": "Content",
+          "classification": "Flexible Guidelines",
+          "where": "Interactions section",
+          "when": "Applicable when interaction data is available."
+        },
+        {
+          "id": "R1",
+          "description": "Use the recommended UniProt protein name as the article name if it is relatively short.",
+          "reference": "If relatively short, the recommended UniProt protein name should be used as the article name.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Article title",
+          "when": "Applicable when the UniProt protein name is short."
+        },
+        {
+          "id": "R2",
+          "description": "Use a widely used protein acronym or the official HUGO gene symbol if the protein name is verbose.",
+          "reference": "If the protein name is verbose, either a widely used protein acronym or the official HUGO gene symbol, followed by '(gene)' if necessary to disambiguate.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Article title",
+          "when": "Applicable when the protein name is verbose."
+        },
+        {
+          "id": "R3",
+          "description": "Enumerate different members of a protein family with a dash followed by an Arabic number.",
+          "reference": "The different members should be enumerated with a dash '-' followed by an Arabic number, e.g. 'desmoglein-1', 'desmoglein-2', etc.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Applicable for proteins grouped into a family based on homology or shared function."
+        },
+        {
+          "id": "R4",
+          "description": "Include the taxon in the title for viral protein articles.",
+          "reference": "If the article is about a viral protein, it is recommended to include the taxon in the title.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Article title",
+          "when": "Applicable for articles about viral proteins."
+        },
+        {
+          "id": "R5",
+          "description": "A parenthesized term added to disambiguate common symbols does not constitute unnecessary disambiguation.",
+          "reference": "A parenthesized term added to disambiguate common symbols does not constitute unnecessary disambiguation even when it is the only article with such a name.",
+          "category": "Content",
+          "classification": "Flexible Guidelines",
+          "where": "Article title",
+          "when": "Applicable when disambiguating common symbols."
+        },
+        {
+          "id": "R1",
+          "description": "Specific information about the protein should not be unnecessarily repeated unless especially notable.",
+          "reference": "Specific information about the protein (splice variants, post translational modifications, etc.). Again, much of this basic information may already contained in the infobox and should not be unnecessarily repeated unless especially notable.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Content section",
+          "when": "When detailing protein information."
+        },
+        {
+          "id": "R1",
+          "description": "An article should start with a clear definition in the lead section.",
+          "reference": "The first sentence of the lead should define what the scope of the article is.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Lead section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R2",
+          "description": "The article should provide a comprehensive overview of the gene or protein.",
+          "reference": "The article should provide a comprehensive overview of the gene or protein, including its function, structure, and significance.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Applicable for all gene/protein articles."
+        },
+        {
+          "id": "R1",
+          "description": "Optional section that concisely describes species, tissue, and subcellular distribution of the gene.",
+          "reference": "Optional section that concisely describes what species this gene is expressed (e.g., wide species distribution, bacteria, fungi, vertebrates, mammals, etc.), what tissue the protein is expressed, and which subcellular compartments or organelles the protein is found (excreted, cytoplasm, nucleus, mitochondria, cell membrane).",
+          "category": "Content",
+          "classification": "Flexible Guidelines",
+          "where": "Species, tissue, and subcellular distribution section",
+          "when": "Applicable when discussing gene/protein expression."
+        },
+        {
+          "id": "R1",
+          "description": "An article should start with a clear definition in the lead section.",
+          "reference": "The first sentence of the lead should define what the scope of the article is.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Lead section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R2",
+          "description": "The lead section should summarize the most important points of the article.",
+          "reference": "The lead should summarize the most important points, including the subject's significance, and establish context.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Lead section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R3",
+          "description": "Articles should be written in a neutral point of view.",
+          "reference": "All Wikipedia articles and other encyclopedic content must be written from a neutral point of view.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R4",
+          "description": "Avoid using jargon and technical terms without explanation.",
+          "reference": "Avoid using jargon and technical terms without explanation, as Wikipedia is for a general audience.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Applicable when technical terms are used."
+        },
+        {
+          "id": "R5",
+          "description": "Ensure that all statements are verifiable with reliable sources.",
+          "reference": "All material in Wikipedia mainspace, including everything in articles, lists, and captions, must be verifiable.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R1",
+          "description": "The Wikipedia article should be linked to a Wikidata item of the entity first mentioned in the first sentence of the lead section.",
+          "reference": "The Wikipedia article should be linked to a Wikidata item of the entity first mentioned in the first sentence of the lead section, which should be written as defined in [[WP:MCBMOSSECTIONS]].",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Lead section",
+          "when": "Always applicable for gene/protein articles."
+        },
+        {
+          "id": "R1",
+          "description": "An article should start with a clear definition in the lead section.",
+          "reference": "The first sentence of the lead should define what the scope of the article is.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Lead section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R2",
+          "description": "The lead section should summarize the most important points of the article.",
+          "reference": "The lead should summarize the most important points of the article.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Lead section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R3",
+          "description": "The article should provide context for the topic.",
+          "reference": "Provide context for the topic so that it is understandable to a general audience.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        }
+      ]
+    },
+    "Language Usage": {
+      "description": "Guidelines for the appropriate use of language, including gene nomenclature and abbreviations.",
+      "requirements": [
+        {
+          "id": "R1",
+          "description": "Gene abbreviations should be according to HUGO Gene Nomenclature Committee guidelines and written in italic font style.",
+          "reference": "The abbreviations of genes are according to HUGO Gene Nomenclature Committee and written in italic font style.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R2",
+          "description": "It is recommended to use gene abbreviations instead of the full name.",
+          "reference": "It is recommended that abbreviations instead of the full name are used.",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R3",
+          "description": "Human gene names should be written in all capitals.",
+          "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Applicable for human genes only."
+        },
+        {
+          "id": "R4",
+          "description": "For orthologs of human genes in other species, only the initial letter is capitalised.",
+          "reference": "For orthologs of human genes in other species, only the initial letter is capitalised, for example mouse Aldoa, bovine Ins, etc.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Applicable for non-human species."
+        },
+        {
+          "id": "R5",
+          "description": "Use 'the ALDOA gene is regulated...' or 'ALDOA is regulated...' instead of 'the gene ALDOA is regulated'.",
+          "reference": "The following usages of gene symbols are recommended: 'the ALDOA gene is regulated...', 'ALDOA is regulated...', while the following is not recommended: 'the gene ALDOA is regulated' since it is redundant.",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R6",
+          "description": "Use 'the rat gene for Aldoa is regulated...' for non-human genes.",
+          "reference": "The following usages of gene symbols are recommended: 'the rat gene for Aldoa is regulated...'.",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Applicable for non-human species."
+        },
+        {
+          "id": "R3",
+          "description": "Human gene names should be written in all capitals.",
+          "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Applicable for human genes only."
+        },
+        {
+          "id": "R3",
+          "description": "Human gene names should be written in all capitals.",
+          "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Applicable for human genes only."
+        },
+        {
+          "id": "R3",
+          "description": "Human gene names should be written in all capitals.",
+          "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Applicable for human genes only."
+        },
+        {
+          "id": "R4",
+          "description": "Protein names should be written with the first letter capitalized.",
+          "reference": "Protein names are written with the first letter capitalized, for example Aldolase A, Insulin, etc.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Applicable for protein names."
+        },
+        {
+          "id": "R9",
+          "description": "Use American or British English consistently throughout the article.",
+          "reference": "Articles should use either American or British English consistently, unless the subject has a strong national tie to a particular English-speaking nation.",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R10",
+          "description": "Avoid using first-person language.",
+          "reference": "First-person language should be avoided to maintain an encyclopedic tone.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R6",
+          "description": "Human gene names should be written in all capitals.",
+          "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Applicable for human genes only."
+        },
+        {
+          "id": "R7",
+          "description": "Use scientific names in italics.",
+          "reference": "Scientific names should be italicized.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "When mentioning scientific names."
+        }
+      ]
+    },
+    "Structure": {
+      "description": "Guidelines on how to structure the article sections.",
+      "requirements": [
+        {
+          "id": "R3",
+          "description": "Include a History/Discovery section for articles about genes or proteins.",
+          "reference": "Example articles of what such an organization may look like are: [[Protein C]], [[Gonadotropin-releasing hormone]] or [[Rubisco]].",
+          "category": "Structure",
+          "classification": "Best Practices",
+          "where": "History/Discovery section",
+          "when": "Applicable for gene/protein articles."
+        },
+        {
+          "id": "R1",
+          "description": "Every Wikipedia article should be added to at least one category.",
+          "reference": "Every Wikipedia article should be added to at least one [[WP:CATEGORY|category]].",
+          "category": "Structure",
+          "classification": "Imperative Standards",
+          "where": "Article metadata",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R7",
+          "description": "Articles should follow a standard structure.",
+          "reference": "Articles should follow a standard structure with sections such as lead, function, and infobox.",
+          "category": "Structure",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R6",
+          "description": "Articles should follow a logical structure with clear sections.",
+          "reference": "The article should be organized into sections that follow a logical order.",
+          "category": "Structure",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R14",
+          "description": "Articles should have a clear and logical structure.",
+          "reference": "Articles should have a clear and logical structure, with sections and subsections used to organize content.",
+          "category": "Structure",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R15",
+          "description": "The 'See also' section should include links to related articles.",
+          "reference": "The 'See also' section should include links to related articles that provide additional context or information.",
+          "category": "Structure",
+          "classification": "Best Practices",
+          "where": "End of the article",
+          "when": "Applicable when related articles exist."
+        },
+        {
+          "id": "R10",
+          "description": "Articles should have a clear and logical structure.",
+          "reference": "Articles should be structured in a clear and logical manner.",
+          "category": "Structure",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R11",
+          "description": "Use subheadings to organize content within sections.",
+          "reference": "Subheadings should be used to organize content within sections.",
+          "category": "Structure",
+          "classification": "Best Practices",
+          "where": "Content sections",
+          "when": "When sections contain multiple topics."
+        }
+      ]
+    },
+    "Images and Diagrams": {
+      "description": "Guidelines for the use of images and diagrams in articles.",
+      "requirements": [
+        {
+          "id": "R1",
+          "description": "Diagrams should adhere to a standard format where possible.",
+          "reference": "Where possible, diagrams should keep to a standard format.",
+          "category": "Formatting",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Whenever diagrams are used."
+        },
+        {
+          "id": "R2",
+          "description": "Suggest expansions to the standardized formatting if the diagram guide is insufficient.",
+          "reference": "If the diagram guide does not give sufficient guidance on the style for the images in an article, consider suggesting expansions to the standardised formatting.",
+          "category": "Supplementary Information",
+          "classification": "Flexible Guidelines",
+          "where": "Discussion pages or project pages",
+          "when": "When existing guidelines are insufficient."
+        }
+      ]
+    },
+    "Formatting": {
+      "description": "Requirements related to the formatting of the articles.",
+      "requirements": [
+        {
+          "id": "R4",
+          "description": "Use italics for gene symbols.",
+          "reference": "Gene symbols should be italicized.",
+          "category": "Formatting",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Applicable for gene symbols."
+        },
+        {
+          "id": "R4",
+          "description": "Use consistent formatting for section headers.",
+          "reference": "Section headers should follow a consistent format throughout the article.",
+          "category": "Formatting",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R5",
+          "description": "Use the standard infobox template for gene/protein articles.",
+          "reference": "Use the standard infobox template for gene/protein articles to ensure consistency.",
+          "category": "Formatting",
+          "classification": "Imperative Standards",
+          "where": "Infobox",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R6",
+          "description": "Sections should be organized in a logical order.",
+          "reference": "Sections should be organized in a logical order, typically starting with an introduction, followed by sections on structure, function, and clinical significance.",
+          "category": "Formatting",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Applicable for all gene/protein articles."
+        },
+        {
+          "id": "R6",
+          "description": "Use consistent formatting for headings and subheadings.",
+          "reference": "Headings and subheadings should be used to organize content and should follow a consistent format.",
+          "category": "Formatting",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R7",
+          "description": "Use bullet points for lists where appropriate.",
+          "reference": "Bullet points should be used for lists where appropriate to improve readability.",
+          "category": "Formatting",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Applicable when listing items."
+        },
+        {
+          "id": "R8",
+          "description": "Images should be placed in a way that enhances the text.",
+          "reference": "Images should be placed in a way that enhances the text and does not disrupt the flow of reading.",
+          "category": "Formatting",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Applicable when images are used."
+        },
+        {
+          "id": "R4",
+          "description": "Use consistent formatting for section headings.",
+          "reference": "Section headings should be consistent in style and formatting.",
+          "category": "Formatting",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R5",
+          "description": "Use bullet points for lists where appropriate.",
+          "reference": "Bullet points should be used for lists where appropriate.",
+          "category": "Formatting",
+          "classification": "Best Practices",
+          "where": "Content sections",
+          "when": "When listing items or points."
+        }
+      ]
+    },
+    "Citations": {
+      "description": "Guidelines for citing sources in the articles.",
+      "requirements": [
+        {
+          "id": "R5",
+          "description": "All statements should be supported by citations.",
+          "reference": "All statements should be supported by reliable sources.",
+          "category": "Citations",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R5",
+          "description": "All statements should be supported by reliable sources.",
+          "reference": "Statements in the article should be backed by citations from reliable sources.",
+          "category": "Citations",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R7",
+          "description": "All statements should be supported by reliable sources.",
+          "reference": "All statements should be supported by reliable sources to ensure the accuracy and credibility of the article.",
+          "category": "Citations",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R8",
+          "description": "Use inline citations for specific claims.",
+          "reference": "Use inline citations for specific claims to provide direct evidence for the information presented.",
+          "category": "Citations",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "Applicable for specific claims and data."
+        },
+        {
+          "id": "R11",
+          "description": "Citations should be provided for all direct quotes.",
+          "reference": "Citations must be provided for all direct quotes to ensure verifiability.",
+          "category": "Citations",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Applicable when direct quotes are used."
+        },
+        {
+          "id": "R12",
+          "description": "Use inline citations for statements that are challenged or likely to be challenged.",
+          "reference": "Inline citations should be used for statements that are challenged or likely to be challenged.",
+          "category": "Citations",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Applicable when statements are challenged."
+        },
+        {
+          "id": "R8",
+          "description": "All statements should be supported by reliable sources.",
+          "reference": "Statements should be supported by reliable sources.",
+          "category": "Citations",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R9",
+          "description": "Use inline citations for direct quotes.",
+          "reference": "Inline citations should be used for direct quotes.",
+          "category": "Citations",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "When using direct quotes."
+        },
+        {
+          "id": "R1",
+          "description": "MCB articles should be relatively dense with inline citations.",
+          "reference": "MCB articles should be relatively dense with inline citations, using either <nowiki><ref></nowiki> tags (footnotes) or parenthetical citations.",
+          "category": "Citations",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R2",
+          "description": "It is not acceptable to write substantial amounts of prose and then add your textbook to the 'References' section as a non-specific or general reference.",
+          "reference": "It is not acceptable to write substantial amounts of prose and then add your textbook to the 'References' section as a non-specific or general reference.",
+          "category": "Citations",
+          "classification": "Imperative Standards",
+          "where": "References section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R3",
+          "description": "The format of citations should be consistent within any one article.",
+          "reference": "There is no standard for formatting citations on Wikipedia, but the format should be consistent within any one article.",
+          "category": "Citations",
+          "classification": "Imperative Standards",
+          "where": "Throughout the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R4",
+          "description": "Some editors prefer to expand the abbreviated journal name; others prefer concise standard abbreviations.",
+          "reference": "Some editors prefer to expand the abbreviated journal name; others prefer concise standard abbreviations.",
+          "category": "Citations",
+          "classification": "Flexible Guidelines",
+          "where": "References section",
+          "when": "Based on editor preference."
+        },
+        {
+          "id": "R5",
+          "description": "Abstracts of most MCB related journals are freely available at PubMed.",
+          "reference": "Abstracts of most MCB related journals are freely available at PubMed, which includes a means of searching the MEDLINE database.",
+          "category": "Citations",
+          "classification": "Supplementary Information",
+          "where": "References section",
+          "when": "When citing MCB related journals."
+        },
+        {
+          "id": "R6",
+          "description": "The easiest way to populate the journal and book citation templates is to use Diberri's template-filling web site or the Universal reference formatter.",
+          "reference": "The easiest way to populate the journal and book citation templates is to use Diberri's template-filling web site or the Universal reference formatter.",
+          "category": "Citations",
+          "classification": "Best Practices",
+          "where": "References section",
+          "when": "When adding citations."
+        },
+        {
+          "id": "R7",
+          "description": "Multiple references to the same source citation can be achieved by ensuring the inline reference is named uniquely.",
+          "reference": "Multiple references to the same source citation can be achieved by ensuring the inline reference is named uniquely.",
+          "category": "Citations",
+          "classification": "Best Practices",
+          "where": "Throughout the article",
+          "when": "When citing the same source multiple times."
+        },
+        {
+          "id": "R8",
+          "description": "In addition to the standard citation text, it is useful to supply hyperlinks.",
+          "reference": "In addition to the standard citation text, it is useful to supply hyperlinks.",
+          "category": "Citations",
+          "classification": "Best Practices",
+          "where": "References section",
+          "when": "When possible."
+        },
+        {
+          "id": "R9",
+          "description": "If the journal abstract is available on PubMed, add a link by typing PMID xxxxxxxxx.",
+          "reference": "If the journal abstract is available on PubMed, add a link by typing PMID xxxxxxxxx.",
+          "category": "Citations",
+          "classification": "Best Practices",
+          "where": "References section",
+          "when": "When citing journal abstracts available on PubMed."
+        },
+        {
+          "id": "R10",
+          "description": "If the article has a DOI, use the doi template.",
+          "reference": "If the article has a DOI, use the doi template.",
+          "category": "Citations",
+          "classification": "Best Practices",
+          "where": "References section",
+          "when": "When a DOI is available."
+        },
+        {
+          "id": "R11",
+          "description": "If the article's full text is freely available online, supply a URL to this text by hyperlinking the article title in the citation.",
+          "reference": "If and only if the article's full text is freely available online, supply a URL to this text by hyperlinking the article title in the citation.",
+          "category": "Citations",
+          "classification": "Best Practices",
+          "where": "References section",
+          "when": "When the full text is freely available online."
+        },
+        {
+          "id": "R12",
+          "description": "When the source text is available in both HTML and PDF, the former should be preferred.",
+          "reference": "When the source text is available in both HTML and PDF, the former should be preferred as it is compatible with a larger range of browsers.",
+          "category": "Citations",
+          "classification": "Best Practices",
+          "where": "References section",
+          "when": "When both formats are available."
+        },
+        {
+          "id": "R13",
+          "description": "Do not add a 'Retrieved on' date for convenience links to online editions of paper journals.",
+          "reference": "Do not add a 'Retrieved on' date for convenience links to online editions of paper journals.",
+          "category": "Citations",
+          "classification": "Imperative Standards",
+          "where": "References section",
+          "when": "When citing online editions of paper journals."
+        },
+        {
+          "id": "R14",
+          "description": "Use citation templates such as Cite journal, Cite book, Cite web, Cite press release, and Cite news.",
+          "reference": "Others prefer to use citation templates such as Cite journal, Cite book, Cite web, Cite press release and Cite news.",
+          "category": "Citations",
+          "classification": "Best Practices",
+          "where": "References section",
+          "when": "When adding citations."
+        },
+        {
+          "id": "R15",
+          "description": "Citations in the Vancouver format can be produced using the vauthors or veditors parameters.",
+          "reference": "Citations in the Vancouver format can be produced using the vauthors or veditors parameters.",
+          "category": "Citations",
+          "classification": "Best Practices",
+          "where": "References section",
+          "when": "When using Vancouver format."
+        },
+        {
+          "id": "R16",
+          "description": "The Uniform Requirements for Manuscripts Submitted to Biomedical Journals citation guidelines list up to six authors, followed by 'et al.' if there are more than six.",
+          "reference": "The Uniform Requirements for Manuscripts Submitted to Biomedical Journals citation guidelines list up to six authors, followed by 'et al.' if there are more than six.",
+          "category": "Citations",
+          "classification": "Best Practices",
+          "where": "References section",
+          "when": "When citing sources with more than six authors."
+        }
+      ]
+    },
+    "Infoboxes": {
+      "description": "Guidelines for the use of infoboxes in articles.",
+      "requirements": [
+        {
+          "id": "R6",
+          "description": "Include an infobox for gene/protein articles.",
+          "reference": "An infobox should be included for gene/protein articles.",
+          "category": "Infoboxes",
+          "classification": "Best Practices",
+          "where": "Lead section",
+          "when": "Applicable for gene/protein articles."
+        },
+        {
+          "id": "R13",
+          "description": "Infoboxes should be used to summarize key facts about the subject.",
+          "reference": "Infoboxes should be used to summarize key facts about the subject in a consistent format.",
+          "category": "Infoboxes",
+          "classification": "Best Practices",
+          "where": "Top of the article",
+          "when": "Applicable when an infobox is relevant."
+        },
+        {
+          "id": "R1",
+          "description": "Include one or more appropriate infoboxes at the top of each article.",
+          "reference": "One or more of the following infoboxes as appropriate should be included at the top of each article.",
+          "category": "Infoboxes",
+          "classification": "Imperative Standards",
+          "where": "Top of the article",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R2",
+          "description": "Use the Infobox GNF protein for genes/proteins with a human ortholog.",
+          "reference": "Infobox GNF protein: for genes/proteins for which an ortholog is present within the human genome.",
+          "category": "Infoboxes",
+          "classification": "Contextual Considerations",
+          "where": "Infobox section",
+          "when": "Applicable when an ortholog is present within the human genome."
+        },
+        {
+          "id": "R3",
+          "description": "Use the Infobox protein for protein family articles discussing more than one protein.",
+          "reference": "Infobox protein: smaller box appropriate for protein family articles where more than one protein is discussed.",
+          "category": "Infoboxes",
+          "classification": "Contextual Considerations",
+          "where": "Infobox section",
+          "when": "Applicable for protein family articles."
+        },
+        {
+          "id": "R4",
+          "description": "Use the Infobox nonhuman protein for proteins without a human ortholog.",
+          "reference": "Infobox nonhuman protein: for proteins without a human ortholog.",
+          "category": "Infoboxes",
+          "classification": "Contextual Considerations",
+          "where": "Infobox section",
+          "when": "Applicable for proteins without a human ortholog."
+        },
+        {
+          "id": "R5",
+          "description": "Use the Infobox protein family for protein families listed in Pfam.",
+          "reference": "Infobox protein family: for protein families that are listed in Pfam.",
+          "category": "Infoboxes",
+          "classification": "Contextual Considerations",
+          "where": "Infobox section",
+          "when": "Applicable for protein families listed in Pfam."
+        },
+        {
+          "id": "R6",
+          "description": "Use the Infobox rfam for RNA families listed in Rfam.",
+          "reference": "Infobox rfam: for RNA families that are listed in Rfam.",
+          "category": "Infoboxes",
+          "classification": "Contextual Considerations",
+          "where": "Infobox section",
+          "when": "Applicable for RNA families listed in Rfam."
+        },
+        {
+          "id": "R7",
+          "description": "Use the Infobox enzyme for enzymes based on EC number.",
+          "reference": "Infobox enzyme: for enzymes based on EC number.",
+          "category": "Infoboxes",
+          "classification": "Contextual Considerations",
+          "where": "Infobox section",
+          "when": "Applicable for enzymes based on EC number."
+        },
+        {
+          "id": "R8",
+          "description": "Add a corresponding enzyme infobox if there is only one human paralog assigned to an EC number.",
+          "reference": "If there is only one human paralog assigned to a given EC number, then in addition to a protein infobox, it may be appropriate to also add the corresponding enzyme infobox.",
+          "category": "Infoboxes",
+          "classification": "Contextual Considerations",
+          "where": "Infobox section",
+          "when": "Applicable when there is only one human paralog assigned to an EC number."
+        },
+        {
+          "id": "R9",
+          "description": "Include a protein family infobox if there is only one human paralog assigned to a Pfam family.",
+          "reference": "If there is only one human paralog that has been assigned to Pfam family, then including a protein family infobox may also be appropriate.",
+          "category": "Infoboxes",
+          "classification": "Contextual Considerations",
+          "where": "Infobox section",
+          "when": "Applicable when there is only one human paralog assigned to a Pfam family."
+        },
+        {
+          "id": "R10",
+          "description": "Place less useful infoboxes in a section at the end if a large number of infoboxes apply.",
+          "reference": "There exist some cases where a large number of infoboxes may apply to an article. You may put less useful ones in a section at the end, laid side-by-side with a table.",
+          "category": "Infoboxes",
+          "classification": "Flexible Guidelines",
+          "where": "End of the article",
+          "when": "Applicable when a large number of infoboxes apply."
+        },
+        {
+          "id": "R11",
+          "description": "Avoid collapsing or horizontally scrolling infobox tables unless necessary.",
+          "reference": "Collapsing or horizontally scrolling the said table is doubtful, as MOS:COLLAPSE may or may not apply depending on how 'extraneous' the boxes are.",
+          "category": "Infoboxes",
+          "classification": "Best Practices",
+          "where": "Infobox section",
+          "when": "Applicable when considering the layout of infoboxes."
+        }
+      ]
+    }
+  }
+]

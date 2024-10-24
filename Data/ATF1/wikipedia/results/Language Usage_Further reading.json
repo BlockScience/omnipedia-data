@@ -1,0 +1,60 @@
+{
+  "sections": [
+    {
+      "title": "Further reading",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "The citations in this section involve gene abbreviations, where HUGO guidelines must be applied.",
+          "score": 0.25,
+          "confidence": 0.85,
+          "evidence": "Gene names are not italicized in several instances such as 'EWS-ATF-1'.",
+          "reasoning": "Minimal adherence due to lack of italicization for gene abbreviations.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": true,
+          "applicability_reasoning": "Abbreviations should be used to maintain consistency in scientific writing.",
+          "score": 0.75,
+          "confidence": 0.90,
+          "evidence": "Gene abbreviations are consistently used, such as 'EWS-ATF-1'.",
+          "reasoning": "Strong adherence with well-used abbreviations, yet there is room for improvement in italicization.",
+          "overlap_notes": "No overlaps relevant to this section."
+        },
+        {
+          "requirement_id": "R3",
+          "applicable": true,
+          "applicability_reasoning": "Human gene names require capitalization according to guidelines.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Human gene names like 'EWS' and 'ATF' are correctly capitalized.",
+          "reasoning": "Complete adherence with proper capitalization throughout.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R9",
+          "applicable": true,
+          "applicability_reasoning": "Consistent language use is needed for clarity.",
+          "score": 1.0,
+          "confidence": 0.90,
+          "evidence": "Consistent use of language style within the 'further reading' list.",
+          "reasoning": "The section consistently adhered to a singular style of English.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R10",
+          "applicable": true,
+          "applicability_reasoning": "The section requires an encyclopedic tone without first-person language.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No first-person language detected.",
+          "reasoning": "Complete adherence with appropriate tone maintained.",
+          "overlap_notes": "No first-person usage identified."
+        }
+      ],
+      "meta_notes": "The section has adhered to capitalization requirements well but needs work on italicization of gene names."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Overview",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the article is about a gene/protein, requiring an infobox.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section describes ADCYAP1, a gene that encodes a protein.",
+                    "reasoning": "The subject matter clearly relates to genes/proteins and necessitates an infobox as per the guidelines.",
+                    "overlap_notes": "This requirement applies to summarizing key data in the lead, no overlaps indicated."
+                },
+                {
+                    "requirement_id": "R13",
+                    "applicable": true,
+                    "applicability_reasoning": "An infobox should be used to summarize key facts about ADCYAP1 clearly.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "The article content details key functions and locations of the protein.",
+                    "reasoning": "Strong adherence; however, actual usage of an infobox isn't explicitly visible in the text.",
+                    "overlap_notes": "Infobox and article content could potentially overlap in factual data presentation."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "This is necessary for placing infoboxes at the top of articles.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section is at the start of the article and sets the topic's scope.",
+                    "reasoning": "Full compliance as it is appropriate to have infobox at the start for clarity.",
+                    "overlap_notes": "No overlaps since this addresses infobox positioning."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "ADCYAP1 is related to proteins for which a human ortholog exists.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section discusses a gene/protein with a human ortholog.",
+                    "reasoning": "Requirement met by highlighting the human-related aspects of ADCYAP1.",
+                    "overlap_notes": "No significant overlaps as this is a specific contextual requirement."
+                }
+            ],
+            "meta_notes": "The 'Overview' section effectively introduces ADCYAP1, though explicit mention or use of an infobox is implied rather than visible in the text provided."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+  "sections": [
+    {
+      "title": "Interactions",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because gene abbreviations should follow the HUGO guidelines.",
+          "score": 0.75,
+          "confidence": 0.85,
+          "evidence": "Gene names like ADCYAP1 are not italicized.",
+          "reasoning": "The section mostly follows HUGO guidelines, but gene names are not italicized, lowering adherence.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": true,
+          "applicability_reasoning": "Recommended to use gene abbreviations for consistency and clarity.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Abbreviations such as ADCYAP1 and PIK3CA are used throughout.",
+          "reasoning": "Complete adherence to the requirement to use gene abbreviations over full names.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R3",
+          "applicable": true,
+          "applicability_reasoning": "Human gene names should be capitalized for conformance with naming conventions.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Gene names like ADCYAP1 and ADCY7 are capitalized.",
+          "reasoning": "The section fully adheres to this requirement by capitalizing human gene names correctly.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Protein names require the first letter to be capitalized.",
+          "score": 0.75,
+          "confidence": 0.9,
+          "evidence": "Proteins like GSK3B are capitalized correctly.",
+          "reasoning": "Strong adherence with slight room for improvement on capitalization consistency.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R9",
+          "applicable": true,
+          "applicability_reasoning": "Consistent English is necessary to maintain clarity and professionalism.",
+          "score": 1.0,
+          "confidence": 0.9,
+          "evidence": "Consistent language usage throughout.",
+          "reasoning": "The section consistently uses American or British English, without switching between styles.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R10",
+          "applicable": true,
+          "applicability_reasoning": "First-person language is avoided to maintain an encyclopedic tone.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The section maintains a formal tone without first-person language.",
+          "reasoning": "Complete adherence to the requirement to avoid first-person language.",
+          "overlap_notes": "No significant overlaps detected."
+        }
+      ],
+      "meta_notes": "The section maintains a high-level consistency with scientific naming conventions but could improve by italicizing gene abbreviations as required by HUGO guidelines."
+    }
+  ]
+}

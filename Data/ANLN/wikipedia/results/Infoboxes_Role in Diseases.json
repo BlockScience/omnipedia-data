@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "Role in Diseases",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because gene/protein articles typically start with an infobox summarizing key points.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The section lacks an infobox, which is mandatory at the top of each article for gene/protein articles.",
+                    "reasoning": "There is no adherence to the requirement as no infobox is present.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Relevant if the gene/protein has a human ortholog.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The infobox GNF protein is not present.",
+                    "reasoning": "There is no adherence as the correct infobox for genes/proteins with human orthologs is missing.",
+                    "overlap_notes": "No overlaps in this section."
+                }
+            ],
+            "meta_notes": "The section provides descriptive content but lacks the required infobox summarizing key aspects of the gene/protein. Adding an infobox would greatly improve adherence to the guidelines."
+        }
+    ]
+}

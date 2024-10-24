@@ -1,0 +1,40 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "Requirement R1 is related to the lead section and its definition. This external links section does not define the scope of the article.",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Relevant for gene articles as this section categorizes the gene on a human chromosome.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The section includes a category for 'Genes on human chromosome 18'.",
+                    "reasoning": "Strong adherence with the presence of relevant category information, though additional specifics could enhance completeness.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": false,
+                    "applicability_reasoning": "Requirement R5 pertains to notable contributions and discovery, which are not relevant to the external links section.",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": null
+                }
+            ],
+            "meta_notes": "The section is appropriate for its purpose, providing categorical linkage but could include more comprehensive relevant external resources."
+        }
+    ]
+}

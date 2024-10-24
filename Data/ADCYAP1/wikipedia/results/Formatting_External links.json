@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "The section contains a list format for external links, which is appropriate for bullet point usage to improve readability.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The list under 'External links' is correctly formatted as a bullet list.",
+                    "reasoning": "The formatting of the list adheres completely to the usage of bullet points to present information clearly.",
+                    "overlap_notes": "No significant overlap detected."
+                }
+            ],
+            "meta_notes": "The 'External links' section effectively uses bullet points to improve readability of listed items."
+        }
+    ]
+}

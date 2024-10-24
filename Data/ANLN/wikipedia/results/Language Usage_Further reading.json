@@ -1,0 +1,42 @@
+{
+    "sections": [
+        {
+            "title": "Further reading",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "The section may contain gene abbreviations.",
+                    "score": 0.0,
+                    "confidence": 1.0,
+                    "evidence": "No gene abbreviations are present in the citations listed in this section.",
+                    "reasoning": "Without gene abbreviations present, this requirement cannot be met.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "Recommended use of gene abbreviations over full names is generally applicable to core content rather than citation lists.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": false,
+                    "applicability_reasoning": "The section does not include mention of specific human gene names.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistency in the use of American or British English is important throughout all content sections.",
+                    "score": 1.0,
+                    "confidence": 1.0,
+                    "evidence": "No evidence of inconsistency as the language in citation naming and description adheres to neutral international science citation standards.",
+                    "reasoning": "The section uses neutral formatting for scientific citations, maintaining consistency.",
+                    "overlap_notes": "No overlaps detected."
+                }
+            ],
+            "meta_notes": "The citation-based nature of this section limits the applicable requirements, focusing on maintaining consistency in language usage rather than gene naming conventions."
+        }
+    ]
+}

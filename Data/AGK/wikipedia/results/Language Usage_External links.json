@@ -1,0 +1,64 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "The section 'External links' does not contain gene abbreviations that need to be written in italic font style as per HUGO Gene Nomenclature Committee guidelines. It primarily provides a hyperlink reference.",
+                    "overlap_notes": "Not applicable as this section primarily provides external links."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "The section is about external links, so the preference for using gene abbreviations instead of the full name is not relevant here.",
+                    "overlap_notes": "Not applicable due to the nature of the section."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": false,
+                    "applicability_reasoning": "The section does not discuss human gene names directly; it provides a reference link.",
+                    "overlap_notes": "Not applicable due to the absence of gene nomenclature usage."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "As this section is meant for providing external links, it does not include details about orthologs of human genes in other species.",
+                    "overlap_notes": "Not relevant to the section content."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": false,
+                    "applicability_reasoning": "The recommendation on how to refer to gene symbols in statements is not applicable to an external links section.",
+                    "overlap_notes": "Not applicable due to the section's purpose."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": false,
+                    "applicability_reasoning": "Gene detail expressions for non-human species are not part of this section's content.",
+                    "overlap_notes": "Not applicable as this is outside the scope of the section."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": false,
+                    "applicability_reasoning": "The guideline on consistent use of American or British English is irrelevant to the external link content.",
+                    "overlap_notes": "Not relevant to the nature of the section."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": false,
+                    "applicability_reasoning": "Avoidance of first-person language is not applicable as the section merely provides a link and contains no narrative.",
+                    "overlap_notes": "Section content does not include any narrative."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": false,
+                    "applicability_reasoning": "There is no mention of scientific names in the 'External links' section.",
+                    "overlap_notes": "Scientific naming conventions are not relevant to this section."
+                }
+            ],
+            "meta_notes": "Overall, the 'External links' section focuses on providing references and does not engage with content that requires adherence to the language usage guidelines specified for other sections."
+        }
+    ]
+}

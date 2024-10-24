@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "title": "Further reading",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": false,
+          "applicability_reasoning": "The section 'Further reading' consists of references and does not contain diagrams, making R1 inapplicable."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": false,
+          "applicability_reasoning": "The section 'Further reading' focuses on listing references rather than contributing to diagram guidelines, making R2 inapplicable."
+        }
+      ],
+      "meta_notes": "The 'Further reading' section is specifically for listing references without images or diagrams, so none of the provided requirements are applicable."
+    }
+  ]
+}

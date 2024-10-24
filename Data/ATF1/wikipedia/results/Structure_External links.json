@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the article's external links pertain to relevant categories like 'Transcription factors' and 'Oncogenes'.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section contains relevant links that are categorized under 'Transcription factors' and 'Oncogenes'.",
+                    "reasoning": "The section fully adheres to the requirement by providing relevant categorized links.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "This section must fit into the article's standard structure including relevant external links.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The section provides relevant external links but lacks a complete explanation or annotations for each link.",
+                    "reasoning": "Strong adherence with minor improvements possible, such as descriptions for each link.",
+                    "overlap_notes": "No significant overlaps detected."
+                }
+            ],
+            "meta_notes": "The external links section effectively provides connections to relevant resources, though it could improve by adding brief descriptions of each link."
+        }
+    ]
+}

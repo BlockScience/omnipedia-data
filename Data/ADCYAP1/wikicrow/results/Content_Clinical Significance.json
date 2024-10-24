@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "title": "Clinical Significance",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "This section describes the clinical significance of mutations or deficiencies in the gene or protein.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "PTSD and metabolic disorder associations with ADCYAP1 are listed.",
+          "reasoning": "The section thoroughly explains the diseases linked to the ADCYAP1 gene.",
+          "overlap_notes": "There is no unnecessary repetition in this context."
+        },
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "The section provides in-depth information about studies related to clinical significance.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Studies cited explain the gene's influence on PTSD and metabolism.",
+          "reasoning": "The section effectively presents research findings on the clinical relevance of the gene.",
+          "overlap_notes": "There is a focus on significance without redundancy."
+        },
+        {
+          "requirement_id": "R5",
+          "applicable": true,
+          "applicability_reasoning": "All statements regarding clinical significance must be verifiable.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Citations are provided for all claims regarding PTSD and metabolic conditions.",
+          "reasoning": "The information is well-supported with reliable references.",
+          "overlap_notes": "No overlap detected."
+        }
+      ],
+      "meta_notes": "The section provides a comprehensive view of ADCYAP1's clinical significance with proper references and clarity."
+    }
+  ]
+}

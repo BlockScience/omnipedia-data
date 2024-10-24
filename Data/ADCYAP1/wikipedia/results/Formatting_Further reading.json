@@ -1,0 +1,40 @@
+{
+    "sections": [
+        {
+            "title": "Further reading",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as the section contains a list of articles for further reading that is organized using bullet points.",
+                    "score": 1.0,
+                    "confidence": 1.0,
+                    "evidence": "The section uses bullet points for each entry in the 'Further reading' list.",
+                    "reasoning": "The section fully adheres to the requirement of using bullet points for lists, enhancing readability.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because consistent formatting is required for section headers.",
+                    "score": 1.0,
+                    "confidence": 1.0,
+                    "evidence": "The section header 'Further reading' follows a clear and consistent format.",
+                    "reasoning": "The section adheres to the requirement for consistent header formatting.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as the overall structure of the article requires logical order which includes the 'Further reading' section.",
+                    "score": 0.75,
+                    "confidence": 0.9,
+                    "evidence": "The 'Further reading' section is logically placed at the end of the article.",
+                    "reasoning": "Adheres strongly to logical order with minor scope for ensuring complete alignment in more complex articles.",
+                    "overlap_notes": "No significant overlaps detected."
+                }
+            ],
+            "meta_notes": "The 'Further reading' section is well-organized with appropriate use of bullet points and consistent section header formatting. Logical ordering is maintained, though applicability varies depending on the base article's complexity."
+        }
+    ]
+}

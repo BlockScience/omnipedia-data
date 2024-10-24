@@ -1,0 +1,60 @@
+{
+    "sections": [
+        {
+            "title": "Role in Diseases",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene abbreviations like ANLN are mentioned in the section.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "ANLN is written in italics, adhering to the HGNC guidelines.",
+                    "reasoning": "The gene abbreviation is used correctly in italics, fulfilling the requirement.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene abbreviations are related to language usage and relevant for this section.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Gene abbreviation ANLN is used instead of its full name Anillin.",
+                    "reasoning": "Gene abbreviation is correctly used, but there is a mix of full name and abbreviation.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Human gene names must be written in all capitals, relevant for ANLN.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "ANLN is consistently written in all capitals.",
+                    "reasoning": "Gene name fully adheres to capitalization standards.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistent use of either American or British English is required across the article.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "Consistent use of American English observed.",
+                    "reasoning": "The section consistently uses American English, adhering to best practices.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "First-person language should be avoided to maintain an encyclopedic tone.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "No first-person language detected in the text.",
+                    "reasoning": "The tone remains appropriately formal and encyclopedic.",
+                    "overlap_notes": "No overlaps detected."
+                }
+            ],
+            "meta_notes": "The section generally adheres to language and nomenclature guidelines effectively."
+        }
+    ]
+}

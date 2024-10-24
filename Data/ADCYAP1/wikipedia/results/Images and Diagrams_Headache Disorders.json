@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "Headache Disorders",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "No diagrams are present in the section. The requirement is not applicable as it pertains to standard formatting for diagrams, which are not used here."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "The section does not contain any diagrams or images, so the guideline for expanding diagram standardizations is not applicable."
+                }
+            ],
+            "meta_notes": "The section is focused on conveying research findings related to headache disorders and does not include diagrams or visual content to which formatting guidelines apply."
+        }
+    ]
+}

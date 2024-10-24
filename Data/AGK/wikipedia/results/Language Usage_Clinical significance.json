@@ -1,0 +1,60 @@
+{
+    "sections": [
+        {
+            "title": "Clinical significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene abbreviations are present, so this requirement for language usage is applicable.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "The gene AGK is written in uppercase but not italicized.",
+                    "reasoning": "Strong adherence to capitalization, but lacking in italicization, which is required.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Usage of gene abbreviations is preferred over full names to maintain consistency.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The gene abbreviation AGK is consistently used instead of the full name.",
+                    "reasoning": "Complete adherence to using gene abbreviations.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Human gene names must adhere to capitalization standards.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The human gene name AGK is appropriately capitalized throughout.",
+                    "reasoning": "The section fully adheres to the capitalization requirement.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistency in language usage is essential for maintaining clarity.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "The section uses consistent language without varying between American and British English.",
+                    "reasoning": "Complete adherence with consistent language usage.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "First-person language should be avoided to ensure an encyclopedic tone.",
+                    "score": 1.0,
+                    "confidence": 0.90,
+                    "evidence": "The section maintains an impersonal tone, avoiding first-person language.",
+                    "reasoning": "The article maintains an objective tone throughout.",
+                    "overlap_notes": "No significant overlaps detected."
+                }
+            ],
+            "meta_notes": "The Clinical Significance section adheres to most language usage guidelines, with minor improvements needed for italicizing gene symbols."
+        }
+    ]
+}

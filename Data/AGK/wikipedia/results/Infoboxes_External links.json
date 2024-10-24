@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R10",
+                    "applicable": false,
+                    "applicability_reasoning": "This section specifically deals with providing external links rather than listing a large number of infoboxes."
+                },
+                {
+                    "requirement_id": "R11",
+                    "applicable": false,
+                    "applicability_reasoning": "This requirement pertains to the layout of infoboxes, not the external links section."
+                }
+            ],
+            "meta_notes": "The 'External links' section is concise and focused solely on providing relevant external references, which are not related to infobox considerations."
+        }
+    ]
+}

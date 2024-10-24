@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Interactions",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Since this section is focused on gene/protein interactions, it should include an infobox summarizing key facts about ADCYAP1 and its associated interactions.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The section does not currently include an infobox for summarizing key facts about ADCYAP1.",
+                    "reasoning": "No infobox is present in the section, which is required as best practice for protein articles.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R13",
+                    "applicable": true,
+                    "applicability_reasoning": "The use of an infobox would help in summarizing critical interaction details in a consistent format.",
+                    "score": 0.0,
+                    "confidence": 0.85,
+                    "evidence": "The section lacks any infobox at the top that summarizes the key facts.",
+                    "reasoning": "The infobox should provide a concise summary, which is missing.",
+                    "overlap_notes": "No overlaps with other sections noted."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Infoboxes related to gene/protein articles should be included per best practice standards.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "No infobox is found at the top of the article.",
+                    "reasoning": "Lack of adherence to include one or more appropriate infoboxes as part of the section.",
+                    "overlap_notes": "Consistent format required for organization."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable since ADCYAP1 has a human ortholog, necessitating the use of the Infobox GNF protein.",
+                    "score": 0.0,
+                    "confidence": 0.8,
+                    "evidence": "The section does not utilize any of the specified infobox formats.",
+                    "reasoning": "An Infobox GNF protein is warranted due to the presence of human ortholog, but it is absent.",
+                    "overlap_notes": "Ensure distinct presentation of each aspect."
+                }
+            ],
+            "meta_notes": "This section requires the inclusion of an infobox to adhere to best practices for gene/protein articles. It should be placed at the top and include relevant interaction data."
+        }
+    ]
+}

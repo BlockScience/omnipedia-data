@@ -1,0 +1,70 @@
+{
+    "sections": [
+        {
+            "title": "Function",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "The section mentions genes and gene products where proper nomenclature is necessary.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Gene abbreviations such as 'ADCYAP1' are used but not consistently italicized.",
+                    "reasoning": "The section partially adheres since the gene abbreviation is present but lacks formatting adherence (italics).",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Usage of gene abbreviations is relevant to lessen redundancy and maintain clarity.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Gene abbreviations like 'PACAP' are used consistently without spelling out full names repeatedly.",
+                    "reasoning": "There is complete adherence as abbreviations are used appropriately throughout the section.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "The section includes human gene names which should be written in all capitals.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Human gene name 'ADCYAP1' is correctly in all capitals.",
+                    "reasoning": "This meets the requirement fully, as human gene names are used correctly.",
+                    "overlap_notes": "No overlaps noted for capitalizations."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "This section does not focus on genes from other species, hence it is not applicable.",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": "Not applicable due to the absence of non-human gene references."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": true,
+                    "applicability_reasoning": "The section includes gene symbols where recommended usage is important.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Phrases like 'PACAP enhances...' adhere to the recommended manner of gene symbol usage.",
+                    "reasoning": "The section adheres well to the recommended language usage.",
+                    "overlap_notes": "No redundant phrasing detected."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "First-person language is avoided in technical descriptions to maintain objectivity.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section consistently avoids first-person language.",
+                    "reasoning": "The tone remains encyclopedic, showing complete adherence.",
+                    "overlap_notes": "No use of first-person language."
+                }
+            ],
+            "meta_notes": "The section adheres well to most language and nomenclature guidelines. Improvements can be made regarding the italics for gene abbreviations."
+        }
+    ]
+}

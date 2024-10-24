@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "Clinical significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "There are no diagrams present in this section, so formatting standards for diagrams do not apply."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "Since no diagrams are used in this section, suggestions for expansions regarding diagram formatting are not applicable."
+                }
+            ],
+            "meta_notes": "The section does not contain any diagrams, so no formatting requirements related to diagrams are applicable. The content is text-based, focusing on the clinical significance of AGK gene mutations."
+        }
+    ]
+}

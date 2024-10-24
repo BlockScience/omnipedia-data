@@ -1,0 +1,74 @@
+{
+    "sections": [
+        {
+            "title": "Microtubules",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene notation is relevant as the content discusses interactions involving proteins that may have gene notations.",
+                    "score": 0.5,
+                    "confidence": 0.75,
+                    "evidence": "The article includes terms like 'Anillin' which may need to be italicized if referring to genes.",
+                    "reasoning": "Partial adherence as the content does not clearly distinguish gene names from protein names.",
+                    "overlap_notes": "No significant overlaps noted."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "The document largely discusses proteins and their interactions, not directly using gene abbreviations.",
+                    "overlap_notes": "No overlaps noted."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "Specific human gene orthologs are not discussed in the section.",
+                    "overlap_notes": "No overlaps noted."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": false,
+                    "applicability_reasoning": "The section does not use gene symbols in the stated manner; it discusses proteins and interactions.",
+                    "overlap_notes": "No overlaps noted."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": false,
+                    "applicability_reasoning": "Non-human genes are not the focal point of the text.",
+                    "overlap_notes": "No overlaps noted."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "Relevant when mentioning scientific names like 'Drosophila'.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Scientific names such as 'Drosophila' are italicized as required.",
+                    "reasoning": "Complete adherence with scientific names being italicized correctly.",
+                    "overlap_notes": "No significant overlaps noted."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Ensures language consistency throughout the article.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The content maintains consistent English, but with potential minor inconsistencies between American and British English.",
+                    "reasoning": "Strong adherence with minimal inconsistencies in language usage.",
+                    "overlap_notes": "No overlaps noted."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "The article maintains an encyclopedic tone, which is essential.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "There is no usage of first-person language in the section, maintaining objectivity.",
+                    "reasoning": "Complete adherence as the tone remains objective and professional.",
+                    "overlap_notes": "No overlaps noted."
+                }
+            ],
+            "meta_notes": "This section is well-defined but benefits from clarity in distinguishing gene and protein references."
+        }
+    ]
+}

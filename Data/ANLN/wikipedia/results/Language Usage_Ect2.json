@@ -1,0 +1,70 @@
+{
+    "sections": [
+        {
+            "title": "Ect2",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "This section discusses genes and their interactions, where gene abbreviations are used.",
+                    "score": 0.5,
+                    "confidence": 0.8,
+                    "evidence": "Ect2 is not italicized in the content.",
+                    "reasoning": "Partial adherence as the genes are indicated but not formatted in italics.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene abbreviation usage is recommended to enhance clarity and conciseness.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The gene Ect2 is abbreviated correctly.",
+                    "reasoning": "Complete adherence as abbreviations are used instead of the full name.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Human gene names, such as ECT2, should be capitalized.",
+                    "score": 0.0,
+                    "confidence": 0.7,
+                    "evidence": "Ect2 is not fully capitalized in the content.",
+                    "reasoning": "No adherence because the human gene is not in all capitals.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Scientific names such as orthologs need careful capitalization.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "No orthologs are mentioned and capitalization rules are irrelevant.",
+                    "reasoning": "Complete adherence as this rule does not apply to the content described.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistency in language (American or British English) should be maintained.",
+                    "score": 1.0,
+                    "confidence": 1.0,
+                    "evidence": "The text adheres to American English consistently.",
+                    "reasoning": "Complete adherence as there is no mix of English language styles.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "Avoid first-person language to maintain objective tone.",
+                    "score": 1.0,
+                    "confidence": 1.0,
+                    "evidence": "The section uses third-person and passive constructions effectively.",
+                    "reasoning": "Complete adherence to maintaining an objective encyclopedic tone.",
+                    "overlap_notes": "No overlaps detected."
+                }
+            ],
+            "meta_notes": "The section on Ect2 complies with most requirements but needs improvement in gene name formatting."
+        }
+    ]
+}

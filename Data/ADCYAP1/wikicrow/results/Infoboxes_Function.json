@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Function",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the article discusses a gene, which typically requires an infobox.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "There is no infobox present in the section discussing the ADCYAP1 gene.",
+                    "reasoning": "The absence of an infobox indicates no adherence to this requirement.",
+                    "overlap_notes": "An infobox could summarize key facts, which are currently only in the text."
+                },
+                {
+                    "requirement_id": "R13",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable when an infobox is relevant to provide a summary of key facts.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "No infobox to provide concise summaries of key facts.",
+                    "reasoning": "Full lack of a summary through an infobox indicates no adherence.",
+                    "overlap_notes": "An infobox would reduce the need for redundancy in summarizing key facts."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable to all articles as a standard to include an infobox at the top.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The article does not include any infobox at the top section.",
+                    "reasoning": "Non-conformance due to the absence of the essential infobox.",
+                    "overlap_notes": "Including an infobox would organize factual data more effectively."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as the ADCYAP1 is a gene with a human ortholog; should use Infobox GNF protein.",
+                    "score": 0.0,
+                    "confidence": 0.85,
+                    "evidence": "The content lacks an Infobox GNF protein related to the human ortholog.",
+                    "reasoning": "The infobox type required for this hierarchy level is missing, yielding zero adherence.",
+                    "overlap_notes": "Implementing this infobox type would align with format consistency."
+                }
+            ],
+            "meta_notes": "The section lacks an infobox, which is crucial for summarizing key facts and meeting article format standards. Adding one could also help with organizing information in a more reader-friendly manner."
+        }
+    ]
+}

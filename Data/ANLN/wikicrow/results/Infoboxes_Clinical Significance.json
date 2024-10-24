@@ -1,0 +1,30 @@
+{
+  "sections": [
+    {
+      "title": "Clinical Significance",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R2",
+          "applicable": true,
+          "applicability_reasoning": "Relevant when assessing content discussing human genes/proteins for which an ortholog is present.",
+          "score": 0.75,
+          "confidence": 0.90,
+          "evidence": "The section discusses the role of ANLN, a gene with a human ortholog, in cancer prognosis and disease association.",
+          "reasoning": "The content includes relevant information about ANLN's role in human diseases, strongly adhering to the requirement with minor scope for expansion.",
+          "overlap_notes": "Overlap with potential infobox content summarizing key facts about the gene."
+        },
+        {
+          "requirement_id": "R13",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because infoboxes should summarize key facts and this content provides detailed insights into the implications of ANLN.",
+          "score": 0.5,
+          "confidence": 0.85,
+          "evidence": "The section covers various diseases associated with ANLN, suggesting a need for summarization.",
+          "reasoning": "Information is detailed and would benefit from an infobox summarizing key points. Partial adherence indicates room for structural improvements.",
+          "overlap_notes": "The section could overlap with an infobox aiming to consolidate these details."
+        }
+      ],
+      "meta_notes": "The section provides comprehensive insights on ANLN's clinical significance, though it could be enhanced by summarizing key facts in an infobox for better accessibility."
+    }
+  ]
+}

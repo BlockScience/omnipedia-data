@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "Clinical Significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the section discusses diseases and conditions resulting from mutations or expression changes in the ANLN gene.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section mentions ANLN's involvement in various cancers and other diseases such as focal segmental glomerulosclerosis and branchio-otic syndrome.",
+                    "reasoning": "The section clearly lists conditions associated with ANLN mutations and overexpression.",
+                    "overlap_notes": "No significant overlap in disease listing elsewhere."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the section cites studies on the clinical implications of ANLN.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Reference to studies like Liu2022Pan-cancer and Suzuki2005ANLN are made in relation to ANLN's significance.",
+                    "reasoning": "While the section discusses various studies, it could further break down the results of these studies to improve clarity and depth.",
+                    "overlap_notes": "Focus on clinical significance without redundancy from other sections."
+                }
+            ],
+            "meta_notes": "The section effectively presents ANLN's clinical significance but could enhance the depth of study descriptions."
+        }
+    ]
+}

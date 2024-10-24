@@ -1,0 +1,50 @@
+{
+  "sections": [
+    {
+      "title": "References",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "Gene abbreviations are present throughout the references and must adhere to HUGO guidelines.",
+          "score": 0.75,
+          "confidence": 0.9,
+          "evidence": "Gene abbreviations appear in normal font rather than italics.",
+          "reasoning": "The citations use correct gene abbreviations, but they need to be italicized.",
+          "overlap_notes": "No significant overlaps detected related to this requirement."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": true,
+          "applicability_reasoning": "Using abbreviations instead of full gene names is a best practice for clarity in the reference section.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "All references use gene abbreviations appropriately.",
+          "reasoning": "The section fully adheres to the requirement by consistently using gene abbreviations.",
+          "overlap_notes": "No overlaps in this section."
+        },
+        {
+          "requirement_id": "R3",
+          "applicable": true,
+          "applicability_reasoning": "Human gene names must be in all capitals, which is relevant for the references section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Human gene names like ATF1 are correctly capitalized.",
+          "reasoning": "Adherence is complete with respect to capitalization of human gene names.",
+          "overlap_notes": "No overlaps in this section."
+        },
+        {
+          "requirement_id": "R9",
+          "applicable": true,
+          "applicability_reasoning": "Consistency in language usage is important, even in bibliographic details.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The section consistently uses American English throughout.",
+          "reasoning": "The consistent use of English style in the references meets the requirement.",
+          "overlap_notes": "No overlaps specific to this requirement."
+        }
+      ],
+      "meta_notes": "The references section is consistent with best practices in language usage, but improvements are needed in the use of italics for gene abbreviations."
+    }
+  ]
+}

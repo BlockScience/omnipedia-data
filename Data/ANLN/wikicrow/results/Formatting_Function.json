@@ -1,0 +1,30 @@
+{
+  "sections": [
+    {
+      "title": "Function",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Gene symbols are mentioned throughout this section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The gene symbol 'ANLN' is correctly italicized throughout the section.",
+          "reasoning": "The article fully adheres to the requirement by using italics for the gene symbol consistently.",
+          "overlap_notes": "No overlaps detected regarding gene symbol formatting."
+        },
+        {
+          "requirement_id": "R6",
+          "applicable": true,
+          "applicability_reasoning": "This is a content section that should be well-organized following a logical sequence.",
+          "score": 0.75,
+          "confidence": 0.85,
+          "evidence": "The section discusses cytokinesis and related roles logically but could improve clarity on cellular localization dynamics.",
+          "reasoning": "Strong adherence, but clarity could be improved for better logical flow.",
+          "overlap_notes": "No overlaps in logical organization identified."
+        }
+      ],
+      "meta_notes": "The 'Function' section is coherent and adheres well to gene symbol formatting, but could improve in defining cellular roles more clearly."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the section, even if not traditional prose, is part of the article where inline citations should be used to maintain citation density.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "No inline citations are present in the external links section.",
+                    "reasoning": "The section does not meet the requirement for dense inline citations as there are none.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as all statements or presentations should be supported by citations for verification.",
+                    "score": 0.0,
+                    "confidence": 0.85,
+                    "evidence": "No supporting citations are provided with the mesh name or other links.",
+                    "reasoning": "No citations are used to support the external links, failing the requirement.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": true,
+                    "applicability_reasoning": "Inline citations should be present for any specific claims or data presented in lists.",
+                    "score": 0.0,
+                    "confidence": 0.85,
+                    "evidence": "The list items have no inline citations.",
+                    "reasoning": "The section lacks inline citations for any potential specifics in the links, failing the requirement.",
+                    "overlap_notes": "Not much overlap due to the distinct nature of external links."
+                },
+                {
+                    "requirement_id": "R12",
+                    "applicable": false,
+                    "applicability_reasoning": "This requirement is about challenged statements, not applicable as the external links section is not involving potentially contentious facts.",
+                    "overlap_notes": "Not applicable in the context of external links."
+                }
+            ],
+            "meta_notes": "The section fails to include any citations at all. Citations should be implemented as inline where applicable and also when adding external data links to justify inclusion."
+        }
+    ]
+}

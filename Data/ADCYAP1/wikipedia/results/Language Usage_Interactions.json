@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Interactions",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "The section contains gene abbreviations, which should follow HUGO Gene Nomenclature Committee guidelines.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "Gene names like PACAP and VIP are not italicized as per the guidelines.",
+                    "reasoning": "There is no adherence to the guideline of italicizing gene names.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "The section mentions gene names, and it is recommended to use abbreviations.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Gene names are presented as abbreviations like PACAP and VIP.",
+                    "reasoning": "Complete adherence is observed, as abbreviations are used throughout.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistent language must be used throughout the section, either American or British English.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The language in the section is consistent.",
+                    "reasoning": "The section adheres to the guidelines for consistent language usage.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "Encyclopedic tone should be maintained by avoiding first-person language.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "There is no use of first-person language in the content.",
+                    "reasoning": "The section maintains an encyclopedic tone with no first-person language.",
+                    "overlap_notes": "No significant overlaps detected."
+                }
+            ],
+            "meta_notes": "The section is informative but lacks adherence to gene nomenclature guidelines regarding italicization."
+        }
+    ]
+}

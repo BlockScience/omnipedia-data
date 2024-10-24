@@ -1,0 +1,40 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because gene symbols are mentioned, which need to be italicized.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The gene symbol 'AGK' is not italicized.",
+                    "reasoning": "There is no adherence to italicizing the gene symbol as required by the guideline.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistent formatting for section headers is required.",
+                    "score": 0.5,
+                    "confidence": 0.85,
+                    "evidence": "The section header 'External links' adheres to a format but consistency throughout the article context is inferred rather than observed.",
+                    "reasoning": "Partial adherence due to lack of visible context consistency within the section itself.",
+                    "overlap_notes": "No overlaps observed for header formatting within the section."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "Bullet points are used for listing the external link, aligning with best practices.",
+                    "score": 1.0,
+                    "confidence": 1.0,
+                    "evidence": "A bullet point is used for the UCSC gene info link.",
+                    "reasoning": "Complete adherence as the bullet list improves readability and follows guidelines.",
+                    "overlap_notes": "No overlaps with any other list usage detected."
+                }
+            ],
+            "meta_notes": "This section uses bullet points effectively. However, there's an absence of italicization for gene symbols."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "Overview",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "R1 is not applicable as there are no diagrams present in the overview section, which focuses only on textual information about the AGK gene."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": false,
+                    "applicability_reasoning": "R2 is also not applicable because there are no diagrams discussed in the overview section where expansions to the standardised formatting would be considered."
+                }
+            ],
+            "meta_notes": "The section provides a comprehensive textual summary of the AGK gene's function and significance without the inclusion of diagrams."
+        }
+    ]
+}

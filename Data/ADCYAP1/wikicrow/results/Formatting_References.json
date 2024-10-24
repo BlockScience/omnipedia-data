@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "References",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because gene symbols need to be formatted with italics according to scientific standards.",
+                    "score": 0.0,
+                    "confidence": 0.95,
+                    "evidence": "Gene symbols such as 'adcyap1' and 'gnrh' are not italicized in the section.",
+                    "reasoning": "The section does not adhere to the requirement as the gene symbols are not formatted in italics.",
+                    "overlap_notes": "No overlaps detected related to gene symbol formatting."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable to maintain consistency in section header formatting throughout the article.",
+                    "score": 1.0,
+                    "confidence": 1.0,
+                    "evidence": "The section header 'References' is formatted consistently with the use of title casing.",
+                    "reasoning": "The section fully meets the requirement as the header format is consistent with others in the article.",
+                    "overlap_notes": "No overlaps in this area."
+                }
+            ],
+            "meta_notes": "The references section has consistent header formatting but lacks italicization of gene symbols."
+        }
+    ]
+}

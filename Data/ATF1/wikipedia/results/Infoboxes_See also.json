@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "title": "See also",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R10",
+          "applicable": false,
+          "applicability_reasoning": "The 'See also' section is not an infobox, so the requirement regarding placement of less useful infoboxes at the end of an article is not applicable here."
+        },
+        {
+          "requirement_id": "R11",
+          "applicable": false,
+          "applicability_reasoning": "Since the section does not involve an infobox or a table, this requirement about avoiding collapsing tables is not applicable."
+        }
+      ],
+      "meta_notes": "The 'See also' section is not directly affected by the requirements focused on infobox usage, as it primarily operates as a navigational aid rather than a content container."
+    }
+  ]
+}

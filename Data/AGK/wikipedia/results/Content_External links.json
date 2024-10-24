@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "External links",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": false,
+                    "applicability_reasoning": "This requirement pertains to the lead section which is not applicable to the External links section.",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Applies to ensure external links are used appropriately to supplement article content.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section provides a single relevant external link to the UCSC Gene database consistent with Wikipedia's guidelines for external links.",
+                    "reasoning": "The link is suitable as it leads to a recognized database relevant to the gene discussed in the article, fully adhering to common practice.",
+                    "overlap_notes": "No significant overlaps detected in this section."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": false,
+                    "applicability_reasoning": "Neutral point of view applicability is limited as this section consists only of an external link.",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": false,
+                    "applicability_reasoning": "The requirement of ensuring verifiable statements does not directly apply to an external links section.",
+                    "score": null,
+                    "confidence": null,
+                    "evidence": null,
+                    "reasoning": null,
+                    "overlap_notes": null
+                }
+            ],
+            "meta_notes": "The section effectively links to a relevant external site providing further information on the gene, adhering to best practices for using external content."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Myosin",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "R4 specifies italics for gene symbols, but the section's content doesn't explicitly mention gene symbols, so it isn't applicable.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": false,
+                    "applicability_reasoning": "This section doesn't contain an infobox nor a gene/protein article template, so R5 isn't applicable.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "R6 applies as the logical order of sections needs to be maintained.",
+                    "score": 0.5,
+                    "confidence": 0.75,
+                    "evidence": "The section seems to focus on binding partners but doesn't fully separate the overview from detailed function and organization.",
+                    "reasoning": "Partial adherence; while some logical ordering is present, it could be improved by more clearly separating introductory context and specific interactions.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "This requirement relates to gene symbols, which are not the focus of this section.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": false,
+                    "applicability_reasoning": "R7 is not applicable as there are no lists or points needing bullet formatting within the section content.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": false,
+                    "applicability_reasoning": "There are no images in this section to apply R8.",
+                    "overlap_notes": "No significant overlaps detected."
+                }
+            ],
+            "meta_notes": "The section covers binding partners well but could improve by clearer structural organization within sub-sections."
+        }
+    ]
+}

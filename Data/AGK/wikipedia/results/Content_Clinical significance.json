@@ -1,0 +1,50 @@
+{
+  "sections": [
+    {
+      "title": "Clinical significance",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "Always applicable for gene/protein articles to list diseases or conditions associated with gene mutations.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The section lists cataract development, Sengers syndrome, vascular strokes, lactic acidosis, cardiomyopathy, cataracts, and respiratory chain dysfunction as associated with AGK mutations.",
+          "reasoning": "The section comprehensively lists relevant diseases and conditions related to AGK gene mutations.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Applicable for content sections where studies are cited to explain clinical significance.",
+          "score": 0.75,
+          "confidence": 0.85,
+          "evidence": "The section explains the role of AGK in cancer and its effects on cellular pathways.",
+          "reasoning": "While the section provides good explanations, some more details from cited studies could enhance clarity.",
+          "overlap_notes": "No overlaps found."
+        },
+        {
+          "requirement_id": "R5",
+          "applicable": true,
+          "applicability_reasoning": "Verifiability is crucial for the credibility of information presented in scientific articles.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "All claims are backed by citations from peer-reviewed journals.",
+          "reasoning": "The section meets verifiability requirements by providing reliable sources for all significant claims.",
+          "overlap_notes": "Cited sources correctly support the content."
+        },
+        {
+          "requirement_id": "R3",
+          "applicable": true,
+          "applicability_reasoning": "Neutral point of view is essential for maintaining objectivity in scientific writing.",
+          "score": 1.0,
+          "confidence": 0.90,
+          "evidence": "The section remains factual and does not express opinions.",
+          "reasoning": "The language is neutral and focuses on factual information.",
+          "overlap_notes": "No subjective language was detected."
+        }
+      ],
+      "meta_notes": "The 'Clinical significance' section is well-written, providing a detailed overview of AGK's roles in various conditions while maintaining neutrality and verifiability."
+    }
+  ]
+}

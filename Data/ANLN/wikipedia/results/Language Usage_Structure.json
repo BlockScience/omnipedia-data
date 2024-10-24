@@ -1,0 +1,80 @@
+{
+    "sections": [
+        {
+            "title": "Structure",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because the section discusses gene structure and usage.",
+                    "score": 0.5,
+                    "confidence": 0.8,
+                    "evidence": "Gene names are italicized, but not all abbreviations are according to HUGO guidelines.",
+                    "reasoning": "Partial adherence; some gene abbreviations follow guidelines, but others don't.",
+                    "overlap_notes": "No overlaps in this section."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Relevant due to frequent mention of full names and abbreviations.",
+                    "score": 0.5,
+                    "confidence": 0.75,
+                    "evidence": "Full names are used alongside abbreviations inconsistently.",
+                    "reasoning": "Partial adherence; the section uses both full names and abbreviations inconsistently.",
+                    "overlap_notes": "No overlaps specific to this requirement."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "Applies because there are mentions of human gene names.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Human gene names are in all capitals.",
+                    "reasoning": "Strong adherence with some potential improvements in capitalized usage.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Applies to orthologous genes from non-human species.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "Ortholog names partially follow capitalization standards.",
+                    "reasoning": "Strong adherence; some ortholog names require correction.",
+                    "overlap_notes": "No overlaps specific to this requirement."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "The section includes protein names.",
+                    "score": 0.75,
+                    "confidence": 0.8,
+                    "evidence": "Protein names mostly have the first letter capitalized.",
+                    "reasoning": "Strong adherence with minor errors in capitalization of protein names.",
+                    "overlap_notes": "No overlap noted for protein names."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "Scientific names are used within the section.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Scientific names are consistently italicized.",
+                    "reasoning": "Complete adherence as all scientific names follow italicization standards.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "The section must maintain consistent language usage.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "Consistent use of language variants noted.",
+                    "reasoning": "Complete adherence with consistent language usage.",
+                    "overlap_notes": "No overlaps specific to language usage."
+                }
+            ],
+            "meta_notes": "The section is well-composed regarding gene and protein naming conventions, with minor errors in abbreviation use. The scientific names are correctly formatted."
+        }
+    ]
+}

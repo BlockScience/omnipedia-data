@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "title": "See also",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": false,
+          "applicability_reasoning": "The 'See also' section typically contains links to related articles and does not include diagrams that require standard formatting."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": false,
+          "applicability_reasoning": "The 'See also' section consists of text-based links and does not feature diagrams that would need guidance on standardized formatting. Thus, it doesn't require suggesting expansion."
+        }
+      ],
+      "meta_notes": "The 'See also' section effectively links to related topics without needing formatting or content-based guidelines applied to diagrams."
+    }
+  ]
+}

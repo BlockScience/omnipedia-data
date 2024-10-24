@@ -1,0 +1,22 @@
+{
+  "sections": [
+    {
+      "title": "Clinical significance",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": false,
+          "applicability_reasoning": "The section does not include diagrams, so diagram formatting requirements are not applicable.",
+          "overlap_notes": "No diagrams present in this section."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": false,
+          "applicability_reasoning": "This section does not contain diagrams or images, so suggestions for standard formatting are not relevant.",
+          "overlap_notes": "Not applicable due to absence of images."
+        }
+      ],
+      "meta_notes": "This section focuses on gene fusions relevant to clinical conditions and does not involve diagrams, hence imaging requirements are not applicable."
+    }
+  ]
+}

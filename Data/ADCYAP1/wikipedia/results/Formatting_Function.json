@@ -1,0 +1,50 @@
+{
+    "sections": [
+        {
+            "title": "Function",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene symbols should be italicized throughout the article to maintain consistency and clarity.",
+                    "score": 0.0,
+                    "confidence": 1.0,
+                    "evidence": "Gene symbols like 'adenylate cyclase' are not italicized.",
+                    "reasoning": "The content does not adhere to the requirement as all gene symbols lack italics.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "Section headers should follow consistent formatting throughout the article.",
+                    "score": 1.0,
+                    "confidence": 1.0,
+                    "evidence": "Section headers appear to be formatted consistently.",
+                    "reasoning": "The section adheres fully to this formatting requirement.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "This section defines the function, fitting into the logical structure of a scientific article.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "The section introduces functional aspects of the gene in detail following an introductory narration.",
+                    "reasoning": "The section mostly adheres but lacks references to structural hierarchy before function.",
+                    "overlap_notes": "Content builds on introductory references without overlap."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "Headings and subheadings must follow a consistent format for clarity and organization.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "Subsection 'Headache Disorders' follows a clear and consistent heading format.",
+                    "reasoning": "Generally maintains consistent heading format, with minor deviations in sub-subsection handling.",
+                    "overlap_notes": "No redundant overlaps detected."
+                }
+            ],
+            "meta_notes": "The section is informative but could improve by adhering to italicization of gene symbols and enhancing logical flow by formally structuring hierarchy elements."
+        }
+    ]
+}

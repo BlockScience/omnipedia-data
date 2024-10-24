@@ -1,0 +1,40 @@
+{
+    "sections": [
+        {
+            "title": "Function",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R6",
+                    "applicable": true,
+                    "applicability_reasoning": "R6 is applicable because this is a gene/protein article, and an infobox should be included to summarize key facts.",
+                    "score": 0.0,
+                    "confidence": 0.90,
+                    "evidence": "No infobox is present in the section.",
+                    "reasoning": "There is a complete absence of an infobox, thus failing to adhere to the best practice of including one.",
+                    "overlap_notes": "No overlaps as there is no infobox present."
+                },
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "R1 is applicable because it mandates the presence of an infobox at the top of gene/protein articles.",
+                    "score": 0.0,
+                    "confidence": 0.92,
+                    "evidence": "The section lacks an infobox at the top of the article.",
+                    "reasoning": "The requirement is not met due to the absence of any infobox in the section.",
+                    "overlap_notes": "No overlaps as there is no infobox present."
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "R7 is applicable as the article discusses an enzyme, and an infobox should be added based on the EC number.",
+                    "score": 0.0,
+                    "confidence": 0.88,
+                    "evidence": "No infobox enzyme is provided, even though the section describes enzyme functions.",
+                    "reasoning": "The content does not include an enzyme infobox, missing a structural element of such articles.",
+                    "overlap_notes": "No overlapping content noted due to the absence of an infobox."
+                }
+            ],
+            "meta_notes": "The section adequately describes enzyme functions but lacks necessary infobox elements, reducing its adherence to best practices and standards."
+        }
+    ]
+}

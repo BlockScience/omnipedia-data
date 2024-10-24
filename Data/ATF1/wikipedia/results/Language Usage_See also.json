@@ -1,0 +1,20 @@
+{
+    "sections": [
+        {
+            "title": "See also",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable because consistent use of English is necessary throughout the article.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Only a list of terms are present, no language inconsistencies.",
+                    "reasoning": "As the section contains only a list title, there is no opportunity for inconsistency in the use of American or British English.",
+                    "overlap_notes": "No overlaps detected due to the limited content."
+                }
+            ],
+            "meta_notes": "This section contains only a single list item, minimizing language usage concerns."
+        }
+    ]
+}

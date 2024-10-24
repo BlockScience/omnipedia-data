@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "Structure",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as the article focuses on a specific protein, a key subject in need of summarization through an infobox.",
+                    "score": 0.25,
+                    "confidence": 0.60,
+                    "evidence": "The section lacks an infobox summarizing key protein details.",
+                    "reasoning": "Minimal adherence due to the complete absence of an infobox, which is essential for summarizing the key facts about the protein.",
+                    "overlap_notes": "No overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "Applicable as the AGK protein discussed is a human ortholog.",
+                    "score": 0.0,
+                    "confidence": 0.70,
+                    "evidence": "There's no mention of an Infobox GNF protein in the section.",
+                    "reasoning": "No adherence as the section fails to include an appropriate infobox for the human ortholog of the AGK protein.",
+                    "overlap_notes": "No overlaps detected."
+                }
+            ],
+            "meta_notes": "The section provides a detailed description of the AGK protein's structure but lacks any infobox summarization, which is crucial for clarity and quick reference."
+        }
+    ]
+}

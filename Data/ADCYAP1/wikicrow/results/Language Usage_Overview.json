@@ -1,0 +1,88 @@
+{
+    "sections": [
+        {
+            "title": "Overview",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene abbreviations are relevant for the overview section as it discusses ADCYAP1.",
+                    "score": 0.75,
+                    "confidence": 0.90,
+                    "evidence": "Gene abbreviations like ADCYAP1 and PACAP are used but not italicized.",
+                    "reasoning": "The section uses gene abbreviations correctly but misses italicization.",
+                    "overlap_notes": "No significant overlaps detected."
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "The usage of gene abbreviations is pertinent to this section as it introduces key gene-related information.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The gene abbreviation PACAP is used instead of the full name.",
+                    "reasoning": "The section consistently uses abbreviations where applicable, adhering fully to the recommendation.",
+                    "overlap_notes": "No overlaps in gene abbreviation usage."
+                },
+                {
+                    "requirement_id": "R3",
+                    "applicable": true,
+                    "applicability_reasoning": "The gene being discussed is a human gene, making capitalized naming relevant.",
+                    "score": 0.5,
+                    "confidence": 0.80,
+                    "evidence": "ADCYAP1 is properly capitalized but non-human gene nomenclature is not relevant here.",
+                    "reasoning": "Some genes are correctly capitalized, however, protein abbreviations should also follow the format.",
+                    "overlap_notes": "No overlaps affecting content."
+                },
+                {
+                    "requirement_id": "R4",
+                    "applicable": false,
+                    "applicability_reasoning": "This section focuses on human genes; orthologs in other species are not discussed.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R5",
+                    "applicable": true,
+                    "applicability_reasoning": "Pertinent to this section for correctly phrasing gene descriptions.",
+                    "score": 0.75,
+                    "confidence": 0.85,
+                    "evidence": "The section uses phrases like 'the gene and its protein product' appropriately.",
+                    "reasoning": "The section generally follows best practices but includes some redundancies.",
+                    "overlap_notes": "No significant overlaps affecting language practices."
+                },
+                {
+                    "requirement_id": "R6",
+                    "applicable": false,
+                    "applicability_reasoning": "The section doesn't reference non-human genes.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": false,
+                    "applicability_reasoning": "Scientific names are not used in this overview context.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Consistency in English language usage is relevant to overall writing quality.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The text consistently employs American English.",
+                    "reasoning": "Language consistency is maintained fully, meeting the best practices criteria.",
+                    "overlap_notes": "No language overlaps found."
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "The section should avoid first-person language to maintain an academic tone.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "First-person language is absent, maintaining an encyclopedic tone.",
+                    "reasoning": "Complete adherence as it avoids first-person altogether.",
+                    "overlap_notes": "No overlap issues with writing tone."
+                }
+            ],
+            "meta_notes": "The section is well-structured, with minor improvements needed in gene italicization and redundancy avoidance."
+        }
+    ]
+}

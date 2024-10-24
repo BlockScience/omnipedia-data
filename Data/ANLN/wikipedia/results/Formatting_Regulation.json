@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "title": "Regulation",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as gene symbols should be italicized when mentioned in the content for clarity and standard adherence.",
+          "score": 0.75,
+          "confidence": 0.85,
+          "evidence": "Gene symbol 'Drosophila' is italicized, however, other potential gene symbols such as 'C. elegans' are not consistently italicized.",
+          "reasoning": "There is partial adherence, indicating a strong attempt to italicize gene symbols, but inconsistency remains.",
+          "overlap_notes": "No significant overlaps detected for this formatting requirement."
+        },
+        {
+          "requirement_id": "R4",
+          "applicable": true,
+          "applicability_reasoning": "Applicable to section header formatting throughout the article to maintain consistent presentation.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The section header 'Regulation' follows the same capitalization and format style as other sections.",
+          "reasoning": "The section header adheres to the formatting requirement ensuring consistency in style.",
+          "overlap_notes": "No overlaps detected related to header formatting."
+        },
+        {
+          "requirement_id": "R6",
+          "applicable": true,
+          "applicability_reasoning": "Sections should be logically ordered to aid reader comprehension; this section falls within the logical framework.",
+          "score": 0.75,
+          "confidence": 0.80,
+          "evidence": "The section is positioned under 'Introduction > Regulation', which is appropriate but could be clarified further with context.",
+          "reasoning": "While the section performs its intended function, further elaboration could improve understandability.",
+          "overlap_notes": "Related to other introductory sections but maintains a distinct focus on regulation."
+        }
+      ],
+      "meta_notes": "The Regulation section maintains the requisite focus and functional clarity but shows minor deviations in formatting consistency, specifically in gene symbol italics."
+    }
+  ]
+}

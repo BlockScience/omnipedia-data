@@ -1,0 +1,60 @@
+{
+  "sections": [
+    {
+      "title": "Further reading",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": false,
+          "applicability_reasoning": "This section contains citations only and does not include gene abbreviations or names."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": false,
+          "applicability_reasoning": "This section lists journal references and does not concern using gene abbreviations over full names."
+        },
+        {
+          "requirement_id": "R3",
+          "applicable": false,
+          "applicability_reasoning": "There are no human gene names mentioned, as this section is focused on citations."
+        },
+        {
+          "requirement_id": "R4",
+          "applicable": false,
+          "applicability_reasoning": "There are no orthologs of human genes in other species mentioned in this section."
+        },
+        {
+          "requirement_id": "R5",
+          "applicable": false,
+          "applicability_reasoning": "There are no sentences where the usage of gene symbols is discussed; the section contains only citations."
+        },
+        {
+          "requirement_id": "R6",
+          "applicable": false,
+          "applicability_reasoning": "There are no references to non-human genes or any gene narratives included in this section."
+        },
+        {
+          "requirement_id": "R9",
+          "applicable": true,
+          "applicability_reasoning": "The section should maintain consistency in language usage, particularly in the citations.",
+          "score": 0.75,
+          "confidence": 0.85,
+          "evidence": "The references appear consistent in using American English formatting in journal titles and dates.",
+          "reasoning": "Strong adherence overall, but slight inconsistencies in date formatting were noted.",
+          "overlap_notes": "No significant overlaps with other sections."
+        },
+        {
+          "requirement_id": "R10",
+          "applicable": false,
+          "applicability_reasoning": "The section only contains citations and does not involve any narrative that would be affected by the use of first-person language."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": false,
+          "applicability_reasoning": "The section does not include scientific names or descriptions that require italics."
+        }
+      ],
+      "meta_notes": "This 'Further reading' section is primarily composed of structured citations and adherence to other requirements is not applicable. Consistent language usage was mostly observed."
+    }
+  ]
+}
