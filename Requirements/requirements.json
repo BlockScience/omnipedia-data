@@ -1,5 +1,5 @@
-[
-  {
+{
+  "groups": {
     "Content": {
       "description": "Requirements related to the substantive content of the articles.",
       "requirements": [
@@ -990,4 +990,4 @@
       ]
     }
   }
-]
+}
